@@ -101,24 +101,24 @@ const titleForRun = (run) => {
   const runDistance = run.distance / 1000;
   const runHour = +run.start_date_local.slice(11, 13);
   if (runDistance > 20 && runDistance < 40) {
-    return '跑了个半马';
+    return 'Half Marathon';
   }
   if (runDistance >= 40) {
-    return '跑了个全马';
+    return 'Full Marathon';
   }
-  if (runHour >= 0 && runHour <= 8) {
-    return '清晨跑步';
+  if (runHour >= 0 && runHour <= 11) {
+    return 'Morning Run';
   }
-  if (runHour > 8 && runHour <= 12) {
-    return '上午跑步';
+  if (runHour > 11 && runHour <= 13) {
+    return 'Lunch Run';
   }
-  if (runHour > 12 && runHour <= 18) {
-    return '午后跑步';
+  if (runHour > 13 && runHour <= 18) {
+    return 'Afternoon Run';
   }
   if (runHour > 18 && runHour <= 21) {
-    return '傍晚跑步';
+    return 'Evening Run';
   }
-  return '夜晚跑步';
+  return 'Night Run';
 };
 
 const applyToArray = (func, array) => func.apply(Math, array);

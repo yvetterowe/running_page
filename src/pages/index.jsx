@@ -210,9 +210,7 @@ const YearsStat = ({ runs, year, onClick }) => {
     <div className="fl w-100 w-30-l pb5 pr5-l">
       <section className="pb4" style={{ paddingBottom: '0rem' }}>
         <p>
-          我用 App 记录自己跑步{yearsArr.length}年了，下面列表展示的是
-          {year}
-          的数据
+          My running journal for {yearsArr.length} years.
           <br />
         </p>
       </section>
@@ -280,7 +278,7 @@ const YearStat = ({ runs, year, onClick }) => {
   return (
     <div style={{ cursor: 'pointer' }} onClick={() => onClick(year)}>
       <section>
-        <Stat value={year} description=" 跑步旅程" />
+        <Stat value={year} description=" Year" />
         <Stat value={runs.length} description=" Runs" />
         <Stat value={sumDistance} description=" KM" />
         <Stat value={avgPace} description=" Avg Pace" />
