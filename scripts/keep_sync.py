@@ -86,6 +86,9 @@ def parse_raw_data_to_nametuple(run_data, old_gpx_ids, with_download_gpx=False):
     keep_id = run_data["id"].split("_")[1]
 
     start_time = run_data["startTime"]
+    genre = run_data.get("vendor", {}).get("genre", "")
+    source = run_data.get("vendor", {}).get("source", "")
+    print(f"source: {source} genre: {genre}")
     if run_data.get("vendor", {}).get("genre", "") == "KeepApp" and run_data.get(
         "rawDataURL"
     ):
