@@ -1,9 +1,5 @@
 @import "../styles/variables.scss";
 
-$nike: rgb(224, 237, 94);
-$light: rgb(204, 204, 204);
-$dark: rgb(26, 26, 26);
-
 .body {
   background-color: $dark;
   color: $nike;
@@ -39,6 +35,22 @@ $dark: rgb(26, 26, 26);
   width: 100%;
   min-width: 700px;
   margin: 1rem 0 0;
+}
+
+.locationSVG {
+  height: 100%;
+  width:  100%;
+  margin: 1rem 0 0;
+  border: 0;
+  padding: 0;
+}
+
+.yearSVG {
+  height: 65%;
+  width:  65%;
+  margin: 1rem 0 0;
+  border: 0;
+  padding: 0;
 }
 
 .runRow {
