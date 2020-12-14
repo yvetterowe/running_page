@@ -1804,6 +1804,34 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.216,
     "streak": 2
+  },
+  {
+    "run_id": 4468935296,
+    "name": "Afternoon Run",
+    "distance": 6281.7,
+    "moving_time": "0:45:04",
+    "type": "Run",
+    "start_date": "2020-12-11 03:25:25+00:00",
+    "start_date_local": "2020-12-10 17:25:25",
+    "location_country": "Allure Waikiki, 1837, Kal\u0101kaua Avenue, McCully, Honolulu, Honolulu County, Hawaii, 96815, United States",
+    "summary_polyline": "kw|`Cd`jb]@EWEYL]EQHU@KDUIW?OIEh@IBALWZg@XUHQEIJI\\?Jf@t@Dh@LNJb@DHBHEDOJSH?NFR\\j@HTDJGLHPTDBPHHPjAETOX@DFTVNGBDNCHL`@?PH\\AXFVFp@@DJDH@@CC@JPEP?^J~@GLED?FSBQVHFLR@NFFA@CGIAMBUDQLG@OZe@ZQFCLQZCVFZCRZrAp@@LE`@TJLPLTl@TTPd@PZBNAHFRJJBJVXHPIn@Sx@E\\N^FHAFO^AFFHJDJ@PH`@?RJPBt@ZXFP?v@RJAVDVJ@DdARVVTDl@BJCZ?VLh@@THl@FLHTBVLV@LFn@^RZ@JFBb@@jACNLGJi@Fi@R[ZCFSTIRGVO\\C^GZGH?XEL?f@Bb@DL?VGNPl@@JIDI@YCc@B[Cq@YYs@GEYESG_@o@g@_@MQIGUa@AY@q@MSAKKKYO[NJ]MUY[EYEGYQCFc@KSQo@Ga@?UH{ALSHMBm@Ge@IEEGJYvAOb@KPANGTNTUb@I`@OT?JI`@EJ?JITE\\M`@APK`@MTCV@La@rBGJEPSnAARHEDO@k@R]?IJk@C_@@DJ]He@BGHm@P_@Hk@JOCM@MTe@DWJ]@OLe@@WBGF[JS@YVaA@YLQHUHEH@HHd@NRA~@YVAFELCp@CV@TFV@lAf@Xt@l@d@LNRNDJHRFf@CFDb@DRTTXF^PJRD@Rb@RHR@HN@JN^JHf@NT@nAQJG@EKYKkAI_@JaBJUBKJ]JQDQAEVg@j@e@v@]PGBOGGiBJKCGKAUOO[Ma@GOKUGgAOa@KKGi@CQIUEk@@IEIGe@Ok@Ia@CSI[GgA]MGEG]IIGG?]Oy@Ck@SG@GC?ENo@?GCIQGCMJMBM?a@N{@CWKSCMQi@MQMa@MSES_@w@GCUa@YYW?SI[}BLc@NWVSDI`Ag@h@OBG?EGWCQ?OEQD[?]M]Ek@CIAYOq@CUAa@EG?[EGESIKEe@KY?[Ic@?w@MYEm@Ig@OO?MJ]Oe@BWQ[?a@EUBKDq@Ee@",
+    "average_heartrate": null,
+    "average_speed": 2.323,
+    "streak": 1
+  },
+  {
+    "run_id": 4468935282,
+    "name": "Morning Run",
+    "distance": 5323.5,
+    "moving_time": "0:38:11",
+    "type": "Run",
+    "start_date": "2020-12-13 18:38:52+00:00",
+    "start_date_local": "2020-12-13 08:38:52",
+    "location_country": "Ala Wai Boulevard, McCully, Honolulu, Honolulu County, Hawaii, 96826, United States",
+    "summary_polyline": "c}|`Cbajb]F]Dw@DS?WRuALQDOLIP_@TG^BLWFCDGBIJGDGBMX_@RKPYLGXEFGDGBOP[?MNKVi@DANe@NMNW^U\\q@NKBMLINWZSFOHEBGLK@ELCHQPOJWPKRW\\[FOXOHMZ_@JE\\]TOPe@HGLg@p@c@HM@KzAoAXq@V[JUZU@IJGHCJMHEJa@PONEFEPINQ`@W@OPQVc@DEJCHMN]Zi@PSf@]d@a@Vs@RYFQDEBMr@o@DMNMHQFALIJSRSNYX]ZW^MLOPKRo@Vg@`@WZq@JSNMFOv@o@XMV[PG\\q@?CRe@NWf@c@b@g@JGBKTIL_@NW\\YHOFWp@q@JSPMZ[b@YFULSFE^u@r@s@VMPQd@i@PIRWJY^k@HWd@k@HUCAf@?NONINCR?PEH?VILANKZFDBRj@Jl@L^@N`@vAJl@HHBVd@lA\\zAD@FLDd@LTDXL\\Hd@Hn@?VDDGVFRAb@@^BH?PHH?FGL?JFXNNDLARH^IPAjACFF\\JJDNEFQ?EBK?YGK?IBKCW?SXe@TGHQLSF_@b@IBG?KF[?UXMDc@A[FIPWNq@Hy@XSPSZc@ZE?UFOAKFOAGBw@lA]@UNWh@_@^EPONILI^[^KT_@j@o@x@YRILG@q@~@?DGDMF?BsJ_IIKIWWa@IUQKCGSKWa@@KGGIIYCc@SI@KDI?KUM?GJOJaAjAQNi@z@s@r@GPULAFWZQLORWVGB]f@GFEFc@j@GBORMJS^GBONEL_@`@ENSNSTEFAVi@\\GJ}@z@g@t@I?STQNOPITUZIR]PIJGLOLQZ[TEJIDiAhBYVU\\e@b@IPMASb@c@j@[\\E@CJq@t@QZ]`@EJ",
+    "average_heartrate": 152.0,
+    "average_speed": 2.324,
+    "streak": 1
   }
 ];
 
