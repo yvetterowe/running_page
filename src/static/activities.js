@@ -1860,6 +1860,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.17,
     "streak": 1
+  },
+  {
+    "run_id": 4556528402,
+    "name": "Morning Run",
+    "distance": 1794.6,
+    "moving_time": "0:15:16",
+    "type": "Run",
+    "start_date": "2021-01-02 19:53:50+00:00",
+    "start_date_local": "2021-01-02 09:53:50",
+    "location_country": "Ala Moana Park Drive, Ala Moana, Honolulu, Honolulu County, Hawaii, 96841, United States",
+    "summary_polyline": "ku|`Cnjlb]}@~@c@\\WXi@^Wb@E@[r@GDIVGDOd@GXMZKN[x@BFDB?EOLCH?JCPWl@I^M`@Ij@CHAN]hB@JMP?RMd@ARKTQpA?EGXGx@Mr@MhA@BQdAIT?HEPSVSh@S\\KZEZIF@@EJNk@HGD]HSJo@JW@MFGPIJcA?Q@C?OPw@@]Xw@Dc@AOBKDE@QHOPcAFOD_@Lc@Fm@L_@Hm@Vw@BYt@sBNg@@MFMDOJWAS@EAEFWBCTs@Hc@LSFYFO`@c@@QHKNSLELKb@q@PIBEF?HM",
+    "average_heartrate": null,
+    "average_speed": 1.959,
+    "streak": 2
   }
 ];
 
