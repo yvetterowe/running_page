@@ -1902,6 +1902,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.62,
     "streak": 1
+  },
+  {
+    "run_id": 4689401599,
+    "name": "Morning Run",
+    "distance": 6303.0,
+    "moving_time": "0:48:38",
+    "type": "Run",
+    "start_date": "2021-01-27 12:47:30+00:00",
+    "start_date_local": "2021-01-27 07:47:30",
+    "location_country": "497, East 14th Street, Stuy Town, Manhattan Community Board 6, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "}drwF`ipbMTVZoABADQ\\c@D]JYFCCEAU@CDDCOl@{@Rg@@a@BQIi@h@_AHEHONg@DK?WZa@HQHe@Rg@XsADKHIHQBa@Zs@AQIQKEBYCIGIc@WUYeBeAo@WKQk@Wg@a@]_@OC]QQQGCIIe@[OE?CE?CLYNC?_@^u@eA[Sa@Fe@?IBMRYF_@IUBKFOTGB[GS?E@IFCFMKw@PW?WBYXKBe@@ILAJGLa@LY?MBDDb@MP?N]RUT?^Ed@S`@C\\MTEr@?RAR@JMAIA@j@Mb@Bd@WXCVGVAf@JFCP?|@}@RMj@g@DIPOz@mAJWf@u@Re@^SFATOLEl@_@TK`AMz@?b@DtAN`A\\R@LFZZn@HLGXCNBLCTBJC`@BXLVFLHJAPDX?JITCd@FJDZF`@YHAh@Hv@DzBZl@T^Br@NdAFj@P\\@x@TVDj@BnAXrBVl@DzB\\T@n@TxP~DNAN@p@PJ@bA^XPRHRBHCv@Pl@h@ZL@Ga@Mm@[i@MUAkAe@_AQMKGC{@QQGSAKIUCWM_@Ka@IYKeCa@m@U_@KGC?C]?_@Gw@]w@Mm@CyBg@k@EcB]{@Im@K[Ak@Q{BU]K_@@e@ISKa@Iu@Ic@KQ?UEm@Em@KgA?SHO?k@UI?MEKAEDQDMCIEUCe@KcABYKYCi@Li@CeAc@SMIASKgBYq@ES?S@sARGFMBG?GDQFUNSJc@\\c@n@[t@QVi@h@MRmAtAYJQRKDAFKJAPHL@AGWMCWLO?KCUDSJUCUR[?YN{@JGDIp@FXAVDFEBe@t@AXKXEFETAFRRBTFDGFEj@_@`@@Je@\\?b@KVCR@H]pA?HGX?NGZM^AXIP?REFC?_@HQ\\EVIJAHIJK@?NMLAHBb@Oj@?ZGN?JMZOL?HBNKRTNPRD?RL\\XN\\j@Zl@n@XJN@b@JVLHLNJNJHA\\XLBl@bAn@VVLF?JH@DX\\@H",
+    "average_heartrate": null,
+    "average_speed": 2.16,
+    "streak": 1
   }
 ];
 
