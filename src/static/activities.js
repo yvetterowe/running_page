@@ -1916,6 +1916,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.16,
     "streak": 1
+  },
+  {
+    "run_id": 4695790489,
+    "name": "Lunch Run",
+    "distance": 3092.7,
+    "moving_time": "0:21:46",
+    "type": "Run",
+    "start_date": "2021-01-28 16:56:35+00:00",
+    "start_date_local": "2021-01-28 11:56:35",
+    "location_country": "221, Avenue A, Alphabet City, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "mcrwF~kpbM@LI@RIR`@J\\C\\Fh@AVEPGDEJKHI`@IHS^O\\AHIDU`@GlABHH?FDHB?BAA?BDCH@BDHABBPBRt@IXEd@A??FKNMh@?HONAFEDC?@TCFAf@KVBPELDFA@MZKHEH@DGHIVCB?DNXJHHLLHRFT^DA?`@IVDJVDZPLLBZAZ@n@DPAp@C\\LZCHFB@NABAV@LP\\Dn@?NKVANABAR@NMj@DZHJFb@f@CBFJG@DN@RFPPHEH@Pr@HPRL@HKd@@FNJ?JJDF@NRJ\\?LEJDJPD?DDDJAJ@JGDBPBFBNKFDHPF?NJFCAJBLFBN?BFXV\\EFGXGJKZ@DDZJRLLDLJP?XJJCJIH?DGLAJBJ?JKBITO@HAR?`AF\\@f@MTOL@BTIRWHCNk@HS?GGLGDSIGGEYOO?KKFOIs@CIIMGMMWE_@Bi@EQOWE[YOACCE@KCI@UOCIMACESMCCDHKHE?UE][MCOQKUIKI[EYEE@GEk@Jg@CSBKRi@Ry@BUNa@H_@L_@R]Ha@?OEe@MUAICEYWUMG@MIIMYQEISQAIGCEu@FY@k@HU?WVo@Fe@FIBK?MF[?SHWNY@KDMTM?MFOF_@EEGMEBI?IBCCCWGGOGGGi@IECIAEIIAEGMIIa@EGKBMGQA?BE?ICSSCIEYOQ]@[COKGMI?EISIIe@KWEa@?_@DKBc@J_@AOFIFUBWNs@LQA?D@",
+    "average_heartrate": null,
+    "average_speed": 2.368,
+    "streak": 2
   }
 ];
 
