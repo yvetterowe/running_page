@@ -1930,6 +1930,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.368,
     "streak": 2
+  },
+  {
+    "run_id": 4712516160,
+    "name": "Morning Run",
+    "distance": 1681.4,
+    "moving_time": "0:12:41",
+    "type": "Run",
+    "start_date": "2021-01-31 14:48:45+00:00",
+    "start_date_local": "2021-01-31 09:48:45",
+    "location_country": "4447, Stroudsmoor Road, Stroud Township, Monroe County, Pennsylvania, 18360, United States",
+    "summary_polyline": "i_ayFdc~iMGDGEW}@q@aAe@cAYw@KSGWUe@g@eBSUIQKo@MSSi@s@eCiAaCYy@u@qAeAKc@Ag@KOA_AY_Aa@w@k@Ya@Y[MEm@u@YWc@q@KEMQOIOa@QWIGg@}@qAsAe@s@wBoCSc@U[m@eAOa@IGYk@k@m@IESODJd@ZVZHPR@JD@HNZTV?DATBJh@`Ax@lAXVNZJHLTh@l@Xd@h@h@DH",
+    "average_heartrate": null,
+    "average_speed": 2.209,
+    "streak": 1
   }
 ];
 
