@@ -1944,6 +1944,34 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.209,
     "streak": 1
+  },
+  {
+    "run_id": 4732617273,
+    "name": "Morning Run",
+    "distance": 1214.1,
+    "moving_time": "0:08:12",
+    "type": "Run",
+    "start_date": "2021-02-04 12:35:04+00:00",
+    "start_date_local": "2021-02-04 07:35:04",
+    "location_country": "Dion Cleaners, 444, East 14th Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "{crwFpipbMTUJ]Ca@@u@AGh@m@De@\\i@Jg@JEBe@Pg@DEAe@HWd@EV[BU?SHIFE@SHo@^y@O[@QF[h@gANI@QAMDQJOP_ACYEKo@UGOKECKUKMMk@UaAu@QECIm@S[[OCYYKMKIQWYOKOQGSM?FGUEJULCGELISYQ?GDLJBH?D[TIFG?IDKEMHMNMJSPMFM\\_@PYFOFGHUZg@V[NIFIDATQj@QL]BA",
+    "average_heartrate": null,
+    "average_speed": 2.468,
+    "streak": 1
+  },
+  {
+    "run_id": 4732888012,
+    "name": "Morning Run",
+    "distance": 5305.1,
+    "moving_time": "0:41:49",
+    "type": "Run",
+    "start_date": "2021-02-04 12:53:44+00:00",
+    "start_date_local": "2021-02-04 07:53:44",
+    "location_country": "Stuyvesant Cove Ferry Station, East River Esplanade, Lower East Side, Manhattan Community Board 6, Manhattan, New York County, New York, 10009:10010, United States",
+    "summary_polyline": "akrwFj~nbMYXYHsAP[?MBs@TWLWCUFO@a@Ji@D_APMAy@LQ@Q?MG[WWF]T[`@e@RMASFWIS?WDQ?GCGFTDVCb@NHJU[VFd@Cr@Oh@UPCNUF@PPh@LDk@HGHCHDLBJMVAZGRKJ?x@QFAb@FHC\\C^[VEd@?NEHAHGt@GTMJ@ZFb@Db@V@Jt@JXHr@`@VHj@Vp@l@ZNJJNFLRRLh@RRPf@XNXPDf@VFLMZIHL?@JQj@DVCNQd@EN@HIFINk@xBa@fAKd@[Z[v@@LGD?NCJMHERGFS`A_@r@ENA\\G\\SJMXCXOLEPEDCJCl@EVCf@c@x@QPWbBSt@QTE\\a@p@Oh@?XCH]r@GZc@~@If@QNCR?JENMTObBILCHECQTCh@BFLFX^b@LBN?LJVCBIXBAHJBPOZERGJ@JKHILCNc@r@Mr@?RCBGPK?MJEN?LFJBNTX@FJHHTPJDLRRLFRDL?RHJHPb@\\RFFRFCEKDK?IBELGXWd@IXG\\@TARWVGXKPAAJ@j@Z`@XHHPHXRHRP?FH?NPNTNXHZA`@i@DCDHHFH\\l@HPUPOd@QD@LTD^NDHV^RVBTIFJN?JCZMR?B@NEJODCN@DN\\PNXVDP?XVDJPBFLJANDTCA?Ah@MPEPKNEXM^Et@?NM^CXKB_@?GBOd@?PKTATYr@An@EHIAA@HJOARDJR@RFHFd@R^HC?IFWAFGB@AKS?B_@CIOCQSSSMYGKMU}@QQIA]YAOUWG?IIEKSQQGIIKHQ[SAMOO?[_@GCQ@]SQQEWA]c@MCK[WCWSYM?@POT`@GFWKW@]GIEY@SJ_@j@e@LSPCFSEIPO@GBBDMCk@GC?QFe@Ps@X?Ig@[g@Wi@OP_@QG?SSWOGGMCSKMCEK`@]DOOSq@K_@FS?QCKEKWFu@Lg@PIDYRYFSLS@a@p@qBHa@@S@ERA?OB?AM_@SKCq@u@EA?SI?KEWSYEa@Y_@IGECK@GHAJUFEBo@HCDMAGPYJGL_@TKJUEWGc@FECI@SV[HCNS?GHGCQHG@Q\\ODSAQB]",
+    "average_heartrate": null,
+    "average_speed": 2.114,
+    "streak": 1
   }
 ];
 
