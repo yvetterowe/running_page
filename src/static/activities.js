@@ -1972,6 +1972,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.114,
     "streak": 1
+  },
+  {
+    "run_id": 4744007990,
+    "name": "Morning Run",
+    "distance": 3454.4,
+    "moving_time": "0:25:05",
+    "type": "Run",
+    "start_date": "2021-02-06 13:00:23+00:00",
+    "start_date_local": "2021-02-06 08:00:23",
+    "location_country": "Pro Land, 442, East 14th Street, East Village, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "idrwF`jpbMAA?IRCBGTKCSH{AEWICD[H[N[ROTi@XYFKF]`@gADQh@UDiADGRa@ViAFCJAIm@@KV}@NSL[NE@_@DOL[EQIOP_@KSQKMAQWc@UIMYIq@g@WOKKYMqAeAMJWGWk@gAs@S?e@k@]CB?IQGT^Sg@EGDEJIZBBN\\VDjBaENUJULMr@kAx@_ALGZYf@[l@WH?]ByBnAm@r@_@h@W`@mAfHD?HKNNH?f@RVVb@J`@RZn@DDLBJCv@l@L@RHt@l@PRHF^JLPPDFDBJQTCbAOZCJBNKJALEFCNMHCJCBILGj@IV?HKLUbAQ\\ARGRIHOr@QHMRAF@LIX@Ru@lBKJ?JIDK^GHANGF@PAJOJIt@n@d@f@n@BLR\\E@Y^Q^Cb@@PALQh@?NIJUJGLIj@Yb@IFBLATIb@@NDDHRXLTLDHRHIn@G`AQd@MNCRKJALUl@Al@[h@@LOp@ONCd@Lr@RJ\\v@|@RLP|@b@HHx@ZDF\\z@TV\\T\\l@RFDFH@JPVMx@VHVBRZd@HINa@Lq@@UPe@HKF[TSV]DSJQHm@DOHKDK?MZc@H_@Be@]QIKUIa@e@eAm@OYk@Ue@_@a@QGIMAIKy@k@ICGK]OQEWWKGq@q@OIQY",
+    "average_heartrate": null,
+    "average_speed": 2.295,
+    "streak": 1
   }
 ];
 
