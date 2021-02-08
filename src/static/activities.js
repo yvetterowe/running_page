@@ -1986,6 +1986,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.295,
     "streak": 1
+  },
+  {
+    "run_id": 4751865152,
+    "name": "Morning Run",
+    "distance": 5189.5,
+    "moving_time": "0:44:55",
+    "type": "Run",
+    "start_date": "2021-02-07 14:30:54+00:00",
+    "start_date_local": "2021-02-07 09:30:54",
+    "location_country": "Central Park West & West 96th Street, Central Park Outer Loop, Manhattan, New York County, New York, 10025, United States",
+    "summary_polyline": "}b~wF~dmbMFA?YNUXSf@w@HIXIH@TFr@j@\\LXPLDbAAl@Kl@@N@b@NXPl@r@Pn@Hh@Lh@D\\J\\Dl@v@dBn@~@j@Xl@j@R^LBb@Vb@b@XNd@HfACb@CjCs@XC|@Yt@Bf@FHFNBJJbAn@r@p@JRZTNPlBxDXf@VR\\L|@Tj@G\\Iz@IfATv@`@\\`@PH~@fB\\`@J\\LVt@hAx@~@fBxABJx[lJ`AgAR]L]F{AC]A{@G[A}@PkARo@R_BTq@LgAKi@@CCUAeABWCCo@PUAGCc@?s@[a@]w@k@}@kA[m@Ki@[y@GKe@]IEUAi@D[Fe@Gs@Ya@Ik@U_AO_@Ic@QMK_By@i@]{@u@{@cAi@{@wAkA{@g@q@SOO_@QeBoAsAgAU]Yu@O}@Gk@SgA@m@De@Ha@LkAAw@Ig@I_@a@q@g@g@i@_@AGDSKAiAk@UMMMo@]oAu@kBmAq@_@WKUOSSiBmA_@YmAs@}@u@_@Oe@_@QKoAk@UEoBHa@DSC_A[[CK@eB\\KJSLON_@XWLw@GK@KP_@HQLMRCI?IKEN@C@GCL@OZMn@KNMHGn@A|@B@EBEp@BVCn@Bj@ANKDGCADC@BPA`@E\\c@r@e@f@O^U|@_@h@WPILCH@p@APUbACXMj@G@[X@BQn@ILDGC?MVODICEDABDTCR@xAALGHAL",
+    "average_heartrate": null,
+    "average_speed": 1.926,
+    "streak": 2
   }
 ];
 
