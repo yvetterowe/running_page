@@ -2028,6 +2028,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.752,
     "streak": 1
+  },
+  {
+    "run_id": 4797080120,
+    "name": "Lunch Run",
+    "distance": 6071.9,
+    "moving_time": "0:40:00",
+    "type": "Run",
+    "start_date": "2021-02-16 16:04:34+00:00",
+    "start_date_local": "2021-02-16 11:04:34",
+    "location_country": "1st Avenue, East 14th Street, Stuy Town, Manhattan Community Board 6, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "}drwFxipbM^Mh@oA@OGYHQJe@Ne@LQ^WF{@T]JUB]AMJMHGPYLIPw@JOb@gB?MJSNs@VU@WFQHGDWJU@aANYJG@EGSMESS_@SMMm@QSWGWKASUu@a@[MeAaAc@IUSq@c@MOy@a@QNCJKCGa@GETe@xAeBhAiBv@eARSxBuAxAIhA@LDpALLDJJd@Bb@FPHR`@VJr@Kn@SVH^BFFLDv@L`@BHDr@Kf@RH?JIXId@ATFLAP@THp@BvAPvAZTJh@N\\FHDp@BXF^NN?n@JlBNd@LV@\\PLBPCtA@r@ND?RJd@LN@zAh@N@|@T`@F|@VH?n@PXL^F|@BPDFB\\d@NJVBLAX@r@JpAf@PLNFd@D`@RbABRNXJPNH@PL^h@L\\FFFTh@VDJNJFLJBHJL@PJbAOt@@TFDD\\v@j@JVEVQX@TDjAf@`@Tl@p@^p@H_@qAyAWQy@_@o@SO?WPSH[?WKIICO@]IQIGMEWS{Ac@_Ag@s@YSEc@i@m@_@KKYEQ@YC_@Oa@I]CIGYCc@Q}@QYKiAUqBk@KGg@IMEmAYy@Ka@QiASo@Sq@Kc@?q@OWM]Aw@KeAUm@IMCKIUIs@C_AIsASGEe@EOIy@I}@QYAKE_@Eg@KKEeAMqAWo@AUE_@AI@]TKBUMq@OI@GAKBKCg@?ICy@?iAUIEk@HQLUFIS_@KOQIEUSYOKCIEeAMy@AUBIAgADcARi@ZG@qAtAGNe@r@eAtAMFk@n@k@b@e@b@?p@x@t@D@JMBId@Hh@Xd@FZTJ@RLTTTNFJh@VBD`@LNPLJzAr@RNP\\VHDR@NKFARHPq@lAGTi@d@AJQX@n@GZCJMRWhAMT\\f@HDRVz@r@GPIFMZBVEADPK\\?VWhAEDKAKXGBA\\M^EVICCPILCn@",
+    "average_heartrate": null,
+    "average_speed": 2.53,
+    "streak": 1
   }
 ];
 
