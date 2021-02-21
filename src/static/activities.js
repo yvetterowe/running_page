@@ -2042,6 +2042,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.53,
     "streak": 1
+  },
+  {
+    "run_id": 4819300680,
+    "name": "Lunch Run",
+    "distance": 10082.3,
+    "moving_time": "1:03:04",
+    "type": "Run",
+    "start_date": "2021-02-20 16:41:36+00:00",
+    "start_date_local": "2021-02-20 11:41:36",
+    "location_country": "East Drive, Manhattan, New York County, New York, 10153, United States",
+    "summary_polyline": "ak{wFnsmbMWA[K}AcAq@[i@i@eAgBs@k@k@o@aAk@}@WkAm@iAw@g@m@g@cAMm@Si@QyADoACMHs@A]HsA?iAQcAOKSw@KOeBeAKIUg@QBYIw@GmAm@oBuAi@YWAc@UQUUGq@u@][{A_Aa@q@gA{@Ww@QQiAJ_BGmAPs@@qA[u@EiAX{@x@e@Ze@?eAOoAw@qAq@mA{A_@[OYMCYYcA{AUi@m@a@s@ImBJm@CuDc@{@W[[KAa@m@i@qAIi@_@s@UQa@Kw@ZYx@?n@Ff@L\\j@bARr@B^Kr@Uj@a@Zi@?YKg@i@UM[i@}@u@u@w@y@e@{Ae@o@Jc@d@QTiAr@]LOTYx@U`@IZG~@?\\IbA?~ACj@Y`AARDj@j@bAZ`@f@Rl@BT?`@SLUJGLWTcBR{@b@g@LWf@UrAVLEXSd@KRS`AAv@XXZV`@FPRTd@dAPj@Jf@Fn@n@dBPRVNpA^^VZd@^hA?LFLBj@d@rB^~@^h@pApApAj@^Z^LRP^BbBl@n@f@r@~@LZZ|ARb@p@n@hATzBU`ARb@Zf@`Ad@rBPh@^xBp@nAdA|AZPd@^zAj@jAXz@?hAOTMzAa@\\Wb@?b@Mx@N`@PbAr@hA~A\\V`@`@pAxCh@p@TJb@Ht@FrAMtADz@d@ZXvApB`@|@x@|Ad@b@j@z@v@f@~AzA^n@d@tAbAzBtAbBbAZl@D|@Az@QxAIv@Fh@EnANn@`@P\\`@lALrANf@b@x@h@f@^J~@p@~An@lAXp@D`@LxAx@lAlA\\b@DLRPR~@hAtB`BbBt@bAVNX^x@Zf@^b@LNC`AcA`A]h@_@z@sAl@aBJEb@gAF_@Zw@LkA?o@Eo@Yw@c@k@}B_AyA{@o@U{BeBmAcBGOS}@AQJmCz@qBL_A@i@EQe@mAs@eAq@g@sAg@c@Yq@{@@ML?VXRb@`@^\\X`Af@`Az@l@xBJnAE^Yx@i@t@U`A?dABh@b@hAdB|BlAbAvBx@d@ZdAX^Rr@p@Tr@DP?l@WnBSh@Gd@C`@YbA_@x@CPo@n@IL",
+    "average_heartrate": null,
+    "average_speed": 2.664,
+    "streak": 1
   }
 ];
 
