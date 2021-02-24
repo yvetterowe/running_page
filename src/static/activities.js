@@ -2070,6 +2070,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.599,
     "streak": 1
+  },
+  {
+    "run_id": 4838519104,
+    "name": "Afternoon Run",
+    "distance": 5273.7,
+    "moving_time": "0:34:46",
+    "type": "Run",
+    "start_date": "2021-02-23 22:23:14+00:00",
+    "start_date_local": "2021-02-23 17:23:14",
+    "location_country": null,
+    "summary_polyline": null,
+    "average_heartrate": null,
+    "average_speed": 2.528,
+    "streak": 2
   }
 ];
 
