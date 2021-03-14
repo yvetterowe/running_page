@@ -2168,6 +2168,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.679,
     "streak": 2
+  },
+  {
+    "run_id": 4939583252,
+    "name": "Morning Run",
+    "distance": 10154.3,
+    "moving_time": "0:57:53",
+    "type": "Run",
+    "start_date": "2021-03-13 13:22:52+00:00",
+    "start_date_local": "2021-03-13 08:22:52",
+    "location_country": "USS Maine Monument, Central Park Outer Loop, Manhattan, New York County, New York, 10107, United States",
+    "summary_polyline": "gqywFhkpbMESVGBYg@}@?O[_@A[p@URFf@o@~@u@FaAJMd@kAJkAJULy@LGJ[NyBUcAk@g@Q]gAg@q@k@gAk@OA_Bq@cBkAaAuBI[C}@Ho@C[b@eAJIJ[Bc@P}@WuAi@eBw@{@oBy@aAcAu@wAYiAe@w@Oi@m@m@]SmAe@WSe@GkABaC|@y@Au@QaBcAW[]}@QeAYc@COSSq@[u@KuA@gA]OBeCg@i@Qq@e@I?m@Ye@Yy@aAQ]u@q@c@o@YMWe@i@i@k@]uAi@gAi@u@m@m@u@Uc@YeAO]Gw@Ww@XoC?u@IaBKo@Sk@Eu@Io@IQWUKCSJ]Ko@w@CWOS}@Bi@a@a@Im@Yc@g@UGa@YsC}@eAy@Iw@KUi@IMQUGWk@a@Qa@a@y@Cw@a@i@Ac@Qu@EiBBs@Kw@Eo@Bm@TiAfA[Rs@?aASeCkAkC_Cy@_AG]kB_CqBUaAVYAcBSm@YkA?u@SuAcCa@aBY]YKYAy@\\IRIt@?f@Hj@Tj@v@lA@X?RKl@_@h@i@Tq@QQQSIKKWm@a@_@eAy@iAs@oAWoAG_Ad@oArAg@z@Qz@A`@Kv@GPGl@@p@O`@KjA@ZQp@@`AJ\\NZx@bA^Pp@Nd@KFDLCf@uALs@LgAp@{@nAOv@Hh@OLMjAMp@HdA`A\\d@@J\\j@TjA@d@h@vA~@x@hAXNHp@t@V`@HTBh@H\\LxATn@\\n@~@hA|ArAt@X|AbA|@`@d@PRT\\FVPHNp@|@Hn@Ld@b@t@PLh@Xh@Jp@EXHr@Cp@NlAl@TXJZHl@AVRd@PfAZbAZTx@|A@NZ^`@Z@VR^j@N`CrA^IVNzA[tCiBd@E|@PdAr@XJDHfAp@\\\\r@bAXp@T~@hApAbA^vB@vACbA`@b@t@TL^bAVRx@lAlAtAbAtAXLtA~Ab@p@h@zA|@nA@JP`@ZPXf@f@`@rAh@hCCfAQzBKfB`@d@b@Vr@KjAF^Vh@`AhAh@V^\\d@JpBpAbDv@z@`@`An@v@bAv@fBp@dATNdCzCn@b@hAfArAf@JXP@xB{Az@aAh@s@K_@MMW@[Ng@l@MF",
+    "average_heartrate": null,
+    "average_speed": 2.924,
+    "streak": 1
   }
 ];
 
