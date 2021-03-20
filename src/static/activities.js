@@ -2196,6 +2196,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.746,
     "streak": 1
+  },
+  {
+    "run_id": 4974443152,
+    "name": "Afternoon Run",
+    "distance": 6672.6,
+    "moving_time": "0:40:57",
+    "type": "Run",
+    "start_date": "2021-03-19 19:35:49+00:00",
+    "start_date_local": "2021-03-19 15:35:49",
+    "location_country": "East 14th Street, Alphabet City, Manhattan Community Board 3, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "kcrwFhhpbMLQd@WFIPKPe@PeARc@FWYgCDALM@AECD?l@eBZe@Lc@Re@PgAHU@u@LI?QC]Qa@DKRQBI@u@K?]YKMUGGBSSUIEEK@MGQQyA_A[[[O]e@_@[u@_@QBSi@AMICG@KAGEL]Fa@Zi@RS`@g@b@c@DOl@w@NYl@{@bAw@l@Yx@c@lA?t@Fb@HHCX?r@Fb@Jv@f@^J\\DHBV?LGNCTDHA^JZPj@FV@VBL?FCPAv@PN?d@OXCNDP?d@Lt@Cr@L\\@LDz@RVLVDnA^t@DpARTAh@Dx@T|@Nb@B`ARx@Dh@LdAJXFVAlAXf@N`@DJHfALLJr@PTBvA^N@hA^ZBxAb@J@JFT@LHREn@VXLd@HVRFBN@NGTBh@XZLp@^r@~@LHJBdAD^VTHHAv@Rz@f@`@t@TLRBZINGPCRHLLNDLJh@VXJTTNJPXz@t@^n@`@h@NXJFVv@B^?t@BJDp@A|@F`@?o@CU@u@M}AG]Q_@MSKIc@cAi@y@aB}AcAq@KCKI_@KWEM@OLK@U?YEUKS}@a@]k@K_A]YYMGc@K_Ae@IIoACUS}As@kAScBa@WFMBc@GWKg@_@OMk@_@KEcB[UKuCw@w@K_@MWCm@S_AOY?_AW[A_@Im@GUAo@OWAc@MWEO?_@GO?UEo@Ga@M{@IUIe@AuA_@Y?o@O[@s@Ow@Fa@UUEg@S]LULWEMGk@GUBYAGE_@G[EQ?a@KMDKCQ@e@Ae@JY@MMUKa@WKAiAe@M?YEY?c@GY?}@Fc@Lk@TgAr@YVcAzAc@b@g@r@_@`@WNY\\a@XKLK\\?BfAfAPg@DCPHd@^L@RNRCFBLLb@PHHVBJHh@fAH?d@NP?TZ`@RJLHBLCHBXXHRHFHRDVEN@p@CLQVELEZIFMPSLIPK\\C`@UhADXCN]t@MJARHLJ@J?PPX`@H@DPHADN@JIV[`@AJ_@POBGAOx@?v@CTYXGLQn@EZ",
+    "average_heartrate": null,
+    "average_speed": 2.716,
+    "streak": 1
   }
 ];
 
