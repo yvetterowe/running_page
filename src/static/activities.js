@@ -2392,6 +2392,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.6,
     "streak": 1
+  },
+  {
+    "run_id": 5136892885,
+    "name": "Morning Run",
+    "distance": 5459.1,
+    "moving_time": "0:39:19",
+    "type": "Run",
+    "start_date": "2021-04-16 13:59:28+00:00",
+    "start_date_local": "2021-04-16 09:59:28",
+    "location_country": "Gurney's Inn Resort and Spa, Elm Lane, Suffolk County, New York, 11954, United States",
+    "summary_polyline": "stiyFv|kvLL?FDFRPhA^PLVFZTd@\\dAXlATj@BNV~@N^NRF^P\\_@JN@FFFPLn@B\\X~@Fj@f@fABd@FXFf@HVDf@Jr@Tb@Fp@JRLf@Db@Zj@BXFFDLJHL^HLBZRf@Fp@XjAFHHVNRX|@^x@Hn@Lb@Vj@Zj@b@hBNXXx@n@zADVFRBt@Hp@f@n@DLRdANTPb@Ln@DLNn@BJCb@FR?NLXLVX|@FXDFD\\`@|Ar@bB`@zA@FIj@Rb@PTNt@Xp@Dl@Hj@BHFp@Rj@R`@Db@^`ADXNh@EV@JDJFZZr@X`@Zn@BNAXER@j@EVBXDHj@^NV`@ZRb@T~@Dh@FBNLBNAh@Xb@FXFFFN@LLVPn@LTNd@Fd@d@pAFV?Lf@tARhAZpADd@JTp@nBJf@P^f@~ARtANXJZ?JLh@Hj@E|@B\\NAFOMgBEOOa@EYGKQcAMSSm@w@{Ck@}AQs@E]Mi@c@}A]}@Qs@]gAWoAw@sCa@eAYaAKU_@gAKWMi@KWO{@k@gBE[MWSq@k@iCIk@s@uBOq@Yo@cAiEO_@Ua@E[IMUkBO{@Uy@Q]UaAYaAEGAQYmAMWAQe@gCWo@Qw@Wq@COWk@YuA]m@So@Ki@c@uAEGI]Ym@AKQSIUEe@o@kBOy@Sw@c@mAYkAYu@Kg@KSK]Ie@Uq@Qu@i@uAoAeFQu@i@qB[_B_@cAYkAKWGYSa@AQSaA{@kCYwAQc@IKCQOa@Su@YcBYkA",
+    "average_heartrate": null,
+    "average_speed": 2.314,
+    "streak": 1
   }
 ];
 
