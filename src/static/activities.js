@@ -2420,6 +2420,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.564,
     "streak": 1
+  },
+  {
+    "run_id": 5177092430,
+    "name": "Morning Run",
+    "distance": 7730.1,
+    "moving_time": "0:48:23",
+    "type": "Run",
+    "start_date": "2021-04-23 10:49:51+00:00",
+    "start_date_local": "2021-04-23 06:49:51",
+    "location_country": "446, East 13th Street, Alphabet City, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "y`rwFvmpbMJYFEZq@FGFFFEFMGu@L[B}@TYRKBc@NW^wAXo@FK\\IHDPVVIPNLBD^DLHFf@C|@r@Jb@HDf@Pf@@PLPp@f@d@j@TDHf@\\TX|@`@HJz@p@lAh@NILBDDNf@`@R\\AVaALs@HMDUNc@f@eABQVs@R}@R]L?HGNsAFOTyAFGF[HIJg@R]j@wAh@qBLK^qAD[Tq@d@uAFILe@JKFq@H[HM^F`AKL@_@EBeABGH?XD_AOCODQHCrAZNLxBZjEHz@RjAG`CL`@LfBx@d@\\~@Z`@T~@V^V^DdCjAt@Lv@h@d@HPP~Al@l@b@`A^XXRAxAb@`Ap@NXHLRHNZ~@XHHHVLHPd@h@n@j@nB^xBFdAHTH^Dj@Kb@QRFh@Cd@BRNj@Gt@J~@Pt@E^@b@H\\Dv@F`@@ZC^OVDdAATDLATN`@k@n@APSp@@h@Nn@GXH~A?HGBHFCCJ@@d@I`@G~@BzBGj@HFRj@~@\\CNd@Xv@bBTTq@`Aa@\\KBAZJR|@v@ETGFCr@FJXLAP@LX^Nh@@LG^BNp@lBDt@D@]dA?XGl@?OHGCKDIGs@@SCYD[CKFG@ODECU_@w@AMv@W@SXMJOS_@M_@?E`@U?i@EI@Oa@k@a@_@OU_@gAEODME_@Bc@LGGSo@qASSKYOs@L_@DEFBKQq@TW[E{@JYF]YUP{@Mw@FEe@k@BIEi@Dg@LOKB]SPU?s@XaATaCDOAo@[cEGoA@yBIuA@u@M_A?yBCMEm@Mq@S_Be@_BKk@k@_AEOi@e@G]a@[MY[WOAq@_@iBo@gCcAi@[]Ke@a@i@Ky@c@OBEFq@Us@q@SCeAk@kAa@kBeAa@Mi@G}Ag@KKUCk@Y}@WuA?GEoBIoEYqA[mAU_BC`A]PQPe@B[C[SY[YcBm@qAYO?UHUTGPCr@Jh@`@~@A`@OJ_AWa@SkAu@y@Y_@Ys@[i@]]]YGB\\J@Hd@IVK@o@Ov@^B`@ET_@h@c@BYv@A\\HZC\\m@pAAXKN]nAOZIj@]n@M`@IFCf@QPEPEh@@VG@?FKFKRO|@M^IFCR]`@F`@K|@GPMJOl@KKSf@@XKPWp@ALSL",
+    "average_heartrate": null,
+    "average_speed": 2.663,
+    "streak": 1
   }
 ];
 
