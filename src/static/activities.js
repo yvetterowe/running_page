@@ -2434,6 +2434,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.663,
     "streak": 1
+  },
+  {
+    "run_id": 5183430642,
+    "name": "Morning Run",
+    "distance": 1948.2,
+    "moving_time": "0:12:16",
+    "type": "Run",
+    "start_date": "2021-04-24 13:03:03+00:00",
+    "start_date_local": "2021-04-24 09:03:03",
+    "location_country": "446, East 13th Street, Alphabet City, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "g`rwF`npbMb@iABo@L[EWPs@b@KHE?_@LUAQB_@Rq@DY^a@FSHKLGFOX?HBJN^NRPFLf@Rf@h@THX^l@RNVTPZDNIFMH[AYHG@SX]JWFEHQPQLYH]NQBQAMDOHKFQ?ULm@Zg@?i@F[AYNMN]DYHK@YPc@X_@HUJIVc@JIBSFI?[PSj@mBJKBGHER@LEHSA_@BSESA_@@QFM@KHKFSBQEQSQ?WMCg@QCBLH\\JRcAKIWOKMBHZJ\\TBVBHn@\\HHNBfAf@l@N`@XH@JFLJBJTNXFHHJ?THZAdANd@B\\Nj@_@PHxBXHLVG`@FZLl@CXBX?JJd@Fh@BNCVBp@?L@HFf@AzANh@PXD",
+    "average_heartrate": null,
+    "average_speed": 2.647,
+    "streak": 2
   }
 ];
 
