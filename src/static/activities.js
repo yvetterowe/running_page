@@ -2518,6 +2518,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.716,
     "streak": 1
+  },
+  {
+    "run_id": 5287013653,
+    "name": "Evening Run",
+    "distance": 6578.7,
+    "moving_time": "0:42:31",
+    "type": "Run",
+    "start_date": "2021-05-12 22:34:03+00:00",
+    "start_date_local": "2021-05-12 18:34:03",
+    "location_country": "14th Street Loop, Stuyvesant Town, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "cerwFtgpbM^e@D]JUSWBUPa@HIXGHQH_@?i@BGXWDk@AKJWHM\\Al@STa@B_@DMZi@Jc@BWN[Ni@HOA_@Hs@@SRENKFKdAu@`@VJ@RVRLJBLHj@v@RNZFb@\\TJJNZPt@Lr@TN\\HJRITSRe@HKH]Te@D_@Le@n@yAZg@P}@XaAJMD_@Jc@LYDk@HQ@KRg@NOPm@@M][YQKD^DBFViA@I_@SKCXb@XLVGLODWRi@\\[pBFhARVA|@Pb@C|@Tl@HPFR@j@JVFTL\\CLBh@?d@FTHb@@p@TL@b@Nz@LdAXV@bB`@\\N`Cj@XLFHTJXDd@?x@Jx@ZJHVD^RVDN?ZNTRPDVJv@Hb@?HNb@d@^l@JJRFPLDRx@Lt@R`@Bb@JJFV^PNZNb@@`@SH@ZNP@\\RVHp@`@\\XLTTLFN?JFJ^TDNZ`@\\Tf@z@DP@f@?HILQAKKU?SDEA_@b@Cl@B`@n@rCVnBCRDNCZNx@@\\Cn@?n@EPALFb@Bb@Xb@Ct@Bf@Bd@Jd@Ed@Ab@@RCl@F~@?xAKb@?HBDW`@IZE^@D@EJr@Bj@CtBKh@APHNBf@?RFh@CtAIr@?XJ\\Ab@Bn@XLFJRRL`@XH\\FFTLX?PELIT]r@APa@b@RRGPAf@EBKTARBRTTR`@EFFj@XLlCD^WBMMOK[KKIU?WNSIa@_AkAIWSqAK]A_@GQGKC]CSYm@Iq@F_@HMRM@GSAGUPs@EQGKJq@OSOKGABi@O}@YUSYGi@AYBELQQk@DOP]EJFI?gAFi@JOFSGu@@a@AQOuAEMEq@CKHc@A_@K}AGuA@QEq@@YEyAUkB@SD[C_AIWQmA]cAI]C]KYIKMYQSGYKSEUGSQYQOYMUQMCWOk@_@aAWa@OUOOA]QMCy@k@O@ICKICIg@QSUS?y@QYMe@IG@]e@a@_@GCIOQKY?kA]WQUG[SGKq@_@y@K]IWM_Bg@KGc@GIEq@MeBIYEeAEaDWc@G_@QWGg@Be@Eq@DWO]GO?IBMN?Td@LHHJDCOWMGHARB|@DNHFLBCOi@Ma@GQKI@GT",
+    "average_heartrate": null,
+    "average_speed": 2.579,
+    "streak": 1
   }
 ];
 
