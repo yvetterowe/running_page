@@ -2532,6 +2532,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.579,
     "streak": 1
+  },
+  {
+    "run_id": 5300720617,
+    "name": "Morning Run",
+    "distance": 10062.1,
+    "moving_time": "1:02:19",
+    "type": "Run",
+    "start_date": "2021-05-15 11:53:55+00:00",
+    "start_date_local": "2021-05-15 07:53:55",
+    "location_country": "59th Street\u2013Columbus Circle, Broadway, Midtown, Columbus Circle, Manhattan, New York County, New York, 10019, United States",
+    "summary_polyline": "ctywFhkpbMKs@JSBQ?eAf@SL[PZNB^MHKV?BMXMPORe@TyBp@g@P@T[Fc@?g@IeBNoBOg@a@{@]c@gAi@Q[i@a@m@Ss@e@wAo@mBkB]s@Sy@MkA@q@Pg@@QZk@Ts@FaAIu@S}@e@oAiA}@mAe@u@y@cAmB_@QGc@u@cBm@]QWYOo@YcAK_@O[@yBp@oBAs@e@gA}@Uq@OSSy@[o@u@y@y@QwBJ{Ao@gB_@u@e@qAe@sA}@eBsBc@o@m@]c@i@c@M]_@{@SkCkBaAyAYu@k@}BKwAR_DAm@Q}Ae@u@Cs@w@qAi@I_Ai@[s@c@UuBk@a@g@}A[w@[{@q@e@Qq@u@K]yAs@OOQm@OS_@B]k@a@[}@Ck@g@s@I}C\\iAOc@Fs@\\c@^o@|@a@Jm@EqAa@mC}AsDqEiAcBs@a@OEa@B_ATc@@kAUe@@kAOcBg@i@m@Si@g@y@_@sAg@c@[Cg@JKLYfABz@rAdDIbAUf@_@h@WJa@BoBcC_@o@_Ao@_Bw@q@Qi@Cq@Pa@V]`@y@rAkAnDCzAMv@?hBM^UZC|@F^f@l@hAv@lAB\\QNYNa@h@gDZYnDMd@Qj@c@TBPGvAn@h@d@l@dAd@jBDbATnAr@`@lBp@h@b@\\j@^lALnAJTP~@n@~AV^dBdA`Bp@j@d@`CbAr@h@`@j@HZ|@jCf@\\f@T\\@~BMfBv@n@t@Px@Bb@Lr@Vv@B\\Px@PTZv@Z\\b@v@|@v@h@Lf@`@^Lv@HjB?dAWv@]p@a@|@K~@Jr@l@~Az@bAfAj@|@b@`ARt@x@|@bA^zD?tA`@bBjBn@tAVb@`@\\tAtBZ`@XNh@r@t@j@LVHd@zA|BXv@\\^Xt@XZ~@^t@CVF~AQdBD`BMb@B`AZZ^^nALrATn@PRt@v@`An@`@LJPtBz@v@L|Ad@zA|@nAzA\\|@p@lAlBnC`B|Al@`@Zb@tAd@`@h@RAz@q@ZGd@_@f@y@x@o@Js@Xi@DW`@s@Ho@FI",
+    "average_heartrate": null,
+    "average_speed": 2.691,
+    "streak": 1
   }
 ];
 
