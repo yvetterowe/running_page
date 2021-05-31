@@ -2574,6 +2574,20 @@ const activities = [
     "average_heartrate": 89.0,
     "average_speed": 2.59,
     "streak": 1
+  },
+  {
+    "run_id": 5383294424,
+    "name": "Morning Run",
+    "distance": 10127.3,
+    "moving_time": "1:04:50",
+    "type": "Run",
+    "start_date": "2021-05-30 11:53:34+00:00",
+    "start_date_local": "2021-05-30 07:53:34",
+    "location_country": "Boylston, Lafayette Mall, Chinatown, Beacon Hill, Boston, Suffolk County, Massachusetts, 02133, United States",
+    "summary_polyline": "mdoaG~wvpLYFMXy@`ATvB`@d@Rf@p@fAv@jCv@h@CNJfAf@zCL`BHb@FNNPHv@ZbAPxB_@b@UAw@Pg@Vy@n@qA\\c@R{@XaBb@}Az@g@Ha@Te@p@@v@YPWGMHAVZMb@LBNg@x@QDWSMLy@PSMcAYe@?UHQT_@zAEb@RtAG|@NlAVf@rBjCb@xAVtBzAnGVlBPn@T`Bl@hCB^ThAt@xBFrAHr@\\|AFj@FN|@tFd@zARPl@Lp@WNDRj@CVDXd@j@h@xBC^Jl@Ox@?Rb@pCl@hD^|A@zAN|Aw@\\FRL?l@YHRc@@kBb@_@TM?qJzDqDnA{DjBsA`@g@eA_@{Ba@}AIaAmB{G}AkHKo@oBkHEs@yAiGg@iBs@gEiAqEQcCBsHUkASi@_@o@g@c@aAUm@]MEy@HiC]OYa@ScA}@i@o@yAgAeA{@a@o@y@m@EK_CyBSIS]c@Wa@m@aAu@W_@g@e@IQEa@}@y@q@Qq@N]Xw@JkCgCMQ[kAj@}@Rq@^]Lc@X]To@XyAh@oAPUr@sBjAoBt@qCPMLYJIJ@\\d@Pd@tBtBc@\\Kh@`@Xp@LxAt@|@X?^c@nA@l@f@bCj@`@\\tA^Z`Cd@bGj@xC_@|@HFN`@?l@[TNf@FNW?[g@mAYmAg@c@G_@D_AHYLMTi@XOjBNp@?^Cx@O`BFbAUZ@xA}@LCR|@Dl@HLTpBE|@v@b@PCDYVSBIAQIWQRARa@VW}@?_@DUe@UCSDUQe@Tm@Yc@Ik@@QOe@KIFY@k@O{@JqAG_@WM@SMWCcABo@UgCGiAB_@I_@CaCGYB[CgBKe@@SE_@Al@I\\z@b@vBHt@Pf@Gb@W~@HhAINBz@Qj@@d@N`@|@`@rB`@tAB\\a@NyANSHo@ESRS@e@hCFLp@Dz@IpBJjAhAVF`@Md@Dr@EbAm@LGDDDv@ATIJaBl@YBw@l@An@ENUJ]r@?`@Pj@GTWJo@FUXGb@BTPPNt@@TLXZL~@QJIRc@Js@JUT]\\O`@T`A]\\Nl@p@\\HZMHOVwABUIc@k@eA{@kAk@UiA^a@f@M^I`AWr@ILNt@HNHnAm@T",
+    "average_heartrate": null,
+    "average_speed": 2.603,
+    "streak": 1
   }
 ];
 
