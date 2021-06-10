@@ -2616,6 +2616,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.455,
     "streak": 1
+  },
+  {
+    "run_id": 5439925264,
+    "name": "Morning Run",
+    "distance": 6610.1,
+    "moving_time": "0:43:44",
+    "type": "Run",
+    "start_date": "2021-06-09 10:20:33+00:00",
+    "start_date_local": "2021-06-09 06:20:33",
+    "location_country": "428, East 14th Street, East Village, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "acrwFl_qbMKJWb@MDGNUZBR[dABJCTKNMDUh@AREJZp@FBR\\DBLVLFFHTH@JGJDVXNJ@LHh@j@I`@IHM\\Kf@AZEJGb@CDMDCLOHCd@EDCVKP@NKHDZIDBNATI@KJSHGLDr@AFMXKNI\\Cd@DFM`@IRK?o@p@Ib@KXEHM?MZGr@CFIDUh@A^WLMX@PEHFdAKTANEPG@AVELGDEJIHKDAPD`@?LQr@OH[I@F{@bBQT@T_@M]LCPQb@UVRp@Vj@JNVVJDLZ@HHHDJBJTLh@@TTXHNTJHH@EAVj@b@VBHLB@B\\FP?FEV?JX@JE^ENqA~AM`@Mn@o@fCKVSTIX?LE?KJCFOFENGLQPG^@b@IL@XKJERIHGNA^SLIJAHKJY^a@XQf@EZRnCBDCVMZPBIZ@RN^@Vb@\\DRDFCRKRDFJp@Dl@Qb@MjACd@CTCATJXFVLDL`@ZSXALKNDn@IBOXHFJf@ApAHx@G^BVAJF@?b@L`@Nt@F@JLN@^NRP@f@KT]rADNANDx@AR@HLFJRKh@DN?VCx@GbAHf@h@b@VDf@@bBJTAn@HfA?f@Bd@C^NNBHAFKDYFP@QE?h@KP]BFB?BJVQ@JZBBs@EA@Ar@JXZr@^@_BH_@NKRER@PL^DrAj@AnAEb@HZLNf@RNGR?^FT?LDH?LBb@FT?PDHAZFt@BTDFH]|@G\\KlAKdCC^A~@G\\Az@Gp@VoB@aBDQD]F_CRaCLe@@SNNf@Dh@Rl@Jn@Bz@Td@BFBN@V?THV@f@JXBrARL?z@J^CLBFCRYPeAA_@FSKG]RWBo@w@k@B_@DKE[m@KHUFMBGCYBGe@I@EGSX]TM?IDS?MAIEUEi@gBC_@BWJQDMi@q@OWUGMLIDYAQLOEK?o@kAAMGKAOFSRa@FY@wA@]BKC]@QNYBgCDM@YDMVYGm@BQHSLg@MmAMg@@ICi@NMFo@AKQ_@EUHYFMDYJQBu@Li@JS@KP_@XeAHMNIn@qBBq@l@gA\\mB\\YLc@@a@Ra@DWFOPGJMFC^_@PaAi@aBWUSi@K[?EEQKK]IKQEO]MIMSCGb@NQDONUJIXKDSe@w@MOGCO[K[MOQKS]SMAMEEiAg@O?MQ?KIMSg@WMKKWOOYMCa@]eAMWq@OOMa@OUIAIGK?MEKIIAOKQE][YO[IOUUMGKOMEMSIKMUIUu@SEEE",
+    "average_heartrate": null,
+    "average_speed": 2.519,
+    "streak": 1
   }
 ];
 
