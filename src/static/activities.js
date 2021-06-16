@@ -2658,6 +2658,20 @@ const activities = [
     "average_heartrate": 116.4,
     "average_speed": 2.64,
     "streak": 2
+  },
+  {
+    "run_id": 5471244183,
+    "name": "Evening Run",
+    "distance": 6498.4,
+    "moving_time": "0:41:02",
+    "type": "Run",
+    "start_date": "2021-06-14 23:38:04+00:00",
+    "start_date_local": "2021-06-14 19:38:04",
+    "location_country": "1st Avenue, East 14th Street, Manhattan Community Board 6, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "mvqwFpwobMDSXa@@UP}BPYDOHKPMH@HEXCLQT~ABV^SXGJRLN^Jz@^FVLNTPLH^@l@cARQNYJ]Jw@J[?Md@{@DO^WFy@JYBSFGD[V}@PMd@k@Bq@A]BQJW@SRe@GOg@KGGd@@X}@@OWQ]AIG?@NFRNLVX@TMJKFMJe@LWLINC`AHb@HVBVDV@NBbBF`@PX@FDr@F^J~@JRJ`BJbANT?RN^LT@XJHHv@Ld@LTBTHf@FVFVJh@LRJt@PZLL@TFz@n@LBVNVHX?NKHAN@TEn@B^X^Hx@VjAr@XH\\RJ?n@PHNTr@HFN@HJJATJf@@DFl@AL@jATFFTz@FFVNLDZI`@_@`@HbAh@h@ZTR\\h@FXRL^^FLHDHLh@|@d@f@Hd@ARBr@Dh@A^DPA\\LwA?[Gq@?]Si@eA{AKYc@o@e@g@k@i@UMWWc@MUMk@OSQOB_@\\WAe@c@GMG][[WGa@Uk@Qa@YYCKKkAYm@g@_@KQ[KGaAS[AKIOCw@GGEQAa@QOAe@?q@PI@OG][W_@SSYKWCm@WYEkAWUMYE[AWK}Ck@GGoAQq@AWHSLWBMAUOOUSQIMUKo@GUIWAq@KUI_@Aa@GUAUGo@CMGWAa@Mw@IuA[MGgAKUKg@CIEk@?YGe@Ck@VSRMB_@Oc@U}@WWMi@GIEO?y@KQDKH}@RKRI]KOOAs@Wc@S_@EYA}BQWFq@He@Ta@LkAz@c@h@c@t@w@~@a@p@s@r@q@l@Qf@@Rt@TVGJMhAf@N?NHRRh@VJHDJlAj@f@l@LB|@p@H@VNP@RTFNFDPBPRIZJ^A^e@t@?TYV",
+    "average_heartrate": null,
+    "average_speed": 2.639,
+    "streak": 1
   }
 ];
 
