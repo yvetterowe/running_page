@@ -2686,6 +2686,20 @@ const activities = [
     "average_heartrate": 164.0,
     "average_speed": 2.606,
     "streak": 1
+  },
+  {
+    "run_id": 5492448305,
+    "name": "Evening Run",
+    "distance": 4599.7,
+    "moving_time": "0:29:28",
+    "type": "Run",
+    "start_date": "2021-06-18 23:23:26+00:00",
+    "start_date_local": "2021-06-18 19:23:26",
+    "location_country": "EVGB, East 14th Street, East Village, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "}yqwFxpobMBOFOBUFKPKFSRWe@o@MCIGSIYc@QMQCY]ICKMaAW_@Ua@a@QGMSWIKMWMKAw@o@YGOFSy@BAIc@Da@HKj@g@t@}@Vg@b@i@Vi@X_@`BoA`@MRM|@O`@AX@HAf@BXFf@?l@Rt@HBFVBLJPFb@DNHH?XIp@FDDf@BHDj@VPA\\MZDHD~@Fp@MN?NJ^E^NZ@VHVAFB~@Fl@Nh@D\\JTJzALT?\\Hj@HX?b@Nh@DVHJA~AZ^T^j@JFTFH?RIJ@LIj@MNAf@Rl@HXJv@J|@Px@V`@F`Cr@v@Pf@XV^\\TJBJAx@K`@AX@n@VNLVBLAVHVLp@Rt@\\f@LRPb@TFH\\Mo@s@u@[YEq@Uc@GMEi@Ee@KUOOEYAQMSCGCKKm@Oe@Oo@IKI{@SOGe@IeCq@YCWKe@IWCa@Mu@MOGuAWq@Js@XGAUPMv@ARKZM|@SRy@N[UK??PJHn@HBCGGWACLBjAFFR?IGYAUIK@SROVOl@e@`@MNQr@Yd@Od@Cf@OXMZMx@m@z@AZEBU\\_@dACPQj@IHGBCFCLM^Ij@OZEl@QTA\\Qn@Sj@OPGJKAGDAPMh@?POn@IHCZH@GZc@z@QJE?IRGMYMO?SOMBMECKMEOQgAo@e@a@ICIMICGMi@QUS",
+    "average_heartrate": null,
+    "average_speed": 2.602,
+    "streak": 1
   }
 ];
 
