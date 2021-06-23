@@ -2714,6 +2714,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.464,
     "streak": 1
+  },
+  {
+    "run_id": 5510343457,
+    "name": "EZ",
+    "distance": 3735.6,
+    "moving_time": "0:27:15",
+    "type": "Run",
+    "start_date": "2021-06-22 11:08:12+00:00",
+    "start_date_local": "2021-06-22 07:08:12",
+    "location_country": "1st Avenue, East 14th Street, Manhattan Community Board 6, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "}tqwFf`pbM^RJ@?HDNTRPHJ?RHTBNVDRHFTDNLJGVs@BONSDMR@CSBc@Ni@R?BMPMF[CMD?\\q@LIFCDQHM?OGk@Bq@\\cANWFkAFOHEJQF[HGNU@QNWHEBKPIFKTkAAKDSTcA?KXo@DO@[NWFS@]Rc@BMPe@@IWYk@Kb@TFGDWLe@c@_@GKn@^XFHALGDIFMB_@Pg@RIHBtAJ~@Tf@B^Jj@An@RT@RDh@DRFR@TFN@`@FRJL@RCR@v@N`@BDBf@F|Bf@\\NT?~@VT@f@N^DhAb@h@LRBh@LZRRVp@XBDJDD@RHl@D\\LPRN^@NCJGLIFQDm@DEDIDa@[_@Oy@Qa@[GIcB_@}@EiAKk@?s@CWGUAUBi@Cq@@c@YYGEKUMSBKCEDK@QCKByBAMB_@EKGUCWDIEYCG@MCSFGAGKIC[CWYUEe@WEEMEy@i@K?GK_@_@sAi@OEm@_@GBBDHHHCLBBFAXKp@?HKGKMUME@BFPD`@\\AFGHGZKRGVMIQEKDEJKl@@XX^K\\Yb@EP?\\KFAHOPMj@GFBXCLEDOVIXDX[RSd@?JIHGX@HIX?j@MPEXOA",
+    "average_heartrate": null,
+    "average_speed": 2.285,
+    "streak": 1
   }
 ];
 
