@@ -2728,6 +2728,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.285,
     "streak": 1
+  },
+  {
+    "run_id": 5519458144,
+    "name": "Treadmill EZ",
+    "distance": 5186.3,
+    "moving_time": "0:39:42",
+    "type": "Run",
+    "start_date": "2021-06-24 00:17:53+00:00",
+    "start_date_local": "2021-06-23 20:17:53",
+    "location_country": null,
+    "summary_polyline": null,
+    "average_heartrate": null,
+    "average_speed": 2.177,
+    "streak": 2
   }
 ];
 
