@@ -2742,6 +2742,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.177,
     "streak": 2
+  },
+  {
+    "run_id": 5526472762,
+    "name": "EZ",
+    "distance": 6205.8,
+    "moving_time": "0:44:36",
+    "type": "Run",
+    "start_date": "2021-06-25 11:26:03+00:00",
+    "start_date_local": "2021-06-25 07:26:03",
+    "location_country": "444, East 13th Street, Alphabet City, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "swqwFbrpbMNLJ@PV\\@BAr@m@Xw@XWJSDUPOHi@b@cARoABi@ZCPk@GUB]`@wAF_@F?@ULC?Kb@m@@Kd@e@NIFi@HcBN]PcALUNq@Rk@NSl@oADS\\q@Hm@H[?CHKJu@@k@\\[Bc@Ra@Hm@NULg@FEDMUMOSKIGAK@BCP?NL?IRq@?Ko@SLERTTLLBT?FIZ_A@KLWPKV?HD^D`AHVA`@HZJ|@FfDl@T@VHv@Lb@?TDX@jATHCH@xA`@ZFJFJBV@bAVT@t@V^F~A`@ZNdAXPPF@XAj@Hf@H`@LTBp@Z`@HRJj@Hb@Ln@\\ZFRJRDf@VLBN^RZJJb@RFBXAn@J^@^JTDb@NDFHTDZRT\\Fz@Ob@Fh@NPLPFb@`@ZPPPJB^n@TRDLXTDVNPNXFFF?PVLj@Bj@GPMAIISCWDAA[TIP?NCJ?VFl@HNBXZnADn@N`@A\\BJ@VBFAb@Fp@AXRtA?PDJQZCL?LPx@HrAAPFXFlALS@s@Ai@MiABw@K}@As@D[@e@CU@UE}@Qo@?q@SsAeAkEXm@DI@QJa@P[NQ@WCUc@y@yAcBu@o@MCQOi@SKIe@YSE]?SRSHSCQOCEEMEg@CKSO}C_Ac@Wg@Oa@[UE}@g@m@QYESI]Eu@U{@QOGOCKIq@OIGs@Ms@WSCYMk@Go@QQKM?_@ISKe@EUE_@Oo@Km@QYKa@Ee@Oa@Ag@KqAOa@Oc@AiA]WBm@Cm@SO?e@KQMa@?UDi@MQOU?WIk@EK@IE_AESGK@OVQNKVGZW\\]L]SBBL?FDFJWdAIAa@]\\XLFFL?HOp@SXALOHWzAENMPK|@KTGFCLQPCFIXEl@QBMVG\\@RCPS\\IVMTCNA\\I`@ARKTIDBJILWA@JIr@O`@AHDP[\\IG?BIH?h@O`ABDDXCACRGLGFKBCDOHGJQDEHFRIBE\\Qh@",
+    "average_heartrate": null,
+    "average_speed": 2.319,
+    "streak": 1
   }
 ];
 
