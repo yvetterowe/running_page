@@ -22,7 +22,7 @@ env:
   # please change to your own config.
   RUN_TYPE: strava # support runtastic/strava/nike/garmin/garmin_cn/keep/only_gpx/nike_to_strava, Please change the 'pass' it to your own
   ATHLETE: Hao Luo
-  TITLE: Hao Running
+  TITLE: <(￣︶￣)>
   TITLE_GRID: Over 10km Runs
   GITHUB_NAME: yvetterowe
   GITHUB_EMAIL: yvetterowe1116@gmail.com
@@ -105,7 +105,7 @@ jobs:
         uses: github-actions-x/commit@v2.6
         with:
           github-token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Add new runs"
+          commit-message: "🏃🏻‍♀️"
           files: activities src/static/ scripts/ assets/ GPX_OUT/
           rebase: 'true'
           name: ${{ env.GITHUB_NAME }}
