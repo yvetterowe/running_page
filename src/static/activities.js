@@ -5080,6 +5080,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.098,
     "streak": 2
+  },
+  {
+    "run_id": 5542214044,
+    "name": "EZ",
+    "distance": 8094.5,
+    "moving_time": "0:59:17",
+    "type": "Run",
+    "start_date": "2021-06-28 10:28:11+00:00",
+    "start_date_local": "2021-06-28 06:28:11",
+    "location_country": "1st Avenue, East 14th Street, Stuy Town, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "yirwFfaqbM?LU`@MbAMVCt@MJXDLF@JVAFFH^f@RDL`At@j@RJN?HWJFZx@PHJRd@?RFTc@jBYPQdAOFEXG?Ab@Dj@MCMl@IGQfB@FIR]RIPLPKZChAIN[Ee@t@Gf@BPGH@LGAERe@b@a@fA?VEXOj@S\\]`@Ed@h@|@QHGTK?BVAJYVa@`Aa@Z?FP?`@r@H^XJ@OARNLTBPGHNNI?|@DNL@lAh@b@d@h@Bf@NFX?~@o@^iA|BY|@Dt@m@X_@r@ARGNMFWpA]fABb@QTKB]z@SJSVOj@Cl@m@~BEJUDUZBRm@v@K\\c@ZAHa@Wi@Fi@Gi@HSEm@PMdBFDEJ?x@K~@NbBd@bBIRBFB`BHRB|@ENWPSEUBo@n@ERH`@?tAZXGz@Nx@BZCVJ^@`@G^R|@EXJp@NLHXEJBJATIJNf@CPD~@Jb@GHA`@Zh@Hh@rATf@CEb@DNX@LEAx@Vb@f@VlAZvBPbGXvCDn@FBHFIf@DVEXKd@PBHd@h@\\Lh@@ZCl@iAdAYTDNLATDHdB\\~CLfCPbJpAjA@bAZfADr@Pz@HFKAIWYgAm@UCUDYMeAHIIu@Go@_@c@LqASq@JSGwAAc@Ss@?c@QWBg@SeEKe@Yg@mAo@y@}@m@y@Qe@DQLMPe@Zm@t@m@f@GAQLkARQIQ]{@COc@c@Vi@Jw@Gg@Pi@BgAGYFuAMGBkASqB@SEQQiA@a@OiAIQIy@JeAY_@DKIk@F{@Vu@Yo@C_@DQImAKWKs@DoBEqAFw@Y?\\x@LdA@LGR{@Uu@UOQUUmAH_@VW?KJUBUSa@JG?Qy@eAYsAFWCIB]TEXQDSCKHy@MKCWLW?o@BSGYIM@UJs@SQEc@BKMc@?K@WJIFUCcADg@RUFqBSaBJYEKHKBOCMGmARUJ@D{@EMDQTIDa@NO@OX[BYFOGCV{@KIHMv@uBEy@JFf@KRUMk@JO?]DGJi@\\k@Nc@NICWPa@NKGCPaAV?AYHAPs@Ny@DEBILG?ILYDu@Hg@NQD?EVTQRq@NIDYHOE?D?Tw@@{@L[AIVGLSFc@^PKeB^cBDKj@JZe@RI?SDKHE@DAMF_APUWM@[d@uB@q@Je@K]D]dACVGHFZE@SEa@h@RDLEAb@d@|@^DSAc@DG@a@FSBeB",
+    "average_heartrate": null,
+    "average_speed": 2.276,
+    "streak": 1
   }
 ];
 
