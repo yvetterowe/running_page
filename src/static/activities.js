@@ -5136,6 +5136,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.484,
     "streak": 1
+  },
+  {
+    "run_id": 5583488841,
+    "name": "EZ",
+    "distance": 7333.3,
+    "moving_time": "0:48:26",
+    "type": "Run",
+    "start_date": "2021-07-06 10:34:11+00:00",
+    "start_date_local": "2021-07-06 06:34:11",
+    "location_country": "1st Avenue, East 14th Street, Manhattan Community Board 6, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "wwqwFfrpbM\\LDFPHPCLDC?@GBAVCJGHMHe@Zg@Ry@NWBSXw@H[\\MZ_AFC@G?EJ?NPP@l@Xp@j@XFJTl@\\@Fr@ZHNRDNTRLXJFAL@NNJGP?Bf@HLPDVNPN`@Fb@l@d@VT?BJPDPb@JLN@VX?d@JDl@DLJPAt@XH@VPb@FJ^NJH?FFBAh@BZ\\F??ECAMNRVd@Jx@\\`@FE?H@?FXFAJl@TLPJBBBBGAGbAf@NDDPTN@JdADJNEHl@GFLNH`@h@BAX`@NCHDRCD@FDRVLHJCRONXA@@DDBBADOTQAKRBBe@FKIk@BQXo@BICQ@ORa@DUNa@T}@FK\\eADWAUD]L{@\\wAX}@B[N}@XwALc@LeADEH]HQ@KLYR_BFo@La@XoAJu@RGBE@YL_Ad@gBLs@Lc@HUJ}@J_@N_A\\yABWN_@?WLYAu@R_A@QF]LWRaAFOLk@X}ATw@b@sBD]h@cC@YPs@L]BUR}@DULe@RcAJQBq@TkAf@qAFc@HMPo@Jy@HOFc@HMDSHQ`@QBEV}BVs@Lq@HSB[RkAPc@N{@LQ^gCLIHUFe@CK?a@EAB?ILYFLb@B\\FH?PONGPM|@MVMb@Eh@y@hCEl@EJW\\Gr@G\\IRKJULET?NCRIRE@?DGDE`@KREl@[~Ag@lBQ`@Mh@Ed@EHC\\KVM`AKNEh@EFSbAEDKf@APOh@QhAGLGt@Qx@Uj@Ih@Ur@@DI^a@dB[xBYfAKz@Oj@Il@M`@C`@S~@AVGTE`@IXEl@c@tBE\\_@xAMHWh@Mz@Ml@Ul@Kx@O\\AXg@`BK~@C\\w@jD]|BUj@CNOjA]vACj@Wr@ATIPGh@M^Gb@ITEZMb@KnAEHE`@GRMDIJ@?[KKNKt@IP?DOL@XID?VGNGBCLCPDNCZIPMEGLBD@NKR@DE@JJGLGFO\\ODUCCIYEWSKCOJGSOACFIKGHI]HJWQSG]AOBMHEPC@SGUDSIUg@[]IAKQEAKS?]GD_@GSMQEEGQJOIKOKGEKEAOFUS[MO?MGGPOSMKIQ][GOGCMS?EE@MSC@OQK?AIQ?MKQ@MIEBWCKk@WGIM]AIBAFE@YIW@MKIQEA@KGO?SIAi@WGASHKNU}@m@]CSOIKOG@IW]IAGOGAEOECIKLSQASGKUEQW_@O]e@WEEGSFEMSWq@k@",
+    "average_heartrate": null,
+    "average_speed": 2.524,
+    "streak": 1
   }
 ];
 
