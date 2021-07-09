@@ -5150,6 +5150,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.524,
     "streak": 1
+  },
+  {
+    "run_id": 5594159099,
+    "name": "EZ",
+    "distance": 8103.3,
+    "moving_time": "0:52:30",
+    "type": "Run",
+    "start_date": "2021-07-08 10:41:19+00:00",
+    "start_date_local": "2021-07-08 06:41:19",
+    "location_country": "102, Clinton Street, Lower East Side, Manhattan, New York County, New York, 10002, United States",
+    "summary_polyline": "svowFfhqbMIDa@Q[G_@Oo@e@_@Sa@?_@c@cA[MO_@MWO[KKBIFSGYUGK_@Gs@WOUs@Wi@@]OmAu@[MCGQKw@s@_@Qo@c@WMYW[Om@_@E?m@a@WAKC@C[Wg@[QWi@e@s@c@][Qn@?\\Gl@a@v@EZMb@CV[`AKDMPKBY\\WL]MgAq@JSAQGJAC",
+    "average_heartrate": 165.6,
+    "average_speed": 2.572,
+    "streak": 1
   }
 ];
 
