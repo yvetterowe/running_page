@@ -5178,6 +5178,20 @@ const activities = [
     "average_heartrate": 149.5,
     "average_speed": 2.702,
     "streak": 2
+  },
+  {
+    "run_id": 5613363987,
+    "name": "BBQ Digestion Zen Run",
+    "distance": 5172.8,
+    "moving_time": "0:38:35",
+    "type": "Run",
+    "start_date": "2021-07-11 13:29:08+00:00",
+    "start_date_local": "2021-07-11 06:29:08",
+    "location_country": "Cougar Rock Campground, Longmire-to-Paradise Road, Longmire, Pierce County, Washington, United States",
+    "summary_polyline": "u|l|GbhkfVD[h@yAVi@R_AE{@Ga@M[Em@QSy@k@EFAL@DA]CGUMEM[K]Q[Y_@QSM[G[MMKGMWQGKAKMYc@mAKc@C[Se@C]CEEUDG?D@DDE@Io@cBQU}@]]N_ATIF{@Rg@PaB_@[YUWM]Ia@M_@]c@D[Rk@@]?KIGUCSVJj@Pd@VlAPf@~@fAp@VVFj@D|AWbAk@l@EPDXVd@bABRN?JEb@]n@_@HAVONC\\@FSp@lAPf@BRAx@BrAJ|@b@d@p@f@p@v@^PRTl@|@BVPb@LTj@lBHb@PfCPbB?f@Pd@H^h@tAj@bBNLLp@P\\BRFFN`@f@jB@j@DFMCSkAO[cA{AYQGSK{@Y}A_@o@?MKa@Ii@M]AUCEKmB?c@QmAEaAQs@Q]IYO]?EYS@AGGWQSY[UOSa@a@cAmAS_@UYKoA?c@Fe@?WGc@Oa@W]e@Qa@?_@J[`@u@j@I`@Fl@Nf@F\\d@dAd@tA?PQ\\[XMBuBhAYVOFa@d@MXMr@F`BJJP@DMPQN[b@k@PMZa@TGPM|@]PYBYIOOg@@SHWV[R?t@TTLHVEf@Op@",
+    "average_heartrate": 159.6,
+    "average_speed": 2.234,
+    "streak": 1
   }
 ];
 
