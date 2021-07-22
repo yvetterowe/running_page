@@ -5206,6 +5206,20 @@ const activities = [
     "average_heartrate": 162.3,
     "average_speed": 2.305,
     "streak": 1
+  },
+  {
+    "run_id": 5662528798,
+    "name": "St George W11R1 50min Treadmill EZ",
+    "distance": 6161.4,
+    "moving_time": "0:50:20",
+    "type": "Run",
+    "start_date": "2021-07-21 09:58:57+00:00",
+    "start_date_local": "2021-07-21 05:58:57",
+    "location_country": null,
+    "summary_polyline": null,
+    "average_heartrate": 148.6,
+    "average_speed": 2.04,
+    "streak": 1
   }
 ];
 
