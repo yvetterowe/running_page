@@ -5220,6 +5220,20 @@ const activities = [
     "average_heartrate": 148.6,
     "average_speed": 2.04,
     "streak": 1
+  },
+  {
+    "run_id": 5673385932,
+    "name": "St. George W11R2 45\u2019ez+3*20\u201dstrides",
+    "distance": 7386.0,
+    "moving_time": "0:49:11",
+    "type": "Run",
+    "start_date": "2021-07-23 10:19:43+00:00",
+    "start_date_local": "2021-07-23 06:19:43",
+    "location_country": "EVGB, East 14th Street, East Village, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "otqwFp`pbM|@`@DBFPJF^Nz@d@LDTYh@eATMJQJi@d@{ALg@^_@HULc@NkADIDAb@mAf@qBBo@L_ALURi@R_APg@Xc@\\yAP[XkA^w@H_@GKg@YOEb@PVo@BQe@SUGJDHHh@NTGT]N{@DEABXW\\Kb@B\\JjD`@zBb@n@J`@BpAVfD^l@PbEv@p@Pr@NjCn@h@RjBf@|Ct@rAd@b@JrBt@bBb@\\LpAn@rAf@dAd@XdA`@Nb@EXS\\EbAj@`Ap@bA|@n@x@vAzBVl@RpDGe@EyAIq@Ww@Ua@s@eAQ]w@w@a@]SMe@a@WOmA_@]@[PWBYMSa@Qg@YOc@Kk@U}@WoB_Ae@MsCeA{DiAqFsAkBm@i@GcA_@gEw@MEcBSqDk@_AEg@MuAQ_@CYRUbAQN[^E\\?`@FBZ?b@D\\FLFNND?FOXUZHvBVPEPKTe@BQAWMk@[]IC@@m@?i@CsBWg@RQbAJp@R^\\LHHBCR?rBXf@A`@WFYDa@C]IU_@[uB[iAMg@JUf@Ef@Jf@Z`@pATx@Jl@PFOVAVQP[Ba@Ic@UYe@Mc@ImCY]NS`@Ah@J\\d@p@DC\\BhAVlANXIPMHOHc@?YG_@W_@WOwB[o@Ei@DYVMb@@b@J^VXRHdAPtBT\\MTYDWE{@Qa@UQGC@?gC]]GUA_@JWZIb@Bj@N\\ZVb@JJAnAVB?eCe@|@JpBZ^BTEZ]Ba@Ai@CIUa@IGs@So@Kc@E_@?c@CQBOJMNIRCV?RF`@FRHF?D",
+    "average_heartrate": 163.1,
+    "average_speed": 2.503,
+    "streak": 1
   }
 ];
 
