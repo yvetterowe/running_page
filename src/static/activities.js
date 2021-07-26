@@ -5234,6 +5234,20 @@ const activities = [
     "average_heartrate": 163.1,
     "average_speed": 2.503,
     "streak": 1
+  },
+  {
+    "run_id": 5684664871,
+    "name": "Newbee 10k trial run",
+    "distance": 10029.0,
+    "moving_time": "0:55:03",
+    "type": "Run",
+    "start_date": "2021-07-25 12:09:09+00:00",
+    "start_date_local": "2021-07-25 08:09:09",
+    "location_country": "Lot 1, Rockland Lake Road, Rockland Lake, Town of Clarkstown, Rockland County, New York, 10920, United States",
+    "summary_polyline": "{{czFrwdbMlCIbBIn@K^KpAe@D?@BBLE`C@z@NXbCBzDAf@Ep@UZ_@b@o@TO\\IZ_@Tm@BWGq@GWg@w@cAgAOYQi@CUEs@Hs@Tu@^i@xAgAr@[f@M`AUt@KVKLKNe@@YIk@A_@D[`AaCTe@b@UHAd@Hp@\\fBf@~@NnAJnAVdFhBhA\\h@DrC^hABdET^XT\\^zAVt@x@hAf@Zt@ZfA^lAXfA\\t@\\tAhAxBzAp@n@l@v@\\r@`@dA`@hBR~ABz@Al@Gr@a@dBg@hAk@x@}AtAqBfA_@`@W\\e@x@g@xAYn@[~@[d@m@f@{@b@aA\\q@NyBBe@Je@TsAhAg@VeBl@{@TmAb@cCv@e@@mHkBmDy@c@OqBsAo@_@e@QcD_@mAWeBYWOYi@]S_AB}BOc@Oc@]a@a@oByAM[Bk@La@\\s@DM@[Ku@Ug@c@c@g@e@E]@kH?gADWHAbA@f@C^B`C@r@Ah@GXKNI\\_@Ta@TUf@Q\\[Ri@Bc@Go@Ye@YY_AoAYo@Kk@Cq@Js@Ja@Zm@~@{@j@a@j@Yv@Y`@MbAK\\UVg@EaBHk@dAeC^_@f@KXDrAf@nA^vANlAVh@Ff@LlA`@nDtA~AZ`@Dp@A~ATfADt@@b@Fh@?LDb@^P`@T~@F`@Xh@^f@v@f@pAj@bCp@jA`@`@RhB`BrAz@^XbAjAl@lAl@dBRx@R~ADr@?j@Ep@]bBg@zAYd@mAzAg@\\q@\\aAn@i@p@e@t@Uh@Of@g@hAQn@W`@g@f@q@b@a@Pi@Ra@Jq@HmBJiAd@mA~@]^kA^eAV_@PiARuAb@oAXsAUg@OUCwEkAiCs@UMeBuAo@_@yBc@oBWuCg@c@SWi@_@Si@CcAAs@Bg@Ek@_@eAaAmAcAQYAw@L_@R_@No@Ei@Og@Yc@}@}@E_@D}DCwCBaJ",
+    "average_heartrate": 174.3,
+    "average_speed": 3.036,
+    "streak": 1
   }
 ];
 
