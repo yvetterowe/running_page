@@ -5230,7 +5230,7 @@ const activities = [
     "start_date": "2021-07-23 10:19:43+00:00",
     "start_date_local": "2021-07-23 06:19:43",
     "location_country": "EVGB, East 14th Street, East Village, Manhattan, New York County, New York, 10009, United States",
-    "summary_polyline": "otqwFp`pbM|@`@DBFPJF^Nz@d@LDTYh@eATMJQJi@d@{ALg@^_@HULc@NkADIDAb@mAf@qBBo@L_ALURi@R_APg@Xc@\\yAP[XkA^w@H_@GKg@YOEb@PVo@BQe@SUGJDHHh@NTGT]N{@DEABXW\\Kb@B\\JjD`@zBb@n@J`@BpAVfD^l@PbEv@p@Pr@NjCn@h@RjBf@|Ct@rAd@b@JrBt@bBb@\\LpAn@rAf@dAd@XdA`@Nb@EXS\\EbAj@`Ap@bA|@n@x@vAzBVl@RpDGe@EyAIq@Ww@Ua@s@eAQ]w@w@a@]SMe@a@WOmA_@]@[PWBYMSa@Qg@YOc@Kk@U}@WoB_Ae@MsCeA{DiAqFsAkBm@i@GcA_@gEw@MEcBSqDk@_AEg@MuAQ_@CYRUbAQN[^E\\?`@FBZ?b@D\\FLFNND?FOXUZHvBVPEPKTe@BQAWMk@[]IC@@m@?i@CsBWg@RQbAJp@R^\\LHHBCR?rBXf@A`@WFYDa@C]IU_@[uB[iAMg@JUf@Ef@Jf@Z`@pATx@Jl@PFOVAVQP[Ba@Ic@UYe@Mc@ImCY]NS`@Ah@J\\d@p@DC\\BhAVlANXIPMHOHc@?YG_@W_@WOwB[o@Ei@DYVMb@@b@J^VXRHdAPtBT\\MTYDWE{@Qa@UQGC@?gC]]GUA_@JWZIb@Bj@N\\ZVb@JJAnAVB?eCe@|@JpBZ^BTEZ]Ba@Ai@CIUa@IGs@So@Kc@E_@?c@CQBOJMNIRCV?RF`@FRHF?D",
+    "summary_polyline": "_crwFxgpbMx@t@h@RJ?GG?WF]HQLk@JQDe@HGNq@\\cALu@XaAJBn@d@f@PP@r@f@hBr@DBFPj@Vz@d@LDDENSh@eATMJQJi@d@{ALg@^_@HULc@NkADIDAb@mAf@qBBo@L_ALURi@R_APg@Xc@\\yAP[XkA^w@H_@GKg@YOEb@PVo@BQe@SUGJDHHh@NTGT]N{@DEABXW\\Kb@B\\JjD`@zBb@n@J`@BpAVfD^l@PbEv@p@Pr@NjCn@h@RjBf@|Ct@rAd@b@JrBt@bBb@\\LpAn@rAf@dAd@XdA`@Nb@EXS\\EbAj@`Ap@bA|@n@x@vAzBVl@RpDGe@EyAIq@Ww@Ua@s@eAQ]w@w@a@]SMe@a@WOmA_@]@[PWBYMSa@Qg@YOc@Kk@U}@WoB_Ae@MsCeA{DiAqFsAkBm@i@GcA_@gEw@MEcBSqDk@_AEg@MuAQ_@CYRUbAQN[^E\\?`@FBZ?b@D\\FLFNND?FOXUZHvBVPEPKTe@BQAWMk@[]IC@@m@?i@CsBWg@RQbAJp@R^\\LHHBCR?rBXf@A`@WFYDa@C]IU_@[uB[iAMg@JUf@Ef@Jf@Z`@pATx@Jl@PFOVAVQP[Ba@Ic@UYe@Mc@ImCY]NS`@Ah@J\\d@p@DC\\BhAVlANXIPMHOHc@?YG_@W_@WOwB[o@Ei@DYVMb@@b@J^VXRHdAPtBT\\MTYDWE{@Qa@UQGC@?gC]]GUA_@JWZIb@Bj@N\\ZVb@JJAnAVB?eCe@|@JpBZ^BTEZ]Ba@Ai@CIUa@IGs@So@Kc@E_@?c@CQBOJMNIRCV?RF`@FRHF?D",
     "average_heartrate": 163.1,
     "average_speed": 2.503,
     "streak": 1
@@ -5258,9 +5258,23 @@ const activities = [
     "start_date": "2021-07-28 10:39:22+00:00",
     "start_date_local": "2021-07-28 06:39:22",
     "location_country": "435, East 14th Street, Stuy Town, Manhattan, New York County, New York, 10009, United States",
-    "summary_polyline": "owqwFpqpbMJ@\\TN?PNHCNWFYf@{@Tq@JQRQNk@^kAf@o@Ba@TYJc@FOHg@LUASN[Po@Zi@TkANc@NWRo@R_AF]Tq@d@{@Ns@Di@Hq@\\}@Pq@Jm@?Op@{@Ru@BYDATa@Na@?YRc@J]?o@MAa@QIAl@^FGTeAGGWMWId@V`@BX[Ps@V[b@Qd@@f@F`@JzCd@TFr@Jd@B~FbAx@H`@JbDj@bEbAfB^pA`@tA\\tBl@f@Jf@Vb@JjAb@j@LCAEBAEU]]OgBa@k@UkAWeBk@c@K]SqA[aBWi@SkAWkA]yAWy@So@McDa@e@Ek@KM?aDc@ULUd@Eb@o@b@CDI^?^DLlALh@X@AAOCEBKpAVdBTZIXYBOB]Ik@Y_@a@IkBU[Oe@ESBQHIJGNI^?\\@NLX\\XpAXpALf@BLCXULUBo@Kg@WU[Ue@Cg@Mg@Gs@G]H[f@Ij@Hh@DLRRRDpANpAPX@\\KHENYBk@Eg@U]WOi@Ga@@mBUi@NO`@Ab@Jh@VXx@P\\LlAPb@B`@OV_@D_@Gi@S_@e@UqCa@e@C]NQPINCd@@NdHpAFKD[?m@CKUe@]Oo@Ia@@eBUc@LWf@Cj@Lb@^Tb@F`@JPJbBTNAPEX[Hm@Gm@W_@a@OeCa@o@Cc@PUh@G^Hf@V^ZJn@DJDfALt@?b@MVc@?q@I]GMOKwC_@OMQEa@@]VO^E^Lt@NVJB\\?z@JnBZb@KRYDi@Km@Q]QKmCa@o@E]NW^GV?TJl@ZVZF`D`@^CNMZw@Cg@Ue@_@QsCa@e@Ca@HSVKj@Dh@R`@b@^D^K`@M@eAQwBcAaDiBuA_An@^BD[`AA@i@Wh@XJJ?Ha@pAO\\QfAONMv@[n@W~@OVo@|B[n@iAhEGJGBDDIl@K^Wp@a@rAg@zBS`@c@nA]l@c@vA",
+    "summary_polyline": "}frwF~jpbMb@{@\\MXEh@PZRZDFNFF\\MX\\d@`@RJXHNRv@p@j@|@^PJ@\\TN?PNHCNWFYf@{@Tq@JQRQNk@^kAf@o@Ba@TYJc@FOHg@LUASN[Po@Zi@TkANc@NWRo@R_AF]Tq@d@{@Ns@Di@Hq@\\}@Pq@Jm@?Op@{@Ru@BYDATa@Na@?YRc@J]?o@MAa@QIAl@^FGTeAGGWMWId@V`@BX[Ps@V[b@Qd@@f@F`@JzCd@TFr@Jd@B~FbAx@H`@JbDj@bEbAfB^pA`@tA\\tBl@f@Jf@Vb@JjAb@j@LCAEBAEU]]OgBa@k@UkAWeBk@c@K]SqA[aBWi@SkAWkA]yAWy@So@McDa@e@Ek@KM?aDc@ULUd@Eb@o@b@CDI^?^DLlALh@X@AAOCEBKpAVdBTZIXYBOB]Ik@Y_@a@IkBU[Oe@ESBQHIJGNI^?\\@NLX\\XpAXpALf@BLCXULUBo@Kg@WU[Ue@Cg@Mg@Gs@G]H[f@Ij@Hh@DLRRRDpANpAPX@\\KHENYBk@Eg@U]WOi@Ga@@mBUi@NO`@Ab@Jh@VXx@P\\LlAPb@B`@OV_@D_@Gi@S_@e@UqCa@e@C]NQPINCd@@NdHpAFKD[?m@CKUe@]Oo@Ia@@eBUc@LWf@Cj@Lb@^Tb@F`@JPJbBTNAPEX[Hm@Gm@W_@a@OeCa@o@Cc@PUh@G^Hf@V^ZJn@DJDfALt@?b@MVc@?q@I]GMOKwC_@OMQEa@@]VO^E^Lt@NVJB\\?z@JnBZb@KRYDi@Km@Q]QKmCa@o@E]NW^GV?TJl@ZVZF`D`@^CNMZw@Cg@Ue@_@QsCa@e@Ca@HSVKj@Dh@R`@b@^D^K`@M@eAQwBcAaDiBuA_An@^BD[`AA@i@Wh@XJJ?Ha@pAO\\QfAONMv@[n@W~@OVo@|B[n@iAhEGJGBDDIl@K^Wp@a@rAg@zBS`@c@nA]l@c@vA",
     "average_heartrate": 170.9,
     "average_speed": 2.689,
+    "streak": 1
+  },
+  {
+    "run_id": 5710310060,
+    "name": "St. George W10R2 60\u2019EZ",
+    "distance": 9484.5,
+    "moving_time": "1:00:11",
+    "type": "Run",
+    "start_date": "2021-07-30 10:17:59+00:00",
+    "start_date_local": "2021-07-30 06:17:59",
+    "location_country": "Fat Buddha, 212, Avenue A, Stuy Town, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "{_rwF|ipbMJHJPXNVVr@f@PVFLt@d@\\DPLb@h@`@Tl@XVd@XLbAVVd@z@l@RPNNrAx@v@l@ZP^JXRXZx@T\\X`@d@LBh@p@x@n@FHb@J|@^Zd@d@Pf@X^\\`@VJ@j@Nd@HZ^`@ZD@FN~Ax@b@Nh@?`@R@HJT`@DZP`APbA`@NBHL@HZDTHb@H~@VnAh@HAL[RkAXi@`@qANwAl@gBG_@JBBAFJJCN_@d@{C^oB\\wA^iAh@_CjBoJNa@RsAdAaFj@_CTm@f@sCr@aDHw@FMF]T}@Nu@Dc@p@aDZyCL_@P{@Fi@XcAZwATy@Fe@Lm@Di@ReARaAZeATkA@]BKJSNg@Fo@`@gB@Yl@oB^sBb@{Aj@w@Jm@V_Ar@aD^iBNk@Da@f@sBTm@HIPCNT@FITSnAE^AZGPGHKl@Cp@e@fACh@W~@O\\OTUdAUf@a@p@AF?b@In@@`@Gb@LNXC^Bp@Tj@Vd@Pl@LZATKZERFDF?JMbCFh@Nb@APJ@ZE`@Db@RFFRDh@AFA~@Ed@OBYGq@Aw@E[BgAHGx@Wb@Sd@KTKJHj@?vBPLFT?ZGZQpAe@zCcAj@Oh@IhC{@DAJ@v@aBJMP[f@k@Xs@\\o@\\SJIr@aAXi@DETYJGTe@R[@@j@gANQT?V[r@iAHAj@o@n@cA`BsB`@OlASh@ApA`@h@J`@@~@Tp@JZJFFBJ^tFf@lFCzAIzAAvCEp@AnAE`E@rBCn@?|BKlCMt@BF?f@Cf@@~@Ir@WfFFlFKlB?@F?AoDHcB?aAEo@BiCDo@?q@Bw@Es@@{@Dq@Ho@?g@LaEBuCDs@AeABm@HMCiDHsBAm@CWFmAAs@a@aEO}CKa@M_CEa@ISEg@Q]?CBGAGCEWMq@Q_@Uo@Se@[aAsAK_@EUHQAIs@aA]_@]WOCIQY]FHDAANGZSd@]`@a@XQ\\UPc@KoAw@{@SMMSEe@WiA_@H]LSRs@HSKBBCUYIKYS[s@UUWeAO][_@IGKUOSEQI@IJODkAjAIAKMSKi@o@Qa@W[Oa@KUMKq@_Ag@{@EKCQUc@OUWWaA_BUSSc@Ec@{@}AEAIH@C",
+    "average_heartrate": 166.1,
+    "average_speed": 2.627,
     "streak": 1
   }
 ];
