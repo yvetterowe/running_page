@@ -5276,6 +5276,20 @@ const activities = [
     "average_heartrate": 166.1,
     "average_speed": 2.627,
     "streak": 1
+  },
+  {
+    "run_id": 5715714091,
+    "name": "St. George W10R3 EZ w/ NewBee",
+    "distance": 8389.2,
+    "moving_time": "0:48:58",
+    "type": "Run",
+    "start_date": "2021-07-31 12:13:14+00:00",
+    "start_date_local": "2021-07-31 08:13:14",
+    "location_country": "59th Street\u2013Columbus Circle, Broadway, Midtown, Columbus Circle, Manhattan, New York County, New York, 10019, United States",
+    "summary_polyline": "otywFnopbMfAmA[iAUACm@Si@AWFQh@_An@YHMl@g@^y@r@cBZkAZ{@NUNiAHW?uAI_@Ua@[a@YQg@Q[Ua@Me@ScAo@q@[y@k@}@y@i@s@Wk@WcAEcBFi@Je@l@{ALk@@s@Go@k@wASYy@s@cAe@w@Y[YW[Q]o@sBc@u@QU[SOOUOa@[_A]WOOEu@CWH}@n@}@V_@Aw@Qc@WwAiAYe@a@_AOe@eAsB_@Ig@?KBEA_@BcB_@mAa@_B]qCoAgAs@iAgBc@g@[c@uAgAi@WmAa@iBmAaA_A_@k@c@qAFOAK_@yB?_@Ds@PaABaAAc@Eo@Qo@uAaAiAi@c@YIKYU[SW]gAm@mCmBs@_@m@e@wAq@u@o@i@Ui@_@W]k@]UUuBcAa@IMA_@GiBN}A_@c@Es@@]Fc@ZWXi@b@_@Dg@Ag@EwAw@wByAs@y@cCiDuAyAi@IU?c@DSDs@Bk@Cq@O{BYI@WXMj@En@J~@r@fA|@|ATh@^bB@x@Et@WjAi@pAkAnBBX^d@HNXbAFl@p@vBVh@v@`Ap@l@`BfAl@NRJjBn@j@Zr@n@n@|ADPF^N`@r@t@f@ZZHfAB|@Cd@Dr@PRLf@`APj@\\jBXx@P^l@dAN`@Xd@fB~Ad@Xf@RvA`@d@Db@?hAOd@Ov@c@XCvAG~@TjBnAPX|@z@r@bAj@~AZl@`@^`@RXH~@@l@Mp@Ch@B~@TLFf@d@d@l@r@lANZX\\b@|@VZpAvAlAfAZ`@l@p@Xd@b@fA`AtBbAdAZVPFnAZ`@CV@bACpAIj@@d@EbBVb@PTTTl@Jh@FfA`@dAlA~@vAz@bAb@\\Fr@`@^DdAT~@`@x@d@\\^P`@RTjAbCV\\XZ~@tARRp@~@xAjA\\Ld@^JDFJVTLDBH",
+    "average_heartrate": 167.2,
+    "average_speed": 2.855,
+    "streak": 2
   }
 ];
 
