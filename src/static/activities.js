@@ -5346,6 +5346,20 @@ const activities = [
     "average_heartrate": 153.4,
     "average_speed": 2.791,
     "streak": 3
+  },
+  {
+    "run_id": 5752984758,
+    "name": "NYRR retro 4 mi",
+    "distance": 6621.8,
+    "moving_time": "0:35:14",
+    "type": "Run",
+    "start_date": "2021-08-07 12:15:37+00:00",
+    "start_date_local": "2021-08-07 08:15:37",
+    "location_country": "Mother Goose, East Drive, Manhattan, New York County, New York, 10153, United States",
+    "summary_polyline": "}dzwF`fnbMc@q@eAu@u@[o@Qg@Ss@C{@Rq@\\WHi@Dg@A_@OuBgBm@gAo@iB[k@]]]M_@@e@FU?k@Mc@QeAUoAUuAc@a@SqBqAq@w@[g@SSs@eAe@a@g@]yDeBkA{@_AcAKQY}@g@uDBu@Fq@LaCAWIi@Oc@_@c@iCwAKM_@Q{AcA_@[s@a@_Aq@]U]a@w@_@_D{BmBeAc@Ya@_@oAw@g@Qu@KQAm@Fs@@q@Ge@Om@I{@Fs@Rk@j@g@^c@Bc@Cg@Ok@YqCkBy@w@_@i@{@aAy@gAoAmAc@Mg@Dm@Hk@@eAKqASs@Ga@NOj@Gz@Dr@Rl@rA`CXt@Lj@Hj@B|@Ed@Ih@Sn@gB|DBPD@X`@Rh@J^^nCL`@l@dAr@|@b@^`BbAd@T`@LhCfAj@`@x@fAv@~BX\\`@Vb@TVBhCGd@Jl@X\\^Vb@h@lCd@lBZx@x@tAr@x@b@ZvBdAb@Lb@Dr@?\\Ef@Mr@WlAa@\\Gh@Ch@Bp@R|AdAd@^TTrAtBTf@^jAf@t@`@Rh@Jd@DjCGb@DbA\\`@Z\\ZX^h@lAr@jApAnB`BxAF@^`@z@nA\\v@Xj@Pd@Vh@Z^b@v@b@d@`Ab@`@Fn@@^C|AKlAOr@Af@D~@Xh@^Vb@Pn@NhALl@Xd@p@n@f@`@nAr@z@`@p@Xf@LHFn@L|@^",
+    "average_heartrate": 170.6,
+    "average_speed": 3.132,
+    "streak": 1
   }
 ];
 
