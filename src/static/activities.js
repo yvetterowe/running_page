@@ -5444,6 +5444,20 @@ const activities = [
     "average_heartrate": 154.8,
     "average_speed": 2.86,
     "streak": 1
+  },
+  {
+    "run_id": 5812218206,
+    "name": "St. George W7R2 \ud83c\udf69x18@9:30/mi ft. stravalib 0.10.3",
+    "distance": 11296.3,
+    "moving_time": "1:10:36",
+    "type": "Run",
+    "start_date": "2021-08-18 10:37:49+00:00",
+    "start_date_local": "2021-08-18 06:37:49",
+    "location_country": "208, Avenue A, Stuy Town, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "k_rwFrkpbMKEGHHV\\NZ?NZ`@RDQXSb@qA`AgBd@wBb@qAbBRl@n@dBl@Ze@pB_Fj@eBEq@J[Z_A|@}Bh@uB`@}@~@aDZaBl@gB\\{@Jk@y@]d@XZy@?Qs@Wj@\\ZCb@q@Dm@EKLJd@c@VEzNdCrAnAUdDsCKFIC_@^@v@e@Ls@Im@Ye@a@MkE_@WNWlAJ`@v@n@bDh@h@I^]Hu@Oy@a@[}Dm@g@L[d@G`@Df@Zf@\\VdEXVMVi@Bk@Ka@]a@yDi@o@F[\\Mb@LdAZXxEl@f@WNg@Ao@Si@UQoEi@e@TYf@Gr@Jj@XZpEh@d@SV]H_@Es@Ye@wEq@o@ZMZKl@Dd@V^tEj@^E\\WNc@?i@Oi@e@[iE]i@XUh@Ad@H\\f@f@xE^^WVo@Cu@Yg@uDe@y@?g@\\Or@Db@R\\`@RhEd@h@WPg@Do@Mc@c@_@_FYc@^K^?h@Nd@j@`@XGbD`@h@SRa@Dm@Gi@_@a@uEc@WF[ZOv@Np@^`@|D\\f@E\\YNk@Ac@Og@]U}Da@w@VWj@@n@J\\b@\\pEb@ZOT]Fq@Mo@W]aFc@k@ZMv@Dd@R^^P~Df@b@OV_@Hk@Ik@_@i@kEg@u@^Oj@Bl@p@v@~Db@d@ITUJu@Mw@Y]cFg@]XQlAVh@VTxDj@b@C^YNk@Am@[g@{Eu@c@NY`@Gd@Lp@Z^vEl@^OT[Fm@Im@]c@aFg@]PUh@Eb@Tn@`@ZlEh@j@[Ng@Au@]m@}Eq@s@j@Kt@Tt@XRrEj@p@e@Hu@Gk@S_@_@OeE]c@ZM^El@FVp@j@HXMj@W@}By@eFiCeAs@p@RUrAi@[f@PNTWv@Oz@w@h@@f@ZVAJs@fAy@tBe@pBW\\e@dBg@lAGz@@RBHW~@sAnD]l@?Rg@^WpAH^bBfA@RMl@^bAhAl@\\l@?^]b@c@lAMNeAa@Yg@?_@La@XOVB`@PXn@\\dAEPVq@?i@GgAQ_@q@YOHI`@OFg@R]?EKCQF]b@}@TaAAY{@u@",
+    "average_heartrate": 165.5,
+    "average_speed": 2.667,
+    "streak": 1
   }
 ];
 
