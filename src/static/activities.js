@@ -5472,6 +5472,20 @@ const activities = [
     "average_heartrate": 158.9,
     "average_speed": 2.511,
     "streak": 2
+  },
+  {
+    "run_id": 5828850410,
+    "name": "St. George W7R4 Long ",
+    "distance": 21450.0,
+    "moving_time": "2:20:11",
+    "type": "Run",
+    "start_date": "2021-08-21 10:45:54+00:00",
+    "start_date_local": "2021-08-21 06:45:54",
+    "location_country": "Fat Buddha, 212, Avenue A, Stuy Town, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "w_rwFxipbMN`@jBd@d@d@~Ar@V\\bB~AXe@~@gDpB{EnIfFLOLBdBbBh@PrAfA`A\\r@t@d@F`DxBrBv@b@l@zA`AhAFlBtAvDz@lAj@bAt@t@PhAhAp@RFqBXmBtFsVxBqKtBwHn@{ExD{Px@mFzAeGt@}EnAaG|@aDr@wArDuP~@oBsEeEb@kCf@_BC]ZiBlAwDSGFg@vAgB`@eAFa@K_ABoBIr@STmCq@vBz@HEFwCa@a@[j@MhA]X_GoCGUoAe@[k@mAYiDmBGaEFyBxEbCzAd@hCfBrEzBZjB{@hE\\@v@h@LIP^BYd@y@lCoJPMfBz@_AdEMLgBw@{@xBYvBSWi@KjPkOi@pAg@pCUTWlAa@|@KpAfA\\nC~AdAIdCt@rBpAlC~@|IdEdHbEvElBjExApIpBjAfMg@h`@lGa@rA?LQx@SdDO|Aa@lBEfDu@`F]nBg@lJm@nCm@zBK|J}AjCIvCy@fLeARLhCO|@i@tCRrA`AhABzCr@vAn@|B`@lFtBrB^lBN^FDPlBLzAb@v@m@~Ai@nCFRQF]RENN?a@VQZTbBxG]GhAi@r@p@b@Nl@x@f@HjC_AALjD`AfA`Bt@f@fCMlAn@Z?|@[nBA~B]f@Ll@x@|@j@z@DZb@NhAT`@Z^`BRnBxEtDrDx@fB^vArAdDlAtBhAFnAu@t@aBh@eDB_A|@mD|BcBfA_CfAgAnAm@~GHdBS|@c@|B}C|As@jBB|Cp@`AEn@]`B{BX{CCk@aAwDo@y@mAsCg@[@_@o@qA]yFy@oF_@iA}BiDiB{ASESPeBe@wF_@wAb@kBjAkA?yA[{@FgBbAo@p@M`@?v@gCEgIvCgDAgKdEcBdAoBtC}BdFeAx@yCL_C`A_BUwBwAk@McBN_AbAc@nB@~@VnAf@x@xChBhDjDnGtAnA_@rDM|ATl@Z|BtCv@|@hAv@VQh@Rb@r@lBpBnAlCzAtEnBvCfBdAn@BxAUd@_@v@mAd@eC@kBt@wDf@o@`Bc@rAiD`Ay@pBe@`DPpDMbAi@lC_DbBy@zA?fCl@pBA~A{@j@y@T_AFsCOgAgAoCwBcDiAkCg@kCu@eI[sAy@iBeAyAkAgAyDmB}Dc@kBd@RQ|AYdABtATzChATNmB{@iCo@iDRwEzBo@JgCO}D|BeDdBaCx@",
+    "average_heartrate": 161.0,
+    "average_speed": 2.55,
+    "streak": 1
   }
 ];
 
