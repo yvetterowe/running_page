@@ -5486,6 +5486,20 @@ const activities = [
     "average_heartrate": 161.0,
     "average_speed": 2.55,
     "streak": 1
+  },
+  {
+    "run_id": 5838942542,
+    "name": "St. George W6R1 40\u2019 EZ",
+    "distance": 6486.4,
+    "moving_time": "0:40:06",
+    "type": "Run",
+    "start_date": "2021-08-23 10:30:35+00:00",
+    "start_date_local": "2021-08-23 06:30:35",
+    "location_country": null,
+    "summary_polyline": null,
+    "average_heartrate": 128.9,
+    "average_speed": 2.696,
+    "streak": 1
   }
 ];
 
