@@ -5500,6 +5500,20 @@ const activities = [
     "average_heartrate": 128.9,
     "average_speed": 2.696,
     "streak": 1
+  },
+  {
+    "run_id": 5844526419,
+    "name": "St. George W6R2 60\u2019 progression ",
+    "distance": 11015.9,
+    "moving_time": "1:11:03",
+    "type": "Run",
+    "start_date": "2021-08-24 10:40:08+00:00",
+    "start_date_local": "2021-08-24 06:40:08",
+    "location_country": "444, East 13th Street, Alphabet City, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "}_rwFznpbM_@N\\Me@x@H@GH}@l@Cf@[d@Mv@KXUZoAhC]tAu@zAI~AIT?^q@bAy@bCG^k@rAGb@Wl@k@fAJHr@Db@Rv@n@XBJGSVSFAPGNi@v@WLKPQn@@R_@|@CZe@z@ETc@TEVApBQv@YR]n@Qh@I`@Az@MVJVYX@XH?TPl@XZh@^L@Db@H^r@PJTVbAl@Xt@^Et@fAA\\Kh@s@t@OXcAnCATTFEH?b@EPUf@m@nCm@vAU~@Yt@m@lAUp@[bANFEEOBAJOLq@RCF@b@DT?x@Kt@Cz@Fj@Aj@VzA\\z@H`A@n@ENHnAAPLpBDHBd@Ld@C|AN|@?RJX@d@R~A?f@r@~DEpAb@`@LVB|@GX?l@Zp@Eh@Fn@@p@BRTf@Al@FV[@NJ?n@ChAMZ_@Rc@@m@?u@c@s@RsCEk@IoA?{D[qCAyNm@}A{@aA[kAy@uDYqE}@mAIiAo@eBQsAF_AAkBSa@OWq@_AoAs@Qq@_@eCa@eBH}Bc@cAYw@DS`@KfAFpBI|@]p@u@`CYTyBe@SMS}AQ[[Y[?GTAj@a@jBcA~CUPYACIBIlBcGD[CEkGaByD_AuC_Am@aAkAc@qBkAaBqAmLqHy@a@cBsAaEiCUGa@Fa@EoAo@MIYu@c@YiAe@wBqAOWiCsBc@YmC}A{@YOLY~@o@tCw@|BUR_@CSUHa@r@qB\\[b@y@He@?u@Ha@VcAv@sBAUWm@gC{Am@w@i@c@eAk@cA{@_@WWG}DsC_Bu@gEcD}Aq@WSO@MJKAw@_@_@K{AeAa@OYFg@_@iEQYIs@]}BkBgDwBkAGc@i@c@[eBgAy@_@mA}@[Gw@?SI{@y@S[So@YWSXKCQ[mAi@aAq@Yu@o@QMeB{@k@_AWc@a@[UKAFS\\Er@_@r@Jj@Mx@Xj@VXCFIEEJGFBXd@Vz@v@^HCDMRMP]KCLFN[t@FTJP[VW`@aA`A_ARu@LBF_@EYQUl@_AP_AX{@rAaCDWFIEw@Ja@XKr@@VKv@A`@`@Dl@FHNAz@i@v@sA^eADe@Ro@h@sAjA}AHQEK@DX@DYTi@n@_AFa@JS^Wn@s@Pg@lAo@",
+    "average_heartrate": 159.3,
+    "average_speed": 2.584,
+    "streak": 2
   }
 ];
 
