@@ -5542,6 +5542,20 @@ const activities = [
     "average_heartrate": 161.0,
     "average_speed": 2.613,
     "streak": 1
+  },
+  {
+    "run_id": 5876468528,
+    "name": "St. George W5R1 45\u2019EZ",
+    "distance": 6946.2,
+    "moving_time": "0:46:07",
+    "type": "Run",
+    "start_date": "2021-08-30 10:34:14+00:00",
+    "start_date_local": "2021-08-30 06:34:14",
+    "location_country": "Boris and Horton, 195, Avenue A, Stuy Town, Manhattan, New York County, New York, 10009, United States",
+    "summary_polyline": "m|qwFznpbMLK\\Ab@TdAx@THf@Xt@n@J@z@qARy@JKDO\\oA|@oBLc@XBXRTFv@\\fAv@FHTJdBdA\\L\\BRHTR\\d@lAv@RFZ^XFDATLLL^?`@b@\\LXDTLLJPXXVHDTFr@b@PDN@~@`AvAv@FH^XXHT?f@`@f@NVRRHN@XThB^^Zh@NVT^Jz@^VBn@\\FJRLRHDAHB?NDCJa@LUNs@B]?URkA\\{AZoB`@aBTsAp@aD`AeF|@wDdAeFA@Tm@XeA`AwEXeAb@cCH{@`@_B?SVu@Lk@ViBPi@|@wDTs@Bk@RcATy@N_A?IZyANe@XuBXkA@WnAaFx@kERm@Va@^mAb@qBj@yBvA{GX}@AAUt@S`@_@|BK`@Mr@s@~Ck@tBIj@Qf@Yf@Wr@qArFCVK`@BC?DFHa@zAi@rCq@tB]zAQlAMj@[rBi@jBM~@c@tAS|AOh@SnAOr@Gd@o@dDa@`B_@lBOn@_@nB_@vA_AnEWbA_@pBe@nC}BnKMp@aApEQh@Ij@Wz@Id@?b@M`AOE@?Ug@s@g@s@SOKWGeAa@WSSI[Yy@MeA_@a@UQEs@Us@]c@WmA_@KDKI@ASAYK]YAK[Ym@Ya@_@OQO]_@KE@UIe@u@[Ya@E[Ge@WIS_@SEBO@WWq@c@QUi@_@Ua@QUa@UOBc@?c@XwA`BIh@CCAo@GUQWECc@GM@]PEAYW@_@Jo@^sARi@SSq@_@YUE?K^",
+    "average_heartrate": 150.1,
+    "average_speed": 2.51,
+    "streak": 1
   }
 ];
 
