@@ -5556,6 +5556,20 @@ const activities = [
     "average_heartrate": 150.1,
     "average_speed": 2.51,
     "streak": 1
+  },
+  {
+    "run_id": 5885100907,
+    "name": "St. George W5R2 workout ",
+    "distance": 14099.0,
+    "moving_time": "1:23:10",
+    "type": "Run",
+    "start_date": "2021-08-31 21:55:02+00:00",
+    "start_date_local": "2021-08-31 17:55:02",
+    "location_country": "West Drive, Manhattan, New York County, New York, 10023-7503, United States",
+    "summary_polyline": "urywF|gpbMd@uBNIRc@fAINk@EkBfAcBn@kBRkAA{AOc@k@q@kFyCcAa@}AkAu@cA[m@QsBNqAt@cBVeA@i@Ky@[_Aw@iAw@i@_@IaAi@gAmAg@kA_@mAe@{@y@o@aAe@eBe@}@@y@l@s@XmACc@MsC}BQe@Ga@Y}@eA_Be@IcAJw@Os@Ys@CuDqAaCwAu@u@yAsBw@u@q@i@qBq@g@YwB}A_@k@o@_BO{AOc@C{@Jk@JmBAgBUy@S[uB_BkAq@mBuA_Bq@sAmAgCyAmBaB_Ae@{DiCk@QmCJiB]u@CeAN_BtAc@Fm@GgBm@uBuAsAoA[e@{CuD{@o@w@Aq@Rc@?cEg@a@@QTMl@F`B^hAdBjDB\\Rx@Dh@@rAEVQ^Kj@w@dAI\\_@VMXv@nBf@~CXz@h@|@fBzA`Ah@~Bv@dAh@`At@n@dAf@hBt@v@z@`@h@HxBSFM@LFFt@^h@n@LZJj@|@hD`@pAfA~ApBjB~Ar@nBFh@EbBa@nAe@b@EfAHf@Rn@p@nAx@dBtBh@~At@hA^Xf@Ln@BpBK`AHVJh@^`AfArBpDt@fAXB?Lf@l@lAhAx@`AbCdFz@rAz@h@~@Pb@@pH_@z@Lb@Vl@`AJX\\bCRd@Z^bBrAxCnAtBj@tCfBzAjBdArB`EzEJTbAt@zAf@l@IjAu@n@y@~BmFHg@NS`@qAH{BKe@Sa@q@s@{Ae@yEgC_@YuA}AYq@UyBBk@Fc@|@oBJ_@Fm@MoAu@iBqAiAcAYsAcA_@q@w@eCs@eAoCuAaBYa@FoB`Au@@e@MmCqBs@uAw@mBOUYQw@IkAF_@ImBw@yAUgAa@][mAo@wAqAaBaCw@o@yDaBeAu@cAi@g@y@a@mAi@aEBcATkB?oA_@cA[c@k@g@qAo@}CsBwAgAsAq@aNaJiA]e@GiCFgAYaBB[LeAz@a@PwABe@Vw@~@Qp@_@fCF`DKl@Sz@wAfBg@jAs@dAKnASnAAb@jBdBXb@l@rBX`@TTv@^bABhAK~@@|@p@f@~@TbBlAbDr@rAX`@JZbA~@fBbArALhAAfEuAx@A~@NpA|@vA|AvApBl@pAZf@v@h@b@PtDOb@DpAx@^d@",
+    "average_heartrate": 160.1,
+    "average_speed": 2.825,
+    "streak": 2
   }
 ];
 
