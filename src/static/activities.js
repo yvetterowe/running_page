@@ -5570,6 +5570,20 @@ const activities = [
     "average_heartrate": 160.1,
     "average_speed": 2.825,
     "streak": 2
+  },
+  {
+    "run_id": 5893365283,
+    "name": "St. George W5R3 45\u2019 EZ",
+    "distance": 6639.0,
+    "moving_time": "0:42:02",
+    "type": "Run",
+    "start_date": "2021-09-02 13:07:59+00:00",
+    "start_date_local": "2021-09-02 06:07:59",
+    "location_country": "Starbucks, Front Street, Financial District, San Francisco, San Francisco City and County, San Francisco, California, 94111, United States",
+    "summary_polyline": "ufteFr|`jVMCGBQCACHGB@JEFI?SKc@Yg@OOIo@EGCa@Yg@}@k@QQOS]{@B?FDHJ[YS]gAeA_@o@_@SKKy@a@BIEEGCMSI?KHAMa@QUg@BQNIEBGGi@cA[]NHJL@A[WYg@CMHU\\YZGXOEE?ALMLGF@HMBBDKX]LUbAsARy@PKF?PMv@}@PMr@s@PS`@u@|@kAdAqAj@m@~@qAbAkANM`@Sj@UrAo@b@IXQVW\\Mv@y@|@_@rBg@j@Ej@Sd@?`@EvBAf@@h@HpAFvBHh@?dALb@A\\D^AbAFl@@nAP^AjAJf@JlAFLFv@Jh@AhBMb@QXUNIhEUtACd@Gd@?|AMd@?HBx@h@R@BG[i@a@Ae@Dk@?_@FW@OCg@@aBHuABe@Fk@?g@Dc@JeA^_@HM@g@?aAF[GY@[CgAQmCAeAGkAKgBEu@Mc@DuBKm@G[Mc@KULWBc@EqCEkAHe@L}@J_@XWT_@RgAXe@Pi@`@]HUPaAb@_@TkA\\q@Za@l@_AfA[j@{@|@[b@m@bA_@Re@d@iClDGk@PYFWWo@g@}@kCsF?B^x@dDxGBFAJ_@n@_@hAi@~@YVe@Vm@z@q@p@e@\\MTYV",
+    "average_heartrate": 150.8,
+    "average_speed": 2.632,
+    "streak": 1
   }
 ];
 
