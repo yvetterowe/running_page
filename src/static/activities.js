@@ -5584,6 +5584,20 @@ const activities = [
     "average_heartrate": 150.8,
     "average_speed": 2.632,
     "streak": 1
+  },
+  {
+    "run_id": 5899162095,
+    "name": "St. George W5R4 EZ",
+    "distance": 7075.4,
+    "moving_time": "0:47:57",
+    "type": "Run",
+    "start_date": "2021-09-03 14:31:43+00:00",
+    "start_date_local": "2021-09-03 07:31:43",
+    "location_country": "607;609, Hayes Street, Western Addition, San Francisco, San Francisco City and County, San Francisco, California, 94115-4620, United States",
+    "summary_polyline": "seqeFflfjVAb@DbAHj@ARBTN^VdA@RC`BDh@CZ@^H^BZLh@BFEG@f@GXFf@FP@\\ANBXTt@Ej@BNB@?@B??bAJX@J?p@EdALXPfCGHLdALf@PvAA`@AHFz@EvAJl@?FK\\AVb@tADb@@NCFP`A?z@ABDzAL\\PRB\\?~AHz@?VAVD|@TfA@x@BPBDAf@D\\I^Bb@Z`BFHd@B~AUz@@LFAXBd@NZNbA?RJt@Vt@Fn@Ad@ORBTCb@JtA?XG^Rj@Hb@IZAPNhBEb@Ff@JP@FD?@DBbABJVRJPDn@OZ?bA^xBDxA?NCFALD`@FRb@r@TfAB`@Iz@?bBElA@^A`@?\\Jd@?x@DXRp@At@J`AHPXb@Fb@LXb@n@Z}@JoAEa@m@cBMi@Iq@D}@Fg@Bi@OeAAmA@c@Ks@U_AQwBCuABs@I[MaAKIAINqDMc@Ac@G]DI]}C[qAe@{@Ww@AYJy@GsAP_A@{AEo@AeAUiAGu@FaAC{@EC}C\\[J_@V_@LYFYJWEAISCa@JS@ODa@?[HeAB}@TQCI?k@TIACKY_CEWEIAm@QoA@}@Ki@Ac@KiAAc@Ea@G_@Bm@AWG]?WKy@SkC@qAe@{G_@}GA]BGDCVE`CO@EAFC?OeAMiCEQG{AGWCA?B@SAi@OeBEUM{BGi@AaA[kDEqAc@cHEuBSsACc@My@EoBCQE}@IYQkCIOFQ@MA}@GkAG]EsAGw@@?ABMID@A@Cy@MeAAm@Im@Cy@KOa@HMDi@HiARgAJeANOABE?EC}A_@_EGeAC@AeCEuAWsASe@K]E_AO}@QgC?e@K_AA[Im@e@wBBa@Cm@B[",
+    "average_heartrate": 132.2,
+    "average_speed": 2.459,
+    "streak": 2
   }
 ];
 
