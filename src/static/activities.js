@@ -5612,6 +5612,20 @@ const activities = [
     "average_heartrate": 159.2,
     "average_speed": 2.54,
     "streak": 3
+  },
+  {
+    "run_id": 5921068243,
+    "name": "St. George W4R1 EZ",
+    "distance": 6479.3,
+    "moving_time": "0:47:35",
+    "type": "Run",
+    "start_date": "2021-09-07 13:36:51+00:00",
+    "start_date_local": "2021-09-07 06:36:51",
+    "location_country": "Powell Street & Geary Street, Powell Street, Union Square, San Francisco, San Francisco City and County, San Francisco, California, 94107, United States",
+    "summary_polyline": "ykseFzzbjVF@?RH@TO?i@HEt@?b@GPMb@?RIV@XHf@SZ?l@KLKTAXFLMl@XTTV?BDLGL?BEDIBq@DEmAaBKKAGGAKSOq@EAGOe@YWu@IKEOQUUOYs@Gg@CCA[EUIG@QGUk@a@C]WCKQ_@BCGD@UM]_@EOCA@EGE?GCGUGEKSQQBQCGGEQKECKKKEa@e@aAIEAKWMGQ[SQCEGGWEIAUK[Q?QKE[Uc@AMIMk@a@KCc@YAEOCAIKOCUIGMW?UCGOCQHGAGQAWKU@GES?IQKAGKKOEAIIEQCIY?m@[WIYGBGKSBIOCHEEBIAIFE@KQFECMa@MRG?KMICAIGCGQQIYYEBCGG?GWBe@GCAKBg@IOAKa@[?QOGCG?GECAMm@CWc@M?GKMBEOIDUo@@ICE?SICI]EDQMGKQCCEEV[u@E[c@]EW@SGSWY_@IKGGU?QKQQEc@BQY?KOS@KKa@GSOUEUOMMSYYGMDAKCFB@C@SDUf@c@TMf@u@FE?GGEFDBHGM~@c@PMDKV[XINULCBQFIB?DIG[@MEEFOXORCLK@IACFHBING@GV[OEF@@FEHBB@ShAqAr@e@@EGGf@_@t@kALIdAqAXULSHELOJ[RGDKPMbAWb@]C@bAg@R?Xc@RAJIOLSFWZ{@Z]Vu@\\g@JB?m@\\[HOTD?KH_ApAeAjA}@nAO\\IDQZG?FICKCHYb@oA|Aw@nAGBCG?_@TOJa@]e@u@cBMOF@KQ}@eBk@qAKMC?n@lADPV`@d@fArAlCBFOh@?^BJIZSPa@h@MZWR]j@SL_@`@oAp@g@l@]VCD?JVl@HZfAbBBVLHABBH^b@Pd@n@VZTDNLVLn@NL@RNVHJNHDLPPBA^TFN?TBJLNDTb@NAFDJ?P`@PJZVZR?\\RR?JH@NJJ@THBEPLGAHHj@ACJHDGBFPA?FHJf@AFB?PJXD^R`@@LA@BFCRDF?LRLLCPBf@GHMHBFP@t@BTLLRHHPAHDRC`@V@Xb@`@@HDFTNJ@HFBFPNHBFHBLRBRDDDVHz@f@ZJ?D\\TD^n@RFFPZb@f@Zh@p@B`@DHHd@HFCE?DD?CDFCDFF`@BHJFNn@ITCd@Bh@FBBDCZDJIP?JI^D`@FFGZ?ZJNAVGR@REX@^HPD\\?LCNPTFPCHDNCLBJ?\\BRGRJXCh@DRAXL\\?FIDK@UIUT]B_@PEAIMD[DM",
+    "average_heartrate": null,
+    "average_speed": 2.269,
+    "streak": 1
   }
 ];
 
