@@ -5654,6 +5654,20 @@ const activities = [
     "average_heartrate": 145.4,
     "average_speed": 2.458,
     "streak": 3
+  },
+  {
+    "run_id": 5942639496,
+    "name": "St. George W4R4 Long",
+    "distance": 24352.0,
+    "moving_time": "2:30:05",
+    "type": "Run",
+    "start_date": "2021-09-11 11:35:29+00:00",
+    "start_date_local": "2021-09-11 07:35:29",
+    "location_country": "The Thomas Eddy, 8th Avenue, Chelsea, Manhattan, New York County, New York, 10011, United States",
+    "summary_polyline": "{`twFzstbMXOa@b@Fh@QfA}AlE_@rBNRO`Ae@j@UpAw@pBEn@e@d@U`A]Vo@vBMhDOb@mCU}B_BgF\\iCwAuFeAOUqDKyBk@WPi@fAKrBcAfEU\\]BuBa@a@qBy@s@sDLyMuDkAmAsAi@{AqAwSgNoHaEwCgC_B]mJiGsBw@WEkBbGmAx@A[\\yAfAsAFkAt@oCXuBe@w@gCiBi@y@cBgAoBcCuAgA}@OeE}Co@SsDeCs@XgBk@_BgAsBUmE]{DmCmByAe@UuAGiAo@aF_EkBQu@u@}@}BkD}AgBgCqA{@s@GgDqBeBU_AiAuAGyEcDeCw@}k@q^iMaHaGoEs]cU}g@i[w\\wUoAe@}TsMoC}B_@EcAy@oBs@oC_ByEoDmIcIsAw@iGkFUeHaAe@eAMgBoAuAoA@i@w@wC}E{DORi@|F{CqBo@^{DsB}@TQl@NjAvD`Cv@A\\c@AsAa@k@qDqBa@Hi@z@Bt@Xh@vDnB~@OPo@Cm@Wi@aEyBg@J]nAPr@^\\hDjBFVb@EVWZeAM}@Yg@oEmCy@Ti@vAJdARZpEhCz@O\\i@BwASk@wEwC{@Ze@xAN`AtEtCz@@^_@PyAMk@Ye@iEeCq@L[lA`@bB~D|B~@_@Jc@Eo@Wk@sD{Bk@?_@h@Gr@\\dAfDlBf@H\\OR_@@w@Mi@}DeC_APUn@@j@Rj@hE~Bd@IV[Ji@SeA{D_CgANO`@Ap@Lf@dEdCd@?^SPs@WoAsEgC]JUb@In@Jp@nElCx@W`@sAi@kAwA}@zAbAXHTQfBpAt@Rd@sFJa@b@MlAwEtAkDhGrEnAd@pRlM`@Th@AtAxAbA\\bAv@ICxA}AnFwDlCmC|FqEf@e@Rk@lCwArCtAvPnLhKjGpBHbHU`ANnHnEXCd@\\BVlFpCbA~@~DrBh@h@dCmI`FvDhDpBLYrCcA\\aC@cAh@u@fC`@`A`EpA|BdCfBdGrCt@v@z@bCr@bAbAj@vCI`Br@h@r@rAtGj@dAtBtB|BvA|@PjBKzEgAdAJzAp@vBvB`BhD|@lAzA`@`E?fBfAbEvG`FdF~BfF|AbBbA\\bJ_@bBv@p@zARfBdAtAfEjCjD~@nC`BpFjIfBnBlA~@lChAp@jA\\`Bh@Ov@TJeB`AoB^aB\\c@EGm@]y@@DnBy@tC",
+    "average_heartrate": 160.9,
+    "average_speed": 2.704,
+    "streak": 1
   }
 ];
 
