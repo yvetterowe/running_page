@@ -5668,6 +5668,20 @@ const activities = [
     "average_heartrate": 160.9,
     "average_speed": 2.704,
     "streak": 1
+  },
+  {
+    "run_id": 5949057739,
+    "name": "St. George W4R5 EZ w/ \ud83d\udc11\ud83d\udc11",
+    "distance": 9173.9,
+    "moving_time": "1:00:04",
+    "type": "Run",
+    "start_date": "2021-09-12 13:00:13+00:00",
+    "start_date_local": "2021-09-12 09:00:13",
+    "location_country": "1, East 80th Street, Upper East Side, Manhattan Community Board 8, Manhattan, New York County, New York, 10028, United States",
+    "summary_polyline": "ak{wFx|lbMHFb@Dl@VPRN`@LJfCjBvAnA`An@\\ZXP`@Pl@d@nAr@j@Ph@b@xBnALNb@Xb@^z@Zl@l@`@Rd@`@z@\\l@f@`@ZPNfAv@ZRZXZDzBxA|C|Bp@ZrB~AfAr@bAf@xAhA^RRPXPx@\\^Z^PNPnAl@n@j@lB|A}PlTSHYA{EeCoAgAc@c@]e@U_@Qe@Ki@A[?cAPk@`@eA^yAAsAQo@o@yA_@c@[We@S_@Km@YSO[]a@o@g@wAg@mAg@w@i@a@c@Sa@Wi@S[Ia@A_@F[Hi@b@c@Li@H]ASEQA[IUOi@i@}@m@GI[e@Ue@e@wAOWa@k@_@C_@Ae@JY@SEy@e@_@MOAwAYqBw@w@c@yAcAmA{Ag@w@]_@gAw@[M[QqAg@cAk@s@i@w@iAM[c@qAa@oCBk@PiA?_@J_ACq@I]Qk@[a@{@s@gCiBs@]aAo@e@a@e@W}@m@QG_Ag@II]SSU_@Qy@e@MK[MSWsDcCuAq@SCg@?a@Fk@Ai@Eg@MWKc@Au@Bk@JUL_Av@e@TK?kAKg@SgCaBkAgAkAsA_CcDa@Sc@Ea@?u@Le@@k@C}@Q{AUc@M_Ae@][w@qA]gAWk@[SSG_@DIDSZMj@?d@Fv@P`@f@z@JXHbAId@Qb@UT_@Jg@Mc@]a@c@]Y[_@kA}@U[YO{@_@u@Mw@FSNe@d@q@~@k@bAQb@YfAQvAKvA@f@Gj@CJ[XAHBhADV`@r@b@d@n@Nd@FVCJGPOTi@TyALe@Ta@b@g@TId@I\\DXAVEVOH?`A]j@B^HvA~@P^JHt@bBRx@VdBb@z@bA`@p@TXRL\\V^L`@Z~Aj@rBN^bA~An@h@r@^VP`@NZRrAf@\\PTP^P\\XTTf@r@NZ\\fAT`@^d@|@ZDCb@DlBEb@F^NXPd@v@n@rCHn@Nh@d@fAJNHB\\n@ZPp@fA\\X|@b@HHDHXJbAP^B`AG|Aa@nBq@v@@b@Dd@J~AfAl@t@HFVVhAjBRv@Zh@f@j@j@X|@Lj@IfBC^BTJ",
+    "average_heartrate": 153.8,
+    "average_speed": 2.153,
+    "streak": 2
   }
 ];
 
