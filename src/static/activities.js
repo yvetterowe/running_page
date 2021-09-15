@@ -5682,6 +5682,20 @@ const activities = [
     "average_heartrate": 153.8,
     "average_speed": 2.153,
     "streak": 2
+  },
+  {
+    "run_id": 5958266823,
+    "name": "St. George W3R1 EZ",
+    "distance": 8367.8,
+    "moving_time": "0:52:04",
+    "type": "Run",
+    "start_date": "2021-09-14 10:38:16+00:00",
+    "start_date_local": "2021-09-14 06:38:16",
+    "location_country": "USS Maine Monument, Central Park Outer Loop, Manhattan, New York County, New York, 10023-7503, United States",
+    "summary_polyline": "qoywFvkpbMBJPIQQBq@JiADWJa@Zs@FY?c@CYKaAK_@Zi@Vm@n@eAViAJeA@gAMm@cAgAu@[YKgCqA[K[QUSu@e@[[eA_BOc@Ig@Ee@?m@Da@Ty@?Gt@_CDe@Eo@I_@Qa@m@eAu@s@KE}@W{@e@SUYe@i@wA[kAa@{@WYWKOOkAY[Q]Mg@Io@Ca@J_@`@g@Va@De@?]AQGQIs@i@m@q@m@}@Q]gAoCm@W]GQA_@HWBYEWK[Ei@SWEo@U}@QyDeBSS]Uu@cAM[]o@mAoAUQmBy@_@EYM]WOSeAo@W[Q]g@qAYyBKWGe@AQ?KVoAHq@BYAm@OyAa@o@SMmAaA]SWKw@y@e@Qk@c@]Ma@c@[Iw@c@[MiAw@wA{@QSw@c@YYkBkAo@o@c@Gu@UaAUg@EmAHw@@}@Q[Kq@?e@F_@LUVc@f@]R]Ds@E{@Uu@]iCmBw@{@IQa@[g@y@]w@s@{@{@[a@GcAHe@H_BSo@C]K]Ag@@]dAC^Dt@Ff@NZl@v@fAxBNf@PpA?n@W~Aa@~@YV]l@Q`@CVR`@H^L^XnAJr@ZjAb@dA`@b@b@`@dAn@xBhAbBn@f@Vf@^Z\\Vb@n@~A\\lApAh@^DpCKd@FZTPTH`@TVH`@Z|@Jx@Jj@d@pAFTjAdB\\^^\\r@`@HHjAb@lAPb@?pAOdA[jAg@d@E\\Af@Df@Tf@Z~@r@^^j@r@t@lAr@hBVd@\\X^PNB`@@d@Ep@DdAGjAVVL\\Zx@dApAxBTf@xAlBf@b@\\b@^VNX|@|@f@nAh@z@Zt@j@dALXh@Rh@Xh@PnA@VGfCIn@Id@Aj@Bd@J^R\\ZPXVdALrANl@V`@`BpAN@hB|@nAf@h@L^Fn@Pz@h@\\Xh@j@j@`@Z^Vd@\\v@dBvBf@|@Z\\JV@Nz@x@JDT@TLn@V",
+    "average_heartrate": 161.1,
+    "average_speed": 2.679,
+    "streak": 1
   }
 ];
 
