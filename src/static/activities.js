@@ -5710,6 +5710,20 @@ const activities = [
     "average_heartrate": 169.4,
     "average_speed": 2.817,
     "streak": 2
+  },
+  {
+    "run_id": 5969263240,
+    "name": "St. George W3R3 EZ back to streets",
+    "distance": 13117.7,
+    "moving_time": "1:32:08",
+    "type": "Run",
+    "start_date": "2021-09-16 10:29:43+00:00",
+    "start_date_local": "2021-09-16 06:29:43",
+    "location_country": "Marea, Central Park South, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States",
+    "summary_polyline": "sjywFplpbMXm@q@_@p@}A@Yv@cBEs@eAa@n@eB`@i@xAyDBa@\\{@|@qAF}@h@{ACSPs@|@cA`@u@He@E_A`AiBa@o@cAe@FiAb@y@_BqAGUtA{CT{Aa@]YaAm@{@_@yBOQwA?_Aa@[_@sAw@FUGKmDoAoAYq@e@Me@eC}AkAOa@i@@e@wBaAkA]u@eA{@g@]q@_@XcAqBy@U{@gAE]oBs@U`@YEe@g@Ko@aBsAKa@kA_AwCcBeAMQWDMo@Wu@eA@e@uDe@yAmAoBiAmFmBw@oA}B_B[{@F]GaBt@uAdA_EVYXaAn@cANGDZ~@OFz@LJ|COLh@^f@~Bz@z@pAlAn@Z^d@GIXzC|@J^fB`Ad@@l@f@p@DS^?b@jBDZ^^nAxBC`AlCZPn@fAjBtA~AM^^fA|ABh@Zh@xB`@F`AtB`@Pl@h@DPr@`@GLZTIp@l@zBCA\\^~@xB|@PlAf@@nAfAr@F^`@~@\\zAhBh@F`AzAlAOl@j@XbAnAh@b@l@Vo@n@IJTAhBzA_BbAg@Za@@cAt@eAbA_DnBuEDe@qB_BEYcA?kAoAgBqAEO\\c@IUmD}Aw@s@@Sc@m@k@UeAaAqAk@YRc@IsCmAaAi@M[y@My@y@YEcCkBSi@uB_AuAgABYVWMFe@c@Kk@}AWkEaC{@y@aCs@SSFMMOgDsBg@oAkCs@yBeBe@IO_@iBaAEg@qCCUi@yA}@Mw@mAo@Qq@y@I_C_BaBi@ZcBdAmBC[ReA~@cCA[OIdA{APm@KiA^e@jAiEOSPGUJAq@tAoB@s@`@e@jB_EBw@^i@n@{BBi@r@c@jBrAnEzD|AdBhC~ERLVKx@f@bMlLpC`BrA|AdAp@J`AtEtBvDzCb@p@`BdAyCiBZ\\[zALE?f@Qv@MTiBbAQrA]dAAn@YHBJbBzArBJbAr@lAZ`@h@HZbAr@bBt@jFxDlAXPb@vAh@X|@n@p@tAt@h@CPP[z@GtCs@fCO~BJ`@|@x@ZNOd@Ld@r@JJRSzASb@ChAPg@MbBs@nAShCm@z@U|@cBvEeAr@BX_ArDE|@gAlA@n@Y`A_AlAFt@QZOnBs@~A}AvAOn@Fb@Yd@c@|BcAxC",
+    "average_heartrate": 152.7,
+    "average_speed": 2.373,
+    "streak": 3
   }
 ];
 
