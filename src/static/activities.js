@@ -5724,6 +5724,20 @@ const activities = [
     "average_heartrate": 152.7,
     "average_speed": 2.373,
     "streak": 3
+  },
+  {
+    "run_id": 5979293773,
+    "name": "St. George W3R4 EZ",
+    "distance": 4659.8,
+    "moving_time": "0:29:17",
+    "type": "Run",
+    "start_date": "2021-09-18 11:18:49+00:00",
+    "start_date_local": "2021-09-18 07:18:49",
+    "location_country": "Arth Hat, 1794, Broadway, Columbus Circle, Manhattan, New York County, New York, 10019, United States",
+    "summary_polyline": "cjywFxnpbM[tG`@cAb@]DMLO\\_@BMFCLATQL@FBz@MzAIH?R^KPBFNDREBE?XBFBA@DJDRTt@XTf@V\\b@Zn@ZFFDZTVCFLK`BNt@IxAEfA`@f@h@PXj@`@h@RH@NFLA\\Qh@HHPFI?@R?PVJd@LL?RFLv@n@RF^S@JB?N]RKF?HLNFj@PtARJLFTDDx@BZFTJx@@z@d@\\ZJBV?JFf@Fp@^LLLBnAt@R^f@AHDFLP?PFRPPPx@\\LH^NTXNJHPPRXNNj@A@d@r@J?LA^]b@S\\i@FWNQ?KFCAEFCCGD?GFADD@D?ZSP@JEj@HNDZFHIJCNFPBFFLF^JDEx@HT?XLLLJIBALDR?l@J`@@j@Jb@JJDHHTH\\Gz@DZFPHPBROp@F^LNLVl@?DZWTYXAf@Hj@TPADBf@EP@n@DTD`@Vd@`@AMCC@CNH\\HJC@GJED@bBj@H@VE\\BR?R@f@JPEFDEK?G@CFBKXHAJBLV@@z@Kn@?z@Lh@Dz@NdASp@DXAd@DPFp@l@NFh@@t@PVLJ?V}@Rg@F@CRNABBN?XZHNZJDCNALDL?`ANNDVGFJp@HFHLDV@TCLFbALx@Zv@B|@Zh@VXJX@TIb@Nb@HfAVd@FVL`AX`@\\TJZX\\NXLj@Jf@MTML]BQNUh@s@@ADHNKLo@Pc@Ba@TYCCZBBC@D^NPALW^UVk@PULk@Ju@DIRQDMH_AHW\\q@\\]Ha@^qAHOVw@HMD[HS?WBMZ]^[Ra@?SLOFADQFIC]DE@KJOr@gBHq@JQ\\O@CDK@UZqAb@}@^_A?KNQHg@BYLg@n@}@Jg@Tm@",
+    "average_heartrate": 140.8,
+    "average_speed": 2.652,
+    "streak": 1
   }
 ];
 
