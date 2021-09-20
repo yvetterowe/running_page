@@ -5738,6 +5738,20 @@ const activities = [
     "average_heartrate": 140.8,
     "average_speed": 2.652,
     "streak": 1
+  },
+  {
+    "run_id": 5986033578,
+    "name": "St. George W3R5 Long \ud83e\uddd8\ud83c\udffb\u200d\u2640\ufe0f",
+    "distance": 26191.6,
+    "moving_time": "2:28:40",
+    "type": "Run",
+    "start_date": "2021-09-19 11:24:10+00:00",
+    "start_date_local": "2021-09-19 07:24:10",
+    "location_country": "Center Drive, Brooklyn, Kings County, New York, 11215, United States",
+    "summary_polyline": "{kdwFzmnbMe@cBcAyAY_Bp@mCg@~CXfAeFm@yAkAo@uAo@eCJcDe@yCIeCNoAd@sA|IqDpFaDdEGvFuBpAKjEr@lDvBtBvCdA~BzAvMd@`BuAcHK}BcBkGgDgEkDeBcBa@_CJcHlCoBS_B^qErC{HxCq@bAU~Bt@`GWnDf@~Bh@rAdEnBx@?XKBUIAv@l@|@lBT|@hAhAnChAr@|@v@vC_@{Ag@cAeDmBo@kA]CmAgDa@S~A~@uH_BaAg@s@eAy@{BMgAPoDw@wEJoA^sA@[QM}EPmL`FcBnBaBxCe@vA{AzAcCLcCbAc@@qA[gBeAkBSuAf@{@nCPxBr@pAlDxBpDfDdEbAdIU`Cn@dCvCbD~A`DnDjAjB`B`FfB`D~B~A`CGhBmCdA_H|BmDbB}DrAoADuAc@_Ba@k@aFmDqBsDcAc@_Di@qAu@q@mA{@mCI}AJqBo@sEB_B^aACm@iEFwKrEiA~@gCbEmAvC}@v@wBF{B`A_AHuAWoCyAmA?sAz@k@xAKx@HrAv@~AvD~BnD`DtD`AfIYhCv@tBzBlEpCvDfEjDjJhA`B~BpA`BMj@]z@oA\\sA\\eDj@cBfBiC|AuD|@{@xBw@`FN`BMjAa@|CkD~As@zAA~Ct@tAGlBeAhAmB@eBe@gDuCsEgAwBu@kDUcDw@}E_AmCcAaBaB_BkEaCmAQwBJsGfCeDCwHbEqHpCaEHcLpE_EfEkBtE}@~@qCL}CfAaAK_DeB{BNcAhAg@vB?r@d@vA\\`@`E|BnBbCfB~@dDf@xHYvCtAvA`B|BfAlE|DhAvBdD`J|@hAfClA|ASlAkAr@cB^gEX_A`C}CtBgEhByAvFLnC[dAi@pCuC`Bo@nEn@|BOpBcAv@oARwAGwAi@iCqDgGcAaCmByNs@gByB_DkA}@}BkAuDq@aBNyEnBmC?iAL_GdDsJzDaD@mLhEsA`AwAtBmBdEkAtA{CXgChAcBU_C{AqB?uAhAYhBLnBn@pAr@t@fBn@dCbDl@\\bCt@`CNfDi@tCVbCjAfAdB`C|@nDlDxApBn@tAb@nBtBrEhAbA~At@rB]`AgAf@kAVmDh@iBbC_DnAeD|AsArCq@`DVjBEpAq@rCyCbBw@~ADnCj@nCa@hB{ARu@HeBIuAa@mBi@iAyCgEw@kBOm@c@{HuAgFkBoCwCiCcC_AsBY{Cf@oElBqCGk@LgGdDmG`Cm@d@[x@IbCh@zEIvEf@lBvA`ClHhBhBzC",
+    "average_heartrate": 163.6,
+    "average_speed": 2.936,
+    "streak": 2
   }
 ];
 
