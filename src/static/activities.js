@@ -5766,6 +5766,20 @@ const activities = [
     "average_heartrate": 150.7,
     "average_speed": 2.562,
     "streak": 1
+  },
+  {
+    "run_id": 6000772689,
+    "name": "St. George W2R2 workout",
+    "distance": 13487.8,
+    "moving_time": "1:22:31",
+    "type": "Run",
+    "start_date": "2021-09-22 10:26:13+00:00",
+    "start_date_local": "2021-09-22 06:26:13",
+    "location_country": "59th Street\u2013Columbus Circle, 8th Avenue, Manhattan Community Board 4, Manhattan, New York County, New York, 10107, United States",
+    "summary_polyline": "}qywF~npbMl@o@j@cEbAoDFc@KyAIUGACJEMH[t@kA`@wAVwADq@CaAMm@WSeBy@_@IsBiAiAYm@m@e@[uAiBUaBBmALk@|@cCFuAGw@k@{Ak@u@aBu@_AU_@YGYW]Wy@U[]sAk@m@CMOSsCeAMSw@Ku@L_Av@[HmACa@Ka@k@}@e@o@m@_@s@g@oBW]k@[aAGs@FaAe@a@Gk@Y{@QeDmAq@a@w@o@mBkCy@w@}@i@wBw@iCgBg@e@O]g@cCW_B@gBLg@JgBQ_Bq@wAY[uAe@wAeAqAoAq@c@}BeAwBmAsBgBaAcAsA_AaCcAcAIgBPkDa@iAXkA`Aa@LgAE{@]mCiBqAgAcAmAuBaDSO_AK}BRyDi@]@SRUj@@p@JnAjBjDt@xBDbB]bBw@|@m@|AEb@j@jBx@`Eh@lAnAfAjAp@zEjBh@\\lAvAbAtC`@ZtA`@~CMbAl@f@pAfAzEd@nAhArBfAz@pAr@fC^r@GhAYz@a@rASb@EvAXxAbA^l@xAdBfApCz@~@`A\\b@BrCQ|@Tv@d@\\`@xBdE~AlBd@V`CpCxBzERRt@pAZRhAd@h@FvGc@t@Ff@PbAr@Ph@`@lCj@fAz@|@fBx@zCbAnAXrAp@x@x@fAxA|@lBxArBdC~C|@h@dATd@BnAa@d@[^}@pAaBFi@^_@j@qAFcA^sB?g@G]U_@q@o@iA[}ByA{@a@i@m@uAgAeA_BQsADoBpA{DA}@wA}C{@g@sAi@gAeAwAiDk@aAo@k@qCeAy@EGNm@`@[t@Ir@TpBi@dBa@lCGlBL~CKv@Kd@c@v@sArAWd@[hAE`@@h@VvAl@v@vAbAtDbBzC`A|A~@fAnANh@tCjFx@v@rCnBrAXhAI~@g@tBkDx@_BX_A`@yBGy@Be@Ig@a@q@SQmHmD}@q@gBeCKm@cAP[d@MXUbAG~AMZ[Ve@bB[Vo@Vg@d@Qj@?d@z@z@`ApB`B|B|CfD~@r@b@RpATbAk@`A_Ab@aABa@d@]f@If@FrAbATWTFE@d@Az@Kn@RJDFl@rA`A\\z@TZd@P?DF?AFnC`@x@\\z@W@INIGOK}@Bw@j@qANMJYLA",
+    "average_heartrate": 155.2,
+    "average_speed": 2.724,
+    "streak": 2
   }
 ];
 
