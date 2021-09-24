@@ -5780,6 +5780,20 @@ const activities = [
     "average_heartrate": 155.2,
     "average_speed": 2.724,
     "streak": 2
+  },
+  {
+    "run_id": 6008877580,
+    "name": "St. George W2R3 EZ",
+    "distance": 9656.1,
+    "moving_time": "0:59:38",
+    "type": "Run",
+    "start_date": "2021-09-23 21:43:36+00:00",
+    "start_date_local": "2021-09-23 17:43:36",
+    "location_country": null,
+    "summary_polyline": null,
+    "average_heartrate": 132.1,
+    "average_speed": 2.699,
+    "streak": 3
   }
 ];
 
