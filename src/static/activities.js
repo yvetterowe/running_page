@@ -5808,6 +5808,20 @@ const activities = [
     "average_heartrate": 149.3,
     "average_speed": 2.362,
     "streak": 1
+  },
+  {
+    "run_id": 6032448976,
+    "name": "St. George W1R1 workout",
+    "distance": 8226.9,
+    "moving_time": "0:52:21",
+    "type": "Run",
+    "start_date": "2021-09-28 12:22:10+00:00",
+    "start_date_local": "2021-09-28 08:22:10",
+    "location_country": "USS Maine Monument, Central Park Outer Loop, Manhattan, New York County, New York, 10023-7503, United States",
+    "summary_polyline": "onywFjmpbM[OU@a@Tg@b@I?[Se@iAIEK@]A?DOb@i@f@ELAv@KVCNEDIGB?e@AG?IFMp@]~@[fAY@MH?VQfBFPf@b@jBhEKKINKEUHEDOb@e@n@a@x@Ul@GDSXy@fBQt@?l@GZ@BMZ[vAUr@I|@Yn@_@pASJQXQx@Sh@G`@BRADB@?BGRm@bA[lAW\\?VSf@k@X]VBNA\\`@bA?HE?JCZ?RD@DIfAMx@@n@KHEVMZET@NGHMDEL]HQEMI]c@}AgAuAw@k@Ua@e@_@Oc@Bc@C_@YMQYg@YeAOc@QUa@SUCQ@g@Og@U_AeAe@{@QW{@o@g@I]O[QaAw@SKu@i@QIQBSAUE_@a@e@KOLEbANnCHbEDr@BBDKQoD?_BB}@Iw@@a@Ei@QUa@@i@Em@YyAmAa@Q]Y]EkA_@s@m@oAw@i@Y_@UGGoCaBm@YqCcBs@m@eAo@cAe@a@YsD{BCLCpD@n@HJ@AEMCa@DaECIQUk@YqA{@wAu@a@[yA}@KKoCyA{ByA]Q][gAs@oAm@o@W{A_AeAu@{BwA_A}@uA{@c@UyAaAs@m@CBDJ\\N`@\\~BzAdAl@dBvAnCbBz@j@t@d@vAl@dAh@tCnBtC|Ab@^`@NRRjBhA\\Xd@V\\Vd@T`Al@|BhAx@t@hAl@hD|BdH`E`@XxDbCnAn@`@PTBTRvAr@zAbAd@HfAEVDDH\\R|@V^Rl@j@X\\Xb@ZZhAVR@@ATNjAnAd@~@`@b@dAb@n@JTF`@Vb@l@Rf@F@REV@jAd@\\`@ZVBf@@BRSrAf@XAj@Zj@v@d@xAXZTH^Fd@?BIFDCDNc@N]H_@Rm@Rs@n@aBJuAAGKBKBAD?MDYF_AVq@Zg@Vq@b@s@Pi@VyAFGFUNO^}APa@TYr@aBFa@Tg@T{@?IIK@KDUL]BOJOfAeAjAmBZa@Pm@h@CDJDG",
+    "average_heartrate": 152.4,
+    "average_speed": 2.619,
+    "streak": 1
   }
 ];
 
