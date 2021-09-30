@@ -5822,6 +5822,20 @@ const activities = [
     "average_heartrate": 152.4,
     "average_speed": 2.619,
     "streak": 1
+  },
+  {
+    "run_id": 6037649001,
+    "name": "St. George W1R2 EZ",
+    "distance": 6258.8,
+    "moving_time": "0:43:03",
+    "type": "Run",
+    "start_date": "2021-09-29 12:21:02+00:00",
+    "start_date_local": "2021-09-29 08:21:02",
+    "location_country": "Central Park South, Columbus Circle, Manhattan, New York County, New York, 10019, United States",
+    "summary_polyline": "omywFplpbMPCC?CS\\w@CO@YDMJWTULg@`@_AXkA|@iB?KF_@J]@WLYPk@JOZWR]LIBEn@aENGRcARe@f@}APmBF[LSD_@RSPKd@s@BYIKCW}@}@Qc@Cg@H_@P[IG?CJId@m@\\MRg@?]JYJWb@i@P]?SDO\\q@^a@HOJc@Fm@Pi@Vg@PKBIAIIK?YF[f@sA`@y@?GJYHEDo@JMOsAFWP[n@sBPSBOPa@d@g@DMEWE@V_@@IJK^_Ad@wAr@qAPq@LY?GJm@IIEA?ID[Vg@T[Dk@FQHM@[FURg@R[~@sBDUX]GELFBHCDi@f@q@fAUn@Kp@@@XQAg@Fm@FS^m@DQPi@t@wATi@r@_ADYLa@f@q@Jk@\\cA?{@Fe@n@cAl@aBNs@j@{Af@aALa@Lm@Xs@`@kBX}@FY^}@Z}AXc@^uADa@Tu@Vy@r@uAX_@Ro@Ra@^_AAKNm@Xk@\\_ALs@DITu@F_@AIq@~AkAlDWh@k@~ASr@WpAo@dBI`@Of@_@|@Mb@Q^c@nAe@|@Yv@Qj@Yn@Yt@c@vA_@dBU`@a@pAk@hAG\\U`@Sn@Mp@mApBYpAWv@C`@St@Wf@I\\@`@?JMFIPOb@C\\g@|AUf@KF?BFO@c@f@{BN]X?j@P`@\\PZ?FCAFFXDJHn@Pb@R@D`@d@bAZH@^R\\Tj@TXTHPh@TTDl@XB^g@v@WhAEn@?dACLBVB@?DMZYf@GF]NAH@DNXAJN@AJIHYr@CVM\\{@hAS^IDKRCZKv@g@n@DNIx@UXITWRGXIXu@hBm@n@W`@RHD?CRMVDPAPWx@?FLN@NGNSRIXCZCDDVEf@SPQ`@ORi@b@Yf@c@~@EV?\\Hj@ET]j@a@RUNIP@BAPU`AATO~@M^GNWRLE@@OBy@dDa@hAAV@VIv@Kb@EL?EMHGZQb@a@p@Y|@[h@EBCPELANBDC?@??FYl@G?",
+    "average_heartrate": 147.3,
+    "average_speed": 2.423,
+    "streak": 2
   }
 ];
 
