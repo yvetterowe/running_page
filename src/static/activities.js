@@ -5850,6 +5850,20 @@ const activities = [
     "average_heartrate": 165.2,
     "average_speed": 2.962,
     "streak": 1
+  },
+  {
+    "run_id": 6109625643,
+    "name": "Evening Run",
+    "distance": 6087.3,
+    "moving_time": "0:48:13",
+    "type": "Run",
+    "start_date": "2021-10-13 23:15:35+00:00",
+    "start_date_local": "2021-10-13 19:15:35",
+    "location_country": "Central Park South & Columbus Circle, Central Park Outer Loop, Manhattan, New York County, New York, 10107, United States",
+    "summary_polyline": "qoywFngpbMH_@^_AFU@YK_BIIAIBa@Ze@Tg@d@}AHg@Ti@?oCGSc@s@[Ua@OmBaA{@g@gAk@k@a@cBoBS[Wy@Gm@By@Fe@Lg@p@_BHa@Bc@Ca@a@}AGQc@y@YUu@i@[Gw@a@o@q@Wa@iAuC]k@]_@a@Qa@Wk@UOC?BNIMKu@Qe@Cc@@MDYPUXa@Hm@F_@Cs@Um@k@UIq@i@u@sA{@sBKQYU[G_@Ci@FO@KCgBq@gAYy@Kw@Y{@i@u@Ws@e@e@o@SSSYIUyAaBi@a@wBcAeCwAWSe@g@cA{BIUC]Kg@MkA@QNcAFqBCaAc@mA[e@{@k@y@y@_@Yk@[a@Os@i@KM[MQSa@Mo@a@WCULEFBFFB?DQAADZPD?@BJH~BvA`@Zr@\\`At@p@\\^Xn@pAPhA@\\A`@@?M~@Q~@d@ZVJd@\\Pz@LXBVH^h@lATVZX\\Rn@f@\\NXDHFb@LdB`A^f@VLd@l@VT`AzANJXZTHLPTNt@X\\R\\NfDr@`AVTJZH~@S`@JZNh@dA\\hAL\\PXn@r@XPz@t@l@\\j@FrA[~@g@b@Kh@?hAb@\\Ff@R^Vv@~@p@`BDZLNPj@TVLX`Ar@p@Th@VZTXXl@jAL^Bt@EjBg@xA[pAEfABd@Tz@j@t@RNP\\VV~@n@pEpBrAf@ZBPPDd@G\\Bn@M|AEr@y@|CC\\G\\Yn@",
+    "average_heartrate": 144.9,
+    "average_speed": 2.104,
+    "streak": 1
   }
 ];
 
