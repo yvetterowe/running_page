@@ -5853,7 +5853,7 @@ const activities = [
   },
   {
     "run_id": 6109625643,
-    "name": "Evening Run",
+    "name": "Bountiful, blissful, beautiful \ud83c\udf19",
     "distance": 6087.3,
     "moving_time": "0:48:13",
     "type": "Run",
