@@ -5892,6 +5892,20 @@ const activities = [
     "average_heartrate": 154.4,
     "average_speed": 2.336,
     "streak": 1
+  },
+  {
+    "run_id": 6145242503,
+    "name": "Morning Run",
+    "distance": 4435.4,
+    "moving_time": "0:30:25",
+    "type": "Run",
+    "start_date": "2021-10-21 11:43:44+00:00",
+    "start_date_local": "2021-10-21 07:43:44",
+    "location_country": "Central Park South & Columbus Circle, Central Park Outer Loop, Manhattan, New York County, New York, 10107, United States",
+    "summary_polyline": "anywF`mpbMSj@r@g@MDEOC?[YSYGm@@mAHUVe@HUTYJa@Be@G[Sm@B_@Ei@b@_AVc@\\cABi@Hm@DiAGk@GU]g@UUoCqAeCsA]YIGEKgAaAw@aASw@Ec@C}@Hs@Rm@He@I[@a@JWBSSWq@PF@o@_@yA_@cAg@s@Qc@A{@a@_@Ku@Sm@I_@MeACg@SSECKKO[DAEBCACEAIF@?HCEHID_AeA]SSY[KURA^RXJ?PELU@KGUQYGc@M]a@u@GEB?Si@Ge@BUNa@j@C\\DnAB^H^v@H`@@l@i@tCe@dDCd@@x@C~@BHNVT@HB@~@DAd@e@b@Qx@I^@^PT\\C?QIy@Q_@Be@Lg@BYJW`@W~@]r@w@r@OXOd@UlAEZBRR`AJXDDBJCLJNnA`A`@LPc@^YV]j@{AB@_@lAU`@{@z@IL?Bp@\\n@H^Zb@Fl@Zj@NdAb@f@X\\ZvAfBTf@^l@n@zA\\RdAnA\\XTJDFz@VJV`@RLN_@eAf@SDG?@@GHAMHENFLJL^\\P@JEH?NDBEEs@Bk@DQZ]x@oAV[Z_AHo@p@k@ZO\\Bp@NJFN?NMVm@PAJGLQVS\\MRYr@]Lg@JKP@tAZGP?FTb@p@r@`@D@FHD?Fd@WNALDr@?hAYl@CPE",
+    "average_heartrate": 147.4,
+    "average_speed": 2.43,
+    "streak": 1
   }
 ];
 
