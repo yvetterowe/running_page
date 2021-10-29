@@ -5962,6 +5962,20 @@ const activities = [
     "average_heartrate": 147.0,
     "average_speed": 2.287,
     "streak": 1
+  },
+  {
+    "run_id": 6178208472,
+    "name": "The type of morning makes you wanna take today off \u2600\ufe0f",
+    "distance": 4831.5,
+    "moving_time": "0:36:13",
+    "type": "Run",
+    "start_date": "2021-10-28 11:08:54+00:00",
+    "start_date_local": "2021-10-28 07:08:54",
+    "location_country": "Central Park South/6th Avenue, Central Park Outer Loop, Manhattan, New York County, New York, 10106, United States",
+    "summary_polyline": "sgywFtzobM[mAGmAA`@`AH`BFnALNA?CB?MBa@\\[Pi@r@WNqAdCIDi@Ji@Rm@b@q@t@_A~@Q\\_ArA]p@WXCLIL[H]Ra@b@}At@OTSBWVq@xASTg@dAYf@Sf@Ib@SHBP_@x@Sp@W\\Wp@i@p@m@^a@bAKH_@n@UdA?l@Qh@IBGGKUAMMIQAC@EC]m@KWCOw@a@ACYQUW_@CSIIMGEk@Mu@IUIIMGP[OUSK_@IMk@SOK]BQGDQHIOEEUIIWM_@_@QKc@Me@E_@Ig@UW]m@]]a@Uc@_@?SAGGEKQQGOU]MCi@HKADEMGQA]QQMICKKMYGCQFa@BBAmAQ]HCJBA?Qa@_@IFGAgCqAWEc@?UH[C_@YK@CAQ?QHEB@BHFF?AAO@QCe@Q{@C[GMMm@Ui@E[Im@a@GIq@MIE?KSAGEKOkAcEDP\\I@WFYRUn@uATWT?F@@D^k@NeA?UAEFMReAV{@^o@Ly@hAwDDG\\@VF`@Rn@H\\X\\N|@Tb@PBPEFJgALc@Ny@Vs@Li@|@sBb@_BRaAJAZLBCRaAr@y@ZSh@K`@FTUPDX\\f@x@LZFOJIh@T^XJRBNNXFHPHfA?VCZGPMCBnBEDCDMC[CAG@LEGDH`@VJ^@\\Kf@@p@b@^^b@r@JJBdBP|@z@dApAbATFb@Zz@`@LJZJpAh@fAZx@X?DLJl@`@z@~@P^Z^x@~ANRLJtAfBbAt@ZXF@^TXX\\PHHb@H^BDBBp@XfARp@j@z@`@HL?p@J@FCCDH",
+    "average_heartrate": 138.0,
+    "average_speed": 2.223,
+    "streak": 2
   }
 ];
 
