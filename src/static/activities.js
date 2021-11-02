@@ -5976,6 +5976,20 @@ const activities = [
     "average_heartrate": 138.0,
     "average_speed": 2.223,
     "streak": 2
+  },
+  {
+    "run_id": 6196197034,
+    "name": "Morning Run",
+    "distance": 6184.1,
+    "moving_time": "0:44:28",
+    "type": "Run",
+    "start_date": "2021-11-01 10:20:44+00:00",
+    "start_date_local": "2021-11-01 06:20:44",
+    "location_country": "53, Chandler Street, South End, Boston, Suffolk County, Massachusetts, 02117, United States",
+    "summary_polyline": "s{maGz`xpLGIKD_@b@QH{@DaBd@m@Ro@NAD{@`@SBW?k@Xa@II@IFYd@]T]\\Y`@QPYEU?q@RSPUJWXGBW_@Kc@a@_A[{@Qw@a@i@e@c@O_@UWUi@G@GLBGVERWBk@ASKHG?GMWSg@Y{@NSMOEMMk@_@WB]VY?UMOCQHQVMf@Gf@IRSR_@VYJ?NHXBPAHGPCt@Hx@G?YNYFa@NWFO??\\CHFDE?MTAXEPABYDULe@DAJBBDARQ_@XSXSd@Gj@Cn@Fb@@A?c@AGCAET@\\c@VILERPd@Dn@N`@AJcAlBE^j@|@Rf@TbAPlA~@|Ef@~AjBhLLZ?LHZh@fAFZAt@Hr@lAzGTzA^`BJTNP^TXDl@OD@NZDRBl@?`@Jr@Nn@NbAXbA^jBNhAj@zCHp@J^Cw@[cDEkA_@{BOi@s@sDc@g@Ks@@o@Es@Ai@y@}ECUiAwGWcAm@mAy@wB[}A_@oCe@sBOwAo@}Ce@yCi@gCu@wBq@gANGNs@?m@C[QsAH?BH@^IaAHm@Ng@Vc@JMVEY`@CA@Kr@]FGHM@[Pb@JH?PA@HPn@~@`@dAFZDdALfACN@AFFLn@Zx@@\\ZfAFHl@|CPZCHC?FCN?VKVGt@c@p@QHGt@Q^Y|@a@h@ODBL?ZUXIf@Y^MTAf@KTQ\\NFC@EAINE\\DfAlAXTHNTNPF@BALXGHIKuB@SIe@Uo@G@ACDDJQ?GQ]Ee@c@o@YY_@cAGc@B_@CA?OVwAVc@z@YRM\\[p@WD@BAH@?Cp@SRBh@s@RKY_@@MBCb@Aj@OdBq@pBm@X@XYJWCI",
+    "average_heartrate": 141.6,
+    "average_speed": 2.318,
+    "streak": 1
   }
 ];
 
