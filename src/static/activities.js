@@ -5990,6 +5990,20 @@ const activities = [
     "average_heartrate": 141.6,
     "average_speed": 2.318,
     "streak": 1
+  },
+  {
+    "run_id": 6201052086,
+    "name": "Morning Run",
+    "distance": 8862.7,
+    "moving_time": "0:59:34",
+    "type": "Run",
+    "start_date": "2021-11-02 11:01:52+00:00",
+    "start_date_local": "2021-11-02 07:01:52",
+    "location_country": "The Century, 25, Central Park West, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10023-7503, United States",
+    "summary_polyline": "c`zwF`opbMzB{@QDdDg@pB_Ad@e@FQNKFUVa@dAwA@i@IKNgADcAFc@Zw@^i@L]Ls@Tw@By@C_@Mg@Ua@Y]mB{@eAq@iB}@sAmAw@aAWo@S}@?eC`A}C@s@Es@Qu@i@iASYw@g@u@Ww@m@aAcB_@gAOS?MIOaA_Ay@k@gBq@u@Kk@Bk@^s@Z]D}@Ci@QyAsAYOOWa@w@Wu@y@_B]Sc@EBIj@SCOmAi@_@[g@w@EU[s@D?DQOwAA_@O}@@CVF^RhCv@f@EVBEBRSz@gA?EKIEOFQLGDG@SHWAKPY?SCMWo@Cu@Ow@Vw@BUCIUMCGrAoDBMCABACC?EBQHOr@m@LEPOViABIB?PcAX[FS[YM[EWQm@]WIWYUWc@OMCG@c@]}@?WX_@CIJ?LaAAEGALGHW@KGUAQ@Ca@k@MAQWg@_@Mk@[e@KMOBO]a@BCFOLUf@Qz@KTW~@O`@QRCb@CBGED^Kb@Cp@Uf@]pAMV@JMd@A\\g@~@OJYb@Wj@I\\U`@_@v@Sp@KEKYqAcA_@g@]Sq@CUZGVq@r@IVGjAIP?HLTSKa@v@]?s@Ye@ASIc@AGPa@h@s@nAAr@CPEjAKn@Sd@c@NK?i@aAQy@}AkAAG\\yABeA[mBSc@[a@_@YcBiAcAe@c@a@[OwDsCoDkBg@c@sBoAs@g@k@Ku@JuA?sAU{Ae@YEWFc@TW\\Ol@Bz@Hh@Vx@Nx@Hz@@n@Cn@OdB]jBCj@@`@Jz@\\p@r@dAPj@Fn@@`@CdAJhBAdBI~AFjAXrAZr@PVpA|@f@NjAFnANhATpC^h@Jb@P\\@`@VHPn@VlAz@lAfAv@bA`@t@p@jB^d@d@Tp@R^B|@IrAAn@Jd@RlAjAh@z@jAxB~@tAX^`@Xz@x@x@~@^f@bApBj@xAt@lALL|@`@dAT|@?rF]`@BdA\\`@`@Tf@Tl@PdBRh@\\`@d@Xp@j@TLNIbDnAFJIt@ARB@^H`@?VM|@b@|@n@fAhAl@hAX|@JP|@lAd@v@`@d@jCvBd@Tb@Pd@Hb@CVFVh@`@`BR\\L\\`@HZ@",
+    "average_heartrate": 156.9,
+    "average_speed": 2.48,
+    "streak": 2
   }
 ];
 
