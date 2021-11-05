@@ -6004,6 +6004,20 @@ const activities = [
     "average_heartrate": 156.9,
     "average_speed": 2.48,
     "streak": 2
+  },
+  {
+    "run_id": 6210253775,
+    "name": "Morning Run",
+    "distance": 5030.8,
+    "moving_time": "0:36:27",
+    "type": "Run",
+    "start_date": "2021-11-04 11:21:00+00:00",
+    "start_date_local": "2021-11-04 07:21:00",
+    "location_country": "Marea, Central Park South, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States",
+    "summary_polyline": "glywF`mpbM?HWHi@US@oAKe@JSJq@?MWMMQYm@][?U[]EGDEEQFg@p@QL[b@]jBIXCFSJCFYDe@TM?SLOZGBE?_@Fm@GIDW?OD]B]JMLK@MMg@YM@FHAHOYCMGE?KAEGD_@Ba@NQAAE]@BMAKGAMJQDE@MGGBMPc@PS?]AOGYYKEy@Jk@@QE_@AQEGKWOw@SaA@cAVi@Ji@IYRi@CIAIKOo@Oa@IGCYYe@NE@MIGGKDUPYVi@XSJAVUXmAXs@@MC?HOBK?EMc@Ya@[SEONYFc@Ou@Ha@Dg@Ia@FM?EGOLGF?JI@OCGHGNY@s@POXGPKBCC_@Ly@NSh@[Nm@B_@Z]D@C?HC^@j@HV@f@Cf@InAa@XFAIp@_@Vc@Rg@n@u@d@[hBw@DI\\QXc@Ji@HuAFc@F_@Ti@Jg@@WGi@Bo@EKc@Qi@Mo@UcAUqAa@UCKE[uASc@AKg@{AWc@Qa@Gm@@k@Ge@Oc@Yc@Sa@SO{BVw@a@GBABFFZz@Lj@C^GNYBIFKb@QZKZAV@DPJHPP`Af@^Jh@?\\K^QZ@x@Qx@BFLDNEnAy@VUTWR_@JIZ@l@Hb@?jAi@^?~ANDJh@LI?dAd@b@L`BXjAZv@\\VDd@Vj@Dd@Hf@RrA^v@d@NXRRX|@c@zAEv@JzANf@f@`Av@dAf@b@jAn@`@Vh@TdAj@l@RF@`@RPPh@v@Nj@@v@Mj@Aj@a@xAQ^WfA[x@Hv@C\\@j@EXGh@Kh@M\\Kf@Yz@CRD\\FVVT",
+    "average_heartrate": 149.3,
+    "average_speed": 2.3,
+    "streak": 1
   }
 ];
 
