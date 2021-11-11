@@ -6060,6 +6060,20 @@ const activities = [
     "average_heartrate": 159.9,
     "average_speed": 2.639,
     "streak": 1
+  },
+  {
+    "run_id": 6238252566,
+    "name": "Highline leaf peeping \ud83d\udee4\ufe0f",
+    "distance": 8293.6,
+    "moving_time": "0:51:35",
+    "type": "Run",
+    "start_date": "2021-11-10 11:56:34+00:00",
+    "start_date_local": "2021-11-10 06:56:34",
+    "location_country": "Museum of Arts and Design, 2, Columbus Circle, Manhattan, New York County, New York, 10023, United States",
+    "summary_polyline": "ekywFpqpbMWIEb@Jb@GP?d@Il@@NOj@Af@OHGNGJEVGFAJWv@Gf@WZIPQ`A?t@b@t@d@f@LTBRCXRPD@?FLBh@ZTFJVPHPDLR^HPNt@\\V^XRt@\\PN?FMJ?D^PTFZZTLh@n@lAt@jBzALHDAjAr@nB~AvAv@lAz@N@?CBLAAb@V\\LTPb@T\\\\j@X`BlAn@l@HDV@DJJJVHTTn@LJHPVXHTP^NNJFJXXDNFBTDb@R~AfAb@BPX`@VRXl@NnAdArAz@bAbAz@f@fClBr@^FFTF~ArAd@Xl@j@n@JXN\\b@C?BEd@^t@b@nAn@v@v@\\VhBp@j@b@NTVD^Pf@b@v@TH?h@Vr@`AXRLNd@XHNNPbEfCVR@FH@dAn@P?r@n@VLfA~@ZFTLH?FHPJZb@~@j@ZXf@@JJD?rApARLVXx@b@^XD@`@^z@f@nBtAZL`BpAhAp@FJd@^RFn@f@`@N^NXBDDDCBD@JhAn@nAjAz@b@t@j@f@f@dAb@z@h@Jh@LH@FGr@BHCF@LKv@C^?JHZSZC?KLO@QPc@GU?a@I_@UeASM@KGKPWDDE[AYLKAIUSFU@a@Ge@O{Ao@UQe@Ue@G?IJWESi@QgA@eAIs@@SE_@Q]CQJQA]Ia@U_@YsA]IEOUMAF?aAa@i@a@L@AHaAu@a@WC@_@e@k@W[Ei@]W]kAy@e@UUCgAi@g@a@c@Ua@[HISUAEg@Uq@e@{@c@OOq@[GE?Io@YiAw@oAu@_@c@m@_@N@BEGBWZSJ_@XM\\SNIAKM[Se@MQNmBVEJ@p@GN[^u@L@RG?gDkB]Ys@[iBgAYUUIc@CMIu@s@Q[KGuBgAGIk@_@I?]a@QUBHK\\ULqAaAMEm@a@{@eAMYa@Se@KaDgBa@E[YSIWEa@UOUGCDMk@e@_@SWW{@_@a@[o@YSAm@}@}@cAa@OUOc@Mm@KV}@SOc@QyA]cAi@QWYYEOsAaA_A}@c@Qe@I_@OO[a@Ye@WW_@c@a@oAc@e@YGIKEIO[MQU{@o@gAa@d@yARe@R}AXu@Do@B_ANc@JENUTu@F]AGO[IIoAy@CSPg@IBI?g@M}@]aAaAg@W",
+    "average_heartrate": 148.9,
+    "average_speed": 2.68,
+    "streak": 2
   }
 ];
 
