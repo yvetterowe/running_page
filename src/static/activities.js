@@ -6116,6 +6116,20 @@ const activities = [
     "average_heartrate": 170.2,
     "average_speed": 2.458,
     "streak": 1
+  },
+  {
+    "run_id": 6274618931,
+    "name": "real meta run",
+    "distance": 8674.0,
+    "moving_time": "0:53:52",
+    "type": "Run",
+    "start_date": "2021-11-18 12:18:46+00:00",
+    "start_date_local": "2021-11-18 07:18:46",
+    "location_country": "Central Park South & Columbus Circle, Central Park Outer Loop, Manhattan, New York County, New York, 10107, United States",
+    "summary_polyline": "anywFplpbMo@OV[@YMYu@LY_@Wg@IIw@_@KKLc@Tg@`@U\\MXSJKh@s@Tc@d@oA`@w@Pc@Jc@Z_AJ}AEeAWc@m@i@a@Sg@EUKc@KSSwAw@mBwAe@q@KQ]_@We@Sk@E]@oAJk@x@_CPk@@g@Eq@I]GU{@_B]SYKGIOK]IQAi@]_@]m@{@Qa@Q[CMKQa@gAq@_AUMWMe@KYMc@KWCMIe@A_@?WHgAn@c@JW@_@IYCUMO[WWMWg@SEGHHQSi@gAe@kAc@}@U[MKUEWA}@LO?sAi@yCw@eAa@_CqA{@w@gBaCu@s@y@k@wAk@}@g@uA_Aw@_Ag@oAKi@CYIi@Mi@Eq@@[HgAH[Dy@?_@Ck@Qi@S_@[]eAm@k@c@qBoAcEuC_Am@]OaCcB[WmC{Aw@s@]Us@_@c@QaACgBFk@IaAUc@Ae@B[JULoAdAe@Je@Eg@M{BsAe@]a@[cBiBwAgBa@q@g@g@SMc@IO?iANi@@cCUoASYFS\\Gb@Cl@Bv@Ld@Xb@hAtBVt@Pj@Jx@?p@Gf@c@fB}AhCIVl@`AL`@V`Bp@|B`AtA^`@bAl@rB`AHH`A\\f@Tx@n@z@~@Rb@`@vA\\l@h@f@h@T\\DhCOf@Hr@l@\\b@Pj@PjAX|ARn@b@`A^^`AxA`BlAhAf@jAPt@Ch@I~@U\\Q`A[^GZA`@Bf@J\\J`@XpBbBf@p@n@pAt@hBv@t@d@Ld@H`@?jAKl@?n@Lb@Nn@`@ZZr@rAX`@^z@|@lA`@f@z@v@^f@d@Zv@dAhBpDTh@FPXf@JHVF`@\\lAf@d@DfCIfCQt@@H@^Ld@VVT\\p@F^Br@TpAd@j@b@Rz@p@d@T^Jb@V^JfAf@v@T~Ar@bAn@z@`A~A|CfAlAp@bAp@t@pAlAb@TXFVLjAz@f@h@XjANTBXPR~@V",
+    "average_heartrate": 164.7,
+    "average_speed": 2.684,
+    "streak": 1
   }
 ];
 
