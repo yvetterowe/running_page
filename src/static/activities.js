@@ -6130,6 +6130,20 @@ const activities = [
     "average_heartrate": 164.7,
     "average_speed": 2.684,
     "streak": 1
+  },
+  {
+    "run_id": 6278816043,
+    "name": "Leaf peeping with Taku \ud83d\udc36",
+    "distance": 5187.4,
+    "moving_time": "0:37:59",
+    "type": "Run",
+    "start_date": "2021-11-19 12:35:42+00:00",
+    "start_date_local": "2021-11-19 07:35:42",
+    "location_country": "Central Park South & Columbus Circle, Central Park Outer Loop, Manhattan, New York County, New York, 10107, United States",
+    "summary_polyline": "_oywFlhpbMCWBM^kATgA@q@Gm@Ic@e@q@KUMe@GGKEIK@KL_@TeANa@@EM[?YBA?MCBKICIOKc@i@CIOMQKE?QIK?Sg@ICMKIYEe@ESo@]a@K[MQOEUBYP[b@a@Li@L_AZw@CIt@mB^s@?EMWIGUGGD@DSGYB}@b@WEWe@UYGYUUq@QSM{@Se@SYEWIGGaAWgBm@WGg@C[WkAWg@SUOa@IGGM?KSmDLLq@@S@BV??FNADEBMJEHT@ALJEACB@AB@?JW@KHm@Pk@^MBI@]Ea@KIAI@MFIJITWf@y@d@OPUL]BWYWOYGO?MFK?o@QY]UOi@s@G?IHGFGROHENGFEBKEWYAg@]@MICFWEGBIIYCW?SMA@?FCEE@HTHh@Eh@N@THDHAN?@KISGW@[XMDECSOe@i@g@c@I]C@?}@JMFC@EFCDB`@W`@]PWDO?QDMNYl@k@T]B[EcBMoB@s@Jg@Nk@Xc@Re@Rs@BWKg@O]UY[BSH_@\\_@L_@AQOQCa@@_@Nu@t@YR_@@[~@S^ETDACG_@ZKRDjAEl@E\\[~@Gb@GNEn@DZh@p@dAhB\\d@Vf@XTBNLXPXz@r@dAbAl@r@NZZ`A\\v@`AdBPVTTZNRNLFVD\\RLBn@@dAEvAO|@?f@C\\@r@N\\LZTPRJ`@LXH^HnARf@Zb@\\\\j@b@ZRbAb@XRdBr@`@FFDPDb@Fp@Zl@^@BE?JFf@VXZd@p@dB`DZb@nA|AnAjA\\PX`@^Rx@Hh@\\h@v@LJPhAHrAC`@NAB@t@IZ@D@?DD?AA",
+    "average_heartrate": 142.1,
+    "average_speed": 2.276,
+    "streak": 2
   }
 ];
 
