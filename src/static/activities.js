@@ -6172,6 +6172,20 @@ const activities = [
     "average_heartrate": 171.9,
     "average_speed": 2.87,
     "streak": 1
+  },
+  {
+    "run_id": 6296185092,
+    "name": "Morning Run",
+    "distance": 1147.1,
+    "moving_time": "0:06:36",
+    "type": "Run",
+    "start_date": "2021-11-23 11:50:36+00:00",
+    "start_date_local": "2021-11-23 06:50:36",
+    "location_country": "59th Street\u2013Columbus Circle, Central Park Outer Loop, Manhattan, New York County, New York, 10107, United States",
+    "summary_polyline": "_nywFxrpbMa@z@BF~BkAb@g@TELBVG@NHD|A^^KHIEFQLa@h@_@ZKZH^ETa@z@?@HKEJGBEAEDe@fBAPQt@GNUVMTC^ELBD@NCXc@dBi@nAKHeAtAS`@Qt@g@~AANe@z@e@jAIt@Ov@_@xAUh@G`@aAzC?XIZ?JNj@k@`AUf@SR",
+    "average_heartrate": 140.3,
+    "average_speed": 2.897,
+    "streak": 2
   }
 ];
 
