@@ -6214,6 +6214,20 @@ const activities = [
     "average_heartrate": 151.9,
     "average_speed": 3.188,
     "streak": 1
+  },
+  {
+    "run_id": 6318463265,
+    "name": "First snow \u2744\ufe0f ",
+    "distance": 23200.1,
+    "moving_time": "2:45:59",
+    "type": "Run",
+    "start_date": "2021-11-28 13:41:20+00:00",
+    "start_date_local": "2021-11-28 08:41:20",
+    "location_country": "Gainsborough Studios, 222, Central Park South, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States",
+    "summary_polyline": "okywFxgpbMh@[d@qAE_BjBDn@i@hCf@UU\\aEXgAt@^DiAPc@^EpA}ApBc@TsAo@aE~@[n@iABuAa@Ob@[bACrFrB^d@EYFv@TMrChAtDnCpBdDpAl@t@G|BfA?j@fAjAt@n@`DbBpAV`C|ASUVrBdCRfAbA`AvAjItDl@lAdAVP\\fAHXj@nCxArCfC|Bz@?X\\^vAf@TON`@|AdAdCRzBjBbAdBbAD`CvAvAxA|@rAlB~@z@~@nFnBvEd@T^hCd@tAt@~R`D`BdAl@aAzDnBNj@fACb@c@xCPdB{CnBu@DUr@UvA{B`CaJrB}EKW`@_BxD{JSa@nEeLf@j@~@ZNS`@H|HlFnBPPlApHtE~KvHfVtK`BuHd@?v@iCfM}l@GInCaLzAuHRsBxAkFpCaOJeBdD_N~@qBdA}FdCwKUSa@LoC`Ei@rC{CrLi@v@g@|BUH?fANIwR{GPyBoKyKuBpCWmAqAdAmAEoAm@I[RqAn@c@y@KwCyAo@s@?{@Ue@|@eApB{EyGaIyA_AiFoG_CqBqQqB]IDUiInAsCCkR|BsADe@[cC|@}BLSU_AsHC}Fa@eEKmFIoAWYmO`Ac[mH{@PSQEL^f@QXHIt@dAz@pC|@p@R`BjBz@QdA^jAmAjLAnCgA|ErAt@vEx@]`@}@bHwF^}CiAcAw@IiCoDqB_@mAYW{Bo@[vC]?i@_ALu@XMmB{A{AwBy@Gy@nAk@R_Au@wBa@uAoAKwAX{ArB{F\\_@bBZLQJmBfAmDDqBKa@nA_KVe@bB_Ol@aBGmC`@iAaA{CVMD_@a@\\HRqCiA?R_@H}AEqCiBw@AaFsEgBq@eHkFDi@JFM[HU|C{D@o@IlBWv@s@~AaA|@En@}CrFaAnBa@lAiCzK}EbMcCxJoDbJmA`GE~AITYGc@|AD`AeAz@kChI{A~CoAnGe@fDgA`BUn@a@tDqBrCGpAg@t@i@vCm@h@y@jCgAtAS`C_@^_@nAEhDz@bAn@rB^nDV|Ag@~BuAhCWdD_@dCg@nASxB_@hBs@|@Jv@p@j@i@^[~@uAjBkAh@Sr@a@?FhFe@zEo@lABdDQp@X`@H`Ad@j@H|@I~EJJc@~Aa@`GuAnC_At@i@pB}BpDS|@D^pM`JjAlAh@Bv@x@rEvBdEdDx@m@",
+    "average_heartrate": 148.9,
+    "average_speed": 2.33,
+    "streak": 1
   }
 ];
 
