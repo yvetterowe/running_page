@@ -6228,6 +6228,20 @@ const activities = [
     "average_heartrate": 148.9,
     "average_speed": 2.33,
     "streak": 1
+  },
+  {
+    "run_id": 6325490848,
+    "name": "Morning Run",
+    "distance": 5494.1,
+    "moving_time": "0:36:03",
+    "type": "Run",
+    "start_date": "2021-11-30 12:34:29+00:00",
+    "start_date_local": "2021-11-30 07:34:29",
+    "location_country": "Mineral Springs, 2, Nell Singer Lilac Walk, Manhattan, New York County, New York, 10023, United States",
+    "summary_polyline": "eszwFvcobMPOv@]TETUXGOF]Xq@Rg@Xe@d@cAvAu@t@_@s@E_@Aq@AKM[s@eAWO_@O[Ek@CiDV{BFe@KQMQGIOa@ECG@CEI_@UuA}AS[m@yAUa@Mg@c@o@SQeAs@OSYOIQe@YSe@iAgBIYQY_@a@a@m@_@a@{@m@UIm@AsCDc@Ga@O]SWa@w@mBUe@YWYa@k@k@kA{@WYu@c@QCSQO[MGQJa@J_BDe@H_B?q@Cs@Gk@S{@_@iAs@QOIQ]UOUKa@MQAQPMFQB@f@~@NJ\\Jd@V^Jd@F^LfARf@Dn@BtDd@\\?`ATpAf@x@j@NRVPT@TPv@XV@r@Kz@Cf@P^Tv@l@r@fA^jATXLJr@Rz@bAjAdALP~@hB^h@Zp@HJTNh@ENETO^IzALBD@HJRACDGTJRAN@DHP?TBJCNFTC^DPJNRHEJ]LCHB^Vr@z@`@Zb@Fd@D?C~@`@ZDVKdAu@p@cA^MJ?JDd@FXCd@M`@QNCT@VTTJRBNOD_@PMXJTEVQHm@D?LRLHt@Pb@Lj@@FPAh@AVUpA?xAGj@Ib@a@hAIl@Ev@c@pCAfBBbB@pBX`CXJb@HzAj@d@Z`@`@XVv@jAtAjCPNNVlBzBn@j@bAp@\\NZBRN\\HRp@TPTv@AXGXC`@XVZDD?^SLAA@?B",
+    "average_heartrate": 146.3,
+    "average_speed": 2.54,
+    "streak": 1
   }
 ];
 
