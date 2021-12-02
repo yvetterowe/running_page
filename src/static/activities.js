@@ -6242,6 +6242,20 @@ const activities = [
     "average_heartrate": 146.3,
     "average_speed": 2.54,
     "streak": 1
+  },
+  {
+    "run_id": 6329757454,
+    "name": "Barry\u2019s",
+    "distance": 3452.8,
+    "moving_time": "0:19:37",
+    "type": "Run",
+    "start_date": "2021-12-01 12:37:43+00:00",
+    "start_date_local": "2021-12-01 07:37:43",
+    "location_country": null,
+    "summary_polyline": null,
+    "average_heartrate": 130.2,
+    "average_speed": 2.934,
+    "streak": 2
   }
 ];
 
