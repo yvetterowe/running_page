@@ -6284,6 +6284,20 @@ const activities = [
     "average_heartrate": 160.3,
     "average_speed": 2.786,
     "streak": 4
+  },
+  {
+    "run_id": 6341963959,
+    "name": "Morning Run",
+    "distance": 2764.3,
+    "moving_time": "0:17:01",
+    "type": "Run",
+    "start_date": "2021-12-04 12:58:27+00:00",
+    "start_date_local": "2021-12-04 07:58:27",
+    "location_country": "Central Park Place, West 57th Street, Manhattan Community Board 4, Manhattan, New York County, New York, 10019, United States",
+    "summary_polyline": "chywFlzpbMHXOa@FSp@KA@FIYBAGZZCHAN^b@b@P`@@LDj@\\h@FTH|AhAh@Nt@LE@[MA@BANFTN^^d@XnAXDF?LJVt@t@FDBAACIEJOJ_@@WBGzA{At@ATEZiADQE]q@{AGg@@GFIB[?YHCH@HGLUx@aAHSxAaB^{@`@QXY\\SV[?YNs@NSNa@AWDKJC\\YJ@RFJG?CEAEEEUNkB^oB@[X_@NI`@_@hA{@BQT[FO@UIQBEFCU]AG?GDYDCd@?FEXi@Og@Ny@@g@CyARWXBFADK?S^DVNPZDRR\\b@f@PZBA@EPHp@H~@`@j@FLFBHb@V\\JRHb@`@PHVZPP@FCH@Jj@Fh@VNTf@JVHRJLNJ@\\C^Pb@ZTXTNZF`A|@H@DDTNFNXd@h@^Zf@lAhAp@JJHJ@PFTTXRHLxAt@|@l@b@LlB|A~A`AnA`A^Nd@b@j@^NFJAJIFDBDB@VILF`@j@DBH?^Tn@z@h@j@JXTXRNX\\TLRVJ?LI^\\",
+    "average_heartrate": 127.1,
+    "average_speed": 2.707,
+    "streak": 5
   }
 ];
 
