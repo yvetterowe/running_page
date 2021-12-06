@@ -6298,6 +6298,20 @@ const activities = [
     "average_heartrate": 127.1,
     "average_speed": 2.707,
     "streak": 5
+  },
+  {
+    "run_id": 6347123825,
+    "name": "Morning Run",
+    "distance": 15166.1,
+    "moving_time": "1:41:57",
+    "type": "Run",
+    "start_date": "2021-12-05 13:32:54+00:00",
+    "start_date_local": "2021-12-05 08:32:54",
+    "location_country": "Central Park South & Columbus Circle, Central Park South, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States",
+    "summary_polyline": "_lywF`lpbM_@Cp@oAVWo@K^a@BqBXe@KaAECb@?@GRJK{@FsBRQxA[pBCHMXLRIAGz@eBGa@Uc@`@[x@_BZC^]?m@z@kAjB}AGoAg@_ACk@h@_ABc@d@k@TCzAZNIFQDeAe@oBDMt@o@p@Un@EHUDm@Ia@R_AKq@iAm@zBsBv@kAAgA@k@Ve@XkAAs@`@Cd@gBx@w@R]~@iGJ[`@m@Ng@B{@NUEK^m@?y@L_@JIJm@DDt@kB^YPcBL_@t@_BHBJ]`@UvAnBfCjCxEnCnBvAh@J|@t@t@RhAdB\\?hAn@j@h@b@Ex@PZd@Nr@h@DP^bAPbBbAvCtBnDfDf@^|@ZbBtA`CfApChB^p@pCxB^d@vBjAh@?b@b@|@Xd@m@ZaB\\m@j@OZq@x@X`@b@CHtBzAn@I`An@TbA~Al@C^^V~@UFm@HQpBPjCd@`@Jp@j@t@FjAKrBX|@O`A?`AYtA^h@B^O~AMb@PXp@a@`A[rAC\\L|B|@AZNnAH|@b@t@ETLLb@?m@d@q@j@JOn@LPMn@OXSJCLnAm@z@S~AM|AYp@YtACfAQrCm@VQjBKGk@]CAk@dDgEv@uAz@cAdAs@~@]rAKrCRhEz@`DPhATvBJ\\SjABdL~Ah@P|G`AnAjA?RGBf@?nAg@rBNfKfCv@b@DTn@Zb@LxB?VR`ATEFt@JzBt@@Nu@dAg@xAn@j@fATb@Xe@nDwAnGm@t@WtCa@^g@~B?|AUrBq@~BiAlFeAhB@h@I^@RWrBYpBMl@UJOb@m@g@x@oElCoMrAuFtCiO^aArA{Fr@sDZcCd@yBXw@hBgKr@iCrA{H^oALgAr@cDfBiH\\[L]~DsQB_@PCf@UJBVz@PANNGrAOt@s@jBJb@Wx@Ef@Gt@FTE^Hr@MzCKTCj@B`Bd@Pp@?l@PHTIJCTBlBNTF`@`BHXPf@Fl@Az@MHe@CeEHEfAK`BDfCIxAQvCaAxCs@hDoAnDqGb@Yp@y@vCgFrB{AfFoGtC]EJNMdHvAHVBnAz@nJNn@OjCDx@IjFZBGLKl@MlBA|DK|CD~AE|FKn@WfFDpBMvABfAE^FxEa@jKFbCG~FBpAM`@[BwDQe@KaGO_CfBi@l@i@VoCAc@DGRIB",
+    "average_heartrate": 142.5,
+    "average_speed": 2.479,
+    "streak": 6
   }
 ];
 
