@@ -6312,6 +6312,20 @@ const activities = [
     "average_heartrate": 142.5,
     "average_speed": 2.479,
     "streak": 6
+  },
+  {
+    "run_id": 6354479984,
+    "name": "Three Sisters Tuesday \ud83d\ude48\ud83d\ude49\ud83d\ude4a",
+    "distance": 12106.5,
+    "moving_time": "1:13:07",
+    "type": "Run",
+    "start_date": "2021-12-07 12:12:41+00:00",
+    "start_date_local": "2021-12-07 07:12:41",
+    "location_country": "59th Street\u2013Columbus Circle, Central Park Outer Loop, Manhattan, New York County, New York, 10107, United States",
+    "summary_polyline": "quywF|qpbMBQs@oB\\e@Ks@D{@SOAYVeAi@Q@]c@@i@YHf@AO]a@g@]cCkCSa@uBsCYOMYI_@kAuA_Ak@sDgAUWc@IUS_CeAgA{@_@o@Ce@De@Is@_@_ARRNK\\Jv@cBvAmBRs@FiAC_AKm@DwAr@wEXmA@c@Cs@Kk@@q@Pi@d@{@b@[Xa@b@mEBaAEIHLe@rBKfA@n@B@RUL]Dk@RaAAYHi@]JEP_@lCAz@a@hAyAnAy@V[?[Ec@SaC{B_@c@w@yBe@u@o@O_@?_@Hi@CaBo@mF}AcAm@sAgAmA}Ak@aAc@a@_@Y_C_AyAcA_Aw@s@aA_@gA[aCCm@XaDBq@Iy@Ys@i@q@[[_BcAe@Om@i@cB_A_KeHuAy@a@a@{BmA]MsAKgBD_Cc@g@Bg@TgA|@c@T}@Ec@Mk@QaDqB}BgCeBkCa@_@c@Uc@EaBVm@E_Dc@eAYu@_@w@cAcA}C_@Yg@A_@RWp@?`@H~@Tj@n@fALv@I~@Sf@ST[Do@Ea@WiCiCiA}@oAk@eAOa@JkA`A[\\q@pAYNICg@k@QCaAy@{BoA}BwAyAeA}@a@_A{@kBy@m@g@SGYa@B??DWWYAmAi@cCgBk@s@c@CDB?HPBjBpAeAuBTn@t@Nf@\\Vd@j@d@CNr@VlA~@PAp@h@n@RdAdAPJv@Th@`@`@N~B`Bp@x@x@j@JAx@h@BFCDLBfAnARn@QlCGjD_@lA?z@Tt@n@t@pANx@a@Ra@Jg@LsAPi@bAu@b@IlAAxAm@r@?h@H~@f@v@|@`@t@\\jAZhBXv@TZf@`@z@TdAv@N\\ZrA`@bCfAvBb@h@|B|ArEnBd@^x@bAjAnCZ^f@Zv@T|BM`@HbAp@h@`Az@fEXz@Zp@`BfBX`@~BpAhAPpCUpAk@n@Kn@Cx@Jt@Vf@\\pBhBnAlBv@dB\\f@`@Vh@VzDKbAXd@Vl@h@xCfFv@`AvD|DxCnG\\`@`An@b@?^LbHYt@@|@Rb@\\`@h@Pp@Jx@^rAdAhAjC~AjBv@vBl@rBnAb@b@~B~D|AvBfAnAzDrC\\CRNj@~@^bAFb@Pj@hACRK",
+    "average_heartrate": 174.4,
+    "average_speed": 2.76,
+    "streak": 1
   }
 ];
 
