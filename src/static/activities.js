@@ -6326,6 +6326,48 @@ const activities = [
     "average_heartrate": 174.4,
     "average_speed": 2.76,
     "streak": 1
+  },
+  {
+    "run_id": 6362325384,
+    "name": "Morning Run",
+    "distance": 3428.1,
+    "moving_time": "0:20:29",
+    "type": "Run",
+    "start_date": "2021-12-09 12:00:07+00:00",
+    "start_date_local": "2021-12-09 07:00:07",
+    "location_country": "Trump International Hotel and Tower, 1, Central Park West, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States",
+    "summary_polyline": "owywFzopbME?DQIYk@w@Me@@ECG?QTe@j@u@h@eBLk@^u@Va@^{@l@q@`@y@T]d@g@Zc@RkA^_BD_@Cm@GOQWa@Ui@IgC}Ae@O{@i@Wa@{@y@k@u@Wq@Gc@Gg@?k@H}@Ne@j@cAP}@EsAEYs@eB_@_@cAi@_@IaAc@s@y@Q]_@eAYg@I[o@mAYY_Bq@QYQe@[g@Ee@FkAHc@Rs@B_@DKMKBOJOXDBAADCQLQDQb@_@b@y@JKNc@@_@AIUq@UWDE@MJQFg@j@_B`@u@^yAx@yBR_@JY?O`@GRi@AKJAMOJ]D]Xk@Hg@HQHYb@a@P_@Ni@EI]OQEQ]y@mAe@[YIIo@ISSQ@AMEQMWG{@gASGWOg@Qk@}@]Ik@u@GOYYWASOQUCOGGGEq@Og@QWQQc@c@SgB]_@Qk@Og@]MFMGCGAO[c@Ig@YIID]EGOKIQ_@OQ]ICCUa@E_@OQOOKAa@Qm@Q_@]Y]KDGJS`AA\\BLMT[^a@ZEFCXKPQl@MBQCQQE@",
+    "average_heartrate": 150.2,
+    "average_speed": 2.789,
+    "streak": 1
+  },
+  {
+    "run_id": 6362493634,
+    "name": "MHRC \ud83d\udc83",
+    "distance": 6629.6,
+    "moving_time": "0:37:05",
+    "type": "Run",
+    "start_date": "2021-12-09 12:31:38+00:00",
+    "start_date_local": "2021-12-09 07:31:38",
+    "location_country": null,
+    "summary_polyline": null,
+    "average_heartrate": 179.8,
+    "average_speed": 2.98,
+    "streak": 1
+  },
+  {
+    "run_id": 6362636205,
+    "name": "Morning Run",
+    "distance": 3241.6,
+    "moving_time": "0:19:56",
+    "type": "Run",
+    "start_date": "2021-12-09 13:28:17+00:00",
+    "start_date_local": "2021-12-09 08:28:17",
+    "location_country": "86th Street, Lexington Avenue, Manhattan Community Board 8, Manhattan, New York County, New York, 10037, United States",
+    "summary_polyline": "ys{wFhokbMLRBNABEABLETBr@?HYpAMLAXKHGPILERWXMCD??@MPAJ@FQXGd@M|ACLOd@EXSj@QLE@AVYp@WjAWr@WjAIj@WXB@?CF@VLd@PVNLBP`@l@d@rEhCfA`@~@r@RTZJ|AhAXJbAl@JPNl@K`@C\\@b@Jh@^l@XZJ^Dr@AZNzBRhATd@ZX\\RNBZX\\TX`ANVb@fAx@jBp@`@|@v@`@LXHrAIb@PFl@?r@Dt@Cn@SfAUx@_@zBIn@E|@Lf@Rb@^Nt@LbBQN@d@LZL\\\\fAp@`@LZV^NZF^Ib@SPCF@XZ\\@^RTf@Xb@Jn@Lj@BBh@nAX`@nAtAh@^zAz@\\X?DKb@[b@a@VCF?RRDX`@x@t@Pd@Nn@ATSh@]nB^^p@|@D@PRBF@vAAXIh@e@`BQ^K^MdABPJHTCRSFYD@",
+    "average_heartrate": 174.7,
+    "average_speed": 2.71,
+    "streak": 1
   }
 ];
 
