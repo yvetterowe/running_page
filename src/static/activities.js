@@ -6368,6 +6368,20 @@ const activities = [
     "average_heartrate": 174.7,
     "average_speed": 2.71,
     "streak": 1
+  },
+  {
+    "run_id": 6375173870,
+    "name": "Bridge Sunday ",
+    "distance": 16860.2,
+    "moving_time": "1:44:47",
+    "type": "Run",
+    "start_date": "2021-12-12 12:43:36+00:00",
+    "start_date_local": "2021-12-12 07:43:36",
+    "location_country": "200, Central Park South, Manhattan Community Board 5, Manhattan, New York County, New York, 10019, United States",
+    "summary_polyline": "uhywFfapbMCWQKHw@CSKIzAuCZ_BZ{@z@oBJe@LaC~@yCn@s@VgA^c@b@eAE]IAd@uAQc@~@WxBOl@YJa@@cBp@kCH{AXeAEkAl@]vAcD@g@c@_Co@y@HiAWo@Du@P[bA}@JWAy@t@MDg@tAaCRMJu@b@kAZSJ[Ay@`@m@LwAf@Ul@cAZqC?gALWTBrAgCJc@v@y@Fk@v@uCt@gEhBiG~AaE`@y@Fy@`AeCp@wB\\qADi@|@gBlA}Cf@wBpBqGp@mAx@qCz@oBfEmNjFmOf@aAxBcHJKf@@JIf@uA^k@By@_@gAMU[AiCmEqA_A]BmAkBw@aAwC_CgBqCoA]aB{AcAoAc@MqBgBk@_ASq@eAk@mEcEy@a@eFuFg@OWe@AZUs@g@o@aD}Co@[[e@y@c@oBeB}BaDK[kAm@kCyCcCyBa@Q]k@{B_AoDiBm@Bk@k@]OsCk@mAcAeA[uAuAk@I}@oAaBs@a@q@?Wm@K_CeBEUd@_GeDoFSw@Wc@`DeEd@IC`A{CnDg@Ug@qAFGuAbDg@d@gEpGgDhDaGdE_Bv@u@bA}C`CcBt@KTyA|@]F{L~IqAt@eFrEiAp@w@FkDlBuAVoC@eHoCo@cA_As@]i@}FwE{@c@}BkB_DeDiBuA{GyGaDqBNGg@~Ae@\\g@So@?oAw@yBm@k@Je@pA{DjHcChC_CbBmAj@c@@}@[c@Ym@_AUH_@b@Ri@Wd@IAASb@aAA{@DFkAiA}Ak@w@vCPf@V\\z@d@nAQ~@_AjA_C^y@z@yC_@YDLYr@iBpCgDfG}@hCGfA_@j@[bBuBlE]dBKrCc@lBa@r@eBtF{@pBGn@B`@Rd@PFECv@iA|AuE~@wBz@Xh@u@~@iD`@u@r@o@hHmBf@NlDAr@[{@Gh@CJcAh@Fs@KzEh@|BrA]YiB{@oCa@{@?n@Ds@CUz@]H~@?JV_BtC[zCbBxAtAmEt@iAV}AHCbAVlA?zAp@n@j@l@hA`@xCdAhCzE~JlDlFPlAXHh@t@jAx@p@JdBzBpCpBbC|@l@d@AKNJfBBl@b@H\\V]jA\\nFtER\\[^BPNc@H@\\NfAjAtBfElBvFfDvFdBpADRwAzGa@r@Uz@s@f@q@|B`CnB",
+    "average_heartrate": 169.3,
+    "average_speed": 2.682,
+    "streak": 1
   }
 ];
 
