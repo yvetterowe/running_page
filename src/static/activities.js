@@ -6410,6 +6410,20 @@ const activities = [
     "average_heartrate": 166.4,
     "average_speed": 2.894,
     "streak": 1
+  },
+  {
+    "run_id": 6410672690,
+    "name": "Tuesday coffee lap ",
+    "distance": 11707.1,
+    "moving_time": "1:13:31",
+    "type": "Run",
+    "start_date": "2021-12-21 12:20:32+00:00",
+    "start_date_local": "2021-12-21 07:20:32",
+    "location_country": "West Drive, Manhattan, New York County, New York, 10023-7503, United States",
+    "summary_polyline": "{xywFvcpbMYJe@OM]w@aAo@c@qB{CaAkBkAaB]]o@a@B?cEqAkCiAoBsA[]Yk@_@[u@x@}@Zg@S{ABy@yAUWeBiAuAqA[c@wAgA}@cBo@_Bo@eA{DaEkAcB}AwCw@_Au@i@gAScED[I]W_AkAw@kBaA_BiAgAiAs@i@S[Gq@@iATsBn@}AL_AG{@W_C_Bw@}@eA_Ba@cA_@oAs@aD]k@iAc@m@A_BHaASgAiAm@sBq@cA_As@qCgAuAs@cAm@}@w@c@u@m@{AOo@o@gDUa@]YiAc@c@USUo@oA[_CQc@aAkBiA{@]Kk@A]BoAd@yBHg@Zg@p@M^Er@Kj@Wt@u@f@e@?c@Og@]{@gACKFw@V}ABoA\\iDCw@MYg@@IIK]]CMQa@M[]c@UO_@YUKAqA}AWC{@e@i@k@cBq@_@]WIs@i@q@_@]CUJ}@}@cBgAa@i@q@e@ABAh@u@hAGd@Ul@y@vAY\\YrAQ`@U`Ae@MIIV`@RDFIh@iC~@{BHk@~@SbDIf@S|@G^}@\\Lt@v@bAVVGf@e@vBZ^]TEt@BXJr@Q`@FnBBl@[zC@VOnBdAn@IVFKAg@f@Gn@m@~AK~AGRQR?Fb@R`@?l@Ot@Fb@N~@j@lA`AtBfCVP`@Hd@Mb@WRa@Bc@Eg@Qk@cAkBEQAq@Dk@b@o@\\Mf@Ff@Zt@dC\\j@p@t@hAb@nDf@v@BtAOj@@b@Td@`@nCnDhCdC~BvAj@Pb@Dn@C`BuAr@QpDd@hAMt@@dA\\rBhAtChB`@PzDlC|E|Cz@VlDpCj@XZl@Jv@Bn@Cv@U|BAh@Dr@L~@XpAv@dBVZxAbApCjAj@Zv@l@bAjAp@lA`@f@nAv@VZTf@Dv@NPtAXv@p@|Ah@ZMXF`@b@Jp@Vf@fAVl@Ip@C^Pr@tALr@@r@Fn@x@`BRt@NHb@e@\\ERV\\r@Ax@WvCCv@FhAAxBMp@O\\{@bA_@ZY`@Qx@Gl@B~AJh@Rj@jChBfBp@\\ThDbAnBrAf@l@|B`Ez@hAj@h@Z`@jA|@j@p@ZR`@JX^\\J\\`@P`@F\\Xh@",
+    "average_heartrate": 158.5,
+    "average_speed": 2.654,
+    "streak": 1
   }
 ];
 
