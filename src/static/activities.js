@@ -6424,6 +6424,34 @@ const activities = [
     "average_heartrate": 158.5,
     "average_speed": 2.654,
     "streak": 1
+  },
+  {
+    "run_id": 6418409637,
+    "name": "Barry\u2019s ",
+    "distance": 2707.9,
+    "moving_time": "0:13:55",
+    "type": "Run",
+    "start_date": "2021-12-23 12:30:21+00:00",
+    "start_date_local": "2021-12-23 07:30:21",
+    "location_country": null,
+    "summary_polyline": null,
+    "average_heartrate": 139.8,
+    "average_speed": 3.243,
+    "streak": 1
+  },
+  {
+    "run_id": 6418643301,
+    "name": "Morning Run",
+    "distance": 6650.9,
+    "moving_time": "0:39:44",
+    "type": "Run",
+    "start_date": "2021-12-23 13:37:52+00:00",
+    "start_date_local": "2021-12-23 08:37:52",
+    "location_country": "35, West 67th Street, Upper West Side, Manhattan Community Board 7, Manhattan, New York County, New York, 10023, United States",
+    "summary_polyline": "euzwF`gpbMMCF@?SV_@CO@CQm@A_A@IEc@N]TYDQA]Vk@Da@Bc@G]Ak@CKOYOEEo@IOMJP]Pq@@IYA_A_@aAo@AGAO\\gBEYDm@WcA?eAAG@_@Rk@Vk@n@w@^[^g@Ri@FYOuBG]DcBNg@N}@Ni@RoA\\sAB]Gg@Oo@Ck@CGWKy@?c@EYISW{@m@][q@{@m@gBg@gAOKy@Ma@F_@@OC_@Iw@[aDy@w@]q@_@]KoA_AU[c@c@s@mAW[_@[c@[kBw@y@c@sB{A_@]Uc@Qe@w@yCa@Um@g@Du@Ls@@cAIk@Os@a@_AYSGKIIaAm@e@Wy@m@a@U_@]uCcBi@e@_Am@e@c@_Ae@gBsA{Au@aAYcAFiBCiAYwAe@_@B_@P[`@Od@Cr@Hn@b@~ALbB?n@KrBIl@]lACp@@v@Fl@Zh@v@|@Vf@Jh@@^CdA@T?CCB?TRnCAr@OdB@r@VzAb@~@PVh@h@fBf@xBT|Cf@~ALJ@JJfATP^j@F^Nv@j@~@|@`ArAd@`AZ|@Xl@`@f@b@Vl@LtA?b@Gj@?d@D\\Jd@RtAxAfAnB~A`Cd@h@bA|@p@p@X^x@xAlAhCZf@p@r@t@d@t@Xl@DlE]xACj@Hf@Nl@`@Vd@Ph@H~ANp@FHl@l@`CvAt@\\b@Ld@\\d@Nb@Jr@Xn@ZfAp@|@fA|AzCvBrCbA|@f@^pAdANXXPd@@^L\\j@FX?ZH^d@fADD",
+    "average_heartrate": 151.9,
+    "average_speed": 2.79,
+    "streak": 1
   }
 ];
 
