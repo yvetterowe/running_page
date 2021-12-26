@@ -6452,6 +6452,20 @@ const activities = [
     "average_heartrate": 151.9,
     "average_speed": 2.79,
     "streak": 1
+  },
+  {
+    "run_id": 6425876260,
+    "name": "Runners\u2019 Xmas feast \ud83c\udf84 ",
+    "distance": 9817.0,
+    "moving_time": "0:55:49",
+    "type": "Run",
+    "start_date": "2021-12-25 13:35:56+00:00",
+    "start_date_local": "2021-12-25 08:35:56",
+    "location_country": "Dalehead Arch, Bridle Path, Manhattan, New York County, New York, 10023-7503, United States",
+    "summary_polyline": "uczwFj}obMM?JFl@IzA_@bAUtDKvCQWSAGNMfA_@LOAFE?VETh@^ENZAnAHCLW@QJg@TUz@iCF}@?_@c@gAMOuAw@sDcBqCsBw@iAYk@Ki@CcAJ}@Ni@`@o@Ng@Hm@@c@Eg@E[k@_B[i@a@c@[Uc@OiAy@u@s@_AoBiBcC_B}@s@Qy@CWB}@l@_AXe@@e@I[SUW}@q@cAeA[s@G]k@uAIG_@UYI]?a@Le@EeCy@uBa@{Ao@UQyA}@]q@mAoBk@i@w@q@[QaBc@{@a@m@g@e@QkAgAS_@Ok@UaB?UGq@DcBRuCA]Ic@Oi@a@q@[YoAu@i@g@}BoAgAu@]OeCaBs@k@g@Y[Wg@WkA_Aw@]a@]o@_@yBmA}@A_@DcABu@Is@Uk@?iATq@h@YX[Lo@A]Gq@WaB_AcAu@y@q@]QkAaBc@_As@_A_@Y_@Mg@?wARk@AeD_@cAYWMq@q@Wa@Si@g@gBYe@KIOAe@B_@ZM\\El@FvAJXn@fALp@@VM~@U^QJc@?e@I[]_@[Wa@s@w@_Ae@a@[sAm@}@Oc@?YNmBjCIt@g@bBAt@CNY~@Ir@KV@d@Gd@U`ACj@Jd@\\`@x@b@j@Jl@AVMVYTi@PmAb@sAX[`@[|A?TCz@a@f@Ib@Cn@Nx@n@r@hAXf@Nj@P|@PjAVp@RZLLh@XbA^\\XPVTh@Jf@D\\Lb@P`ALd@Vr@Tf@jAfAdAt@tEnB`@TVRx@~@Xb@Rf@@LX|@N\\^Zx@Vd@FlCIf@Pf@Z\\^N`@b@pBDj@Nn@f@xAr@lAx@~@h@d@`Ap@v@ZhAHr@Al@Kd@SjCs@\\?bALf@VzA~@`@f@\\X|@hAVf@|@tBVXb@ZZJZ@xCO\\Bb@NjAp@\\XLb@t@fAPd@rAzBn@t@|ArAbAjAZl@x@jBt@vAnA~AbA\\h@D|@E\\K`BCtBMv@HpAr@l@pAb@jCRb@X^dBlAzAt@|Bv@ZDn@PnAp@`A~@hAbBXf@Xn@V^r@bAZZZd@^`@p@l@bAx@pAb@XDp@^DFH\\F`@R|@",
+    "average_heartrate": 173.5,
+    "average_speed": 2.931,
+    "streak": 1
   }
 ];
 
