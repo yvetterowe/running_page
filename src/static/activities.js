@@ -6494,6 +6494,20 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 2.583,
     "streak": 1
+  },
+  {
+    "run_id": 6456089954,
+    "name": "2022 \ud83c\udf8a",
+    "distance": 6621.8,
+    "moving_time": "0:48:25",
+    "type": "Run",
+    "start_date": "2022-01-01 13:50:19+00:00",
+    "start_date_local": "2022-01-01 08:50:19",
+    "location_country": "5th Avenue & East 59th Street, Grand Army Plaza, Midtown, Manhattan Community Board 5, Manhattan, New York County, New York, 10153, United States",
+    "summary_polyline": "gxxwFd{nbMUFq@Ia@BQGOCS@AEHEa@UQAKOi@QU]HYdA}ABg@Fc@L]Fe@VYXSLGPU?UDEJLLH^FHANFPALGt@pA@JHRn@BTQj@WPQBg@BIHIPEN[J]NOMa@MK_@c@Wi@_@m@]Os@c@MS]WK]a@KEIS@GEi@c@_@Y_@S[Ik@s@Oe@YIWC[OcAq@OC]QE@UK_Aq@MQGSOMWKU[SMe@ASUUMq@}@a@EmAo@a@OSOkAgAa@WWKOOS[Y]KAN?PHFGNRb@`@TJRNh@LVLDN?r@Gf@IjBGb@Iv@W`AUBc@Ui@Ii@WEGWEUMSQGMe@i@]UW`@IxAQX_@x@[zAP\\^`@j@d@\\HTLN^b@p@N@DCGMSQ]@CU[a@[Cm@Ya@SOMCK@MJe@NoAVu@PUHCHMPw@r@NLGX?FDp@PB@BNj@p@FPHBPEJM@KAOFQn@Sb@_@JAFGHQJk@DM?IFa@AWHKfAZLTHFV@JHn@Vp@j@`@Jv@NBXIl@IzAQx@?|@Eb@EZKLCHKBG?}@a@i@M[UYBUIo@u@KIIAQTG\\c@`AQ~@ITYZ@TEj@TTb@XNNz@h@TXh@\\XT@JSKq@UWWUc@w@UKKA@ECEI?CNi@CmAB[R]Ng@VoBNWDAHH`@f@@FPV`@TJALJTDLFx@`A^ILK\\mAXk@Dm@L[LMJg@VJTGP?PBXJBPG~@U~@YVSf@GVQb@EZKJARGFOf@MJCTSF@JDE@GMZY^GTQVERATEHDr@d@f@NV\\VF@RTPBv@\\RRV`@XDJYD_@RM@MCKJA@GJGFQVKJYFe@Pg@D]CMa@Y@ANBBA|@[Dk@DOFOPYFSDg@Ta@SWWUa@o@USOUoB}AWOI@QdAW\\KTSRKDGJIBQ\\GV?PDV@\\Od@Yd@MJO`@?RMb@OROHONCHCb@BHDNfArAHFVb@JJVIh@NVTHTPRF?JGLs@Pk@DGL?@CCOA]LELc@VWX@BEFCBD@A?EM]We@AGHO^Qj@I?EDAHmC\\]BMPUDKCCDPLF@LNCFCBHHJRLNF?NFDD?NBb@VVJXDl@ZTEN@PXGTAd@QVE\\K\\MJYvAQDO?OI_@]e@IKJKBICE@]Mc@YKJEXBNAHWZEJ?XUt@Ah@Dl@CNGACB@DJGVDT\\b@f@PFRT?H",
+    "average_heartrate": 129.6,
+    "average_speed": 2.279,
+    "streak": 1
   }
 ];
 
