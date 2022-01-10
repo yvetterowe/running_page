@@ -6550,6 +6550,20 @@ const activities = [
     "average_heartrate": 146.6,
     "average_speed": 2.047,
     "streak": 2
+  },
+  {
+    "run_id": 6497323397,
+    "name": "Morning Run",
+    "distance": 12919.2,
+    "moving_time": "1:13:42",
+    "type": "Run",
+    "start_date": "2022-01-09 14:14:21+00:00",
+    "start_date_local": "2022-01-09 09:14:21",
+    "location_country": "The Max, 606, West 57th Street, Manhattan Community Board 4, Manhattan, New York, 10019, United States",
+    "summary_polyline": "c`zwFburbMJ^QHEJ^PuAKIJIZSTkAYg@r@@f@Ed@GX^T?DC?U[c@[W]g@EUY]U]AENDNk@D_Af@c@IeA}@aE{BY]Q_Aa@c@u@W[U]Ea@DWy@Y]uA[k@U{@s@eA{AWIq@g@k@Y]A_@OqBgB_A]i@_@s@UkBUcA{@uBoAcBo@g@]YOgEkCqBeAyAeAu@c@[W}ByAqAo@cFcDmAk@_Aq@_Ag@wDkCeEkCUS_E_C{As@kFkDoAgA{BqA_MwHsCuBqFoDe@Q]YmAi@qBoAeA}@qBsAaHmEeCuA}LwHiDkCsCaBw@o@qAs@a@YQ]iAi@[]w@a@cAy@iB_AqAeA}@k@_@Uk@M_C_ByDmBqEoCgCeB{@_@_@UgAkAw@SgAw@}Ak@aEgCi@k@gBsA}CiCkDkDEGJQVcAf@qAHK@BJADg@Nc@Jo@RuBAc@PmAf@MX[P[XOx@QbAa@\\Uc@?KKLA\\[hAo@h@i@ZUr@UjCcCRET_@lAcA@IGO\\_@~@m@b@g@nA_@^m@v@o@v@[`@??MTc@`@uALSd@TZ^`Ap@b@TnAfA\\L`BlArBjAj@b@nBdAf@b@rBhAjBxAfAn@~@r@lAp@v@PbDAvDQf@?x@LXFrBtAn@XxBbB|@b@^Xf@uBTmB|Ai@@BAQHG?c@D]tAYj@C`@^\\n@XXf@Pd@Bl@KV[Tk@TmBNc@b@g@f@YPEnAD`Cs@n@?j@Vb@\\jAfBTp@r@rD\\n@d@\\jA`@`@Vb@l@Z`A\\pBNn@t@dBf@n@l@j@bBbApC`Av@b@bA~@X^NVz@fCVX|@\\r@LzBQd@J^T^f@Xt@h@pBHh@Np@b@rAl@`A\\\\pBhBrAn@rAPj@Cz@MZOvCy@n@Av@J`@Rb@\\`A|@|@dAf@t@bAdC\\h@^Vl@Pj@FbCQJMJZn@Hj@Tf@d@rAxBhCrD|CtCZd@^v@Tp@l@dA`ArBXVb@^jA`@lA@tAOdDOl@Fj@Nv@l@HN\\hALfALj@Zf@^^`CzAxB|@fDhA^Rx@p@d@b@vAfChBlC|@fABLV`@~AbAr@Xr@Nd@?jAs@l@u@p@sAXIBD",
+    "average_heartrate": 163.6,
+    "average_speed": 2.922,
+    "streak": 1
   }
 ];
 
