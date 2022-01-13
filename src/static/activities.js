@@ -6564,6 +6564,20 @@ const activities = [
     "average_heartrate": 163.6,
     "average_speed": 2.922,
     "streak": 1
+  },
+  {
+    "run_id": 6511519248,
+    "name": "Morning Run",
+    "distance": 7180.3,
+    "moving_time": "0:43:27",
+    "type": "Run",
+    "start_date": "2022-01-12 12:12:38+00:00",
+    "start_date_local": "2022-01-12 07:12:38",
+    "location_country": "Starbucks, 240, Central Park South, Manhattan Community Board 5, Manhattan, New York, 10019, United States",
+    "summary_polyline": "slywFjnpbMG?WYG[?KACK@EHC@S@ICEIDOMKAGECkA_@KI[y@OSEKUWWQmAa@aAy@q@c@g@c@o@s@]k@i@o@w@wBq@mA}@y@gAs@MOyC{@sBu@w@i@u@a@_Aw@[c@W{@k@cCO[WWWQw@Uq@?uEZ]Ba@As@KYKYO_@][a@IQ@?a@k@o@aAeA}B}BcC]Y}AcBg@cAKWoAwBy@{@q@a@m@Oq@Ee@?u@De@?e@C[K_@Ya@e@S_@i@yAuAqB{AqAe@q@c@WsAc@WU?CbAqAd@y@N[f@uALg@^cBL{@^oAP_@Ta@x@}@b@YZQVBj@ILE^WXi@l@iBNqA?o@Gk@Ma@G]OYs@o@eAs@u@m@eAu@qAs@mBqAEMKIBGTED_@j@Nx@l@vAz@RHNLlBlAhAn@nBdBX|@Fl@CtBMdBAb@@r@Ff@XlAHLl@GdATRLZ`@jAxB^Xh@Vf@Bn@H`@PZr@ZX`@H\\Cd@YRg@X_@`@S`@R~@dA`@Nd@F\\JfAx@b@BV@FCh@T`@n@JHD@Zh@\\XdAd@p@p@Tb@\\TP^h@x@FBf@D^R^?b@GL[?m@Ka@[e@oAu@k@O]?[JUXDh@Lj@P\\b@\\bA`@n@Lr@RLC^k@LKTO`@Mb@LTNb@PXPh@l@ZTdA^l@Hf@J~@|@d@hA|@pAJl@Td@^Xx@Vj@Z\\Zr@bA^\\`@Fb@?d@BVHDHFDj@Hp@p@^R^Xt@Tn@h@`Ap@DP@PJb@RZTBVCZKV?VPNNBNXp@c@j@Kb@?HJNRH^?XXZPb@JN^@\\Qj@]d@W`AEl@Ql@Q^G@IP]X]HCD?XHJEDKt@S`@ETSf@k@l@c@LEDYZQj@?l@HjAKt@Mb@CRBHJNA^@^EVa@vAk@lCQj@Wp@ON",
+    "average_heartrate": 153.0,
+    "average_speed": 2.754,
+    "streak": 1
   }
 ];
 
