@@ -6578,6 +6578,20 @@ const activities = [
     "average_heartrate": 153.0,
     "average_speed": 2.754,
     "streak": 1
+  },
+  {
+    "run_id": 6516732029,
+    "name": "Morning Run",
+    "distance": 6819.8,
+    "moving_time": "0:43:13",
+    "type": "Run",
+    "start_date": "2022-01-13 12:19:09+00:00",
+    "start_date_local": "2022-01-13 07:19:09",
+    "location_country": "Greyshot Arch, West Drive, Manhattan, New York County, New York, 10023-7503, United States",
+    "summary_polyline": "kvywFfepbMFFc@O_@[[QKM{@o@kAwAQMo@w@Sk@Ue@QU_@aAUc@o@{@c@UQSaAi@aCq@uDaBi@g@c@Og@c@Q_@IIQI[q@A?S`AToABqBHo@Pe@Zm@dAeAVc@Lm@DmAAe@G{@AcAVuBp@wDHq@Ci@OyAo@[[@o@C_@MIGyBsBQWM[Oe@{@mBYWo@Cw@H]AIA{Am@eASgA[w@[gAi@}@i@w@w@[a@s@iAaA_AoAy@mAe@o@YgAy@u@m@[c@i@mAMq@Oe@Ke@q@[k@c@@YLc@HgA?mAEc@Mi@S[]_@e@_@{@k@iA}@{A{@u@m@gAo@QS@AQEYOwAeAeAi@mCmBcAe@a@Oo@?q@BoBKkA[EBm@Wk@GMBi@XY`@Gl@Ad@Ff@\\dAHh@Hh@Dt@?p@Ap@Gp@Mj@Wx@Kj@BxANv@Xf@^`@X\\HNJ`@HhAEx@J~C?t@Ez@Ix@@l@Hv@V|@HRj@t@fAv@^Lx@Jz@HlDf@~AZb@DTLHB\\?ZLR\\fBz@f@`@v@r@zArB^fATh@Zb@ZTd@Tj@Hf@AdAKf@At@Lb@NPLrA~A|@jBt@jAp@x@`BfBd@`@r@z@p@lAl@xAl@lAHLVTPX^Xp@Vd@Jh@@n@MrBKf@EX?t@GZBf@Jb@Rl@l@Vf@Nh@Dz@Px@Td@Z`@~@p@NPVFZNf@NRLhAf@f@J^DLFxAr@dAx@^\\Zd@`C|D|AtB`A`AZTJXX`@|@`@^Jh@CPLP\\p@xB",
+    "average_heartrate": 141.7,
+    "average_speed": 2.63,
+    "streak": 2
   }
 ];
 
