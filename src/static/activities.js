@@ -6592,6 +6592,34 @@ const activities = [
     "average_heartrate": 141.7,
     "average_speed": 2.63,
     "streak": 2
+  },
+  {
+    "run_id": 6527500028,
+    "name": "Morning Run \ud83c\udfd6\ufe0f",
+    "distance": 16121.3,
+    "moving_time": "1:37:39",
+    "type": "Run",
+    "start_date": "2022-01-15 12:52:07+00:00",
+    "start_date_local": "2022-01-15 07:52:07",
+    "location_country": "1227, Southwest 3rd Street, Latin Quarter, Miami, Miami-Dade County, Florida, 33135, United States",
+    "summary_polyline": "oih|Cn`rhN@u@GoAGeIT{@GqHBg@MkE?sAG[aBCkDFeAKU@OJ]A]Si@F{AAE_CByCOqGAwGGa@EcBAE[G?q@M}@EaBg@kG_@qI?c@Ig@Ai@e@kBSYMEQUWcAKyCIm@Fc@M{BHkAGm@B]CgDIa@@mAGcABi@He@Iu@Bk@QuAPsBGe@SCe@DsAGQKuCAsB[w@EoBTgAA}@LOLiBD_A?a@IsBOy@^M@oBK}A@sANkBGy@K]HuA@iCJo@Ac@DkBCu@@s@@UFiDECq@GyFYSCOCm@LsABe@KmAM_@@gCIoACK{ACuAN}@McAc@gCyAIeASEEG@aAJaACk@?}AAOMWC_AOcMW{OImC@g@P]H]Ie@I_C@{@M_E@QE]@_@ZkAa@_DFe@WoAO{FGg@?YGWEcFI{@Cq@A_D[e@i@qA_@oAIo@A_CQqEJkAd@eBFi@FoASsKK{B?uBYiPGu@?aAf@q@EgBKs@IoASsGCiEJkBCm@OsAK_CKcFA{COoGBmAKeD?iAD{@Ck@@eAYmECwAGa@IgBAsFEc@a@{AYw@Ya@Ey@BwAVwA@SG_@Bc@QyBBMEECa@@}FCsA@kEKiC@gEOyA?i@Fu@?e@Gc@?oA?sBFaACoDDMV[HCRUH]XURYb@e@Ni@n@SBO`@E~@DdCc@fDTbBBf@?r@MbA@PI?YJMZAbBF~Gb@Z{BDyATi@@M@e@Ig@DWBsAZ{@CGZCp@LzAd@t@JZ?dBi@`@F?t@B\\RV`@@h@Md@AbCLl@ArBZjAe@ZJbAHnAz@vB^|@x@^?TId@BdAT`@Nb@X`@HpAA`@I`DWP@FD@TM`@J\\TDz@QrAEj@OHERa@HaA\\FD?AE|Bh@l@ITD\\RnAPl@?r@K^^ZJ`AINX\\Xt@NLyAKbAFVz@b@N@bAOtCHp@IzAEb@BdBAhBK`A?XEz@Fh@CtFHjBu@rAe@VEv@LFg@AUAf@q@xBK`@BHWl@Mj@wApEaA|BMp@c@`BaB`FW|@S`@UVyBpAAJLn@WRuBpAs@TWp@iBlAeA^sBrAqFtCqF|Dq@l@MTa@L}@f@o@RgAj@aBf@M?IGBk@Mg@]GQT_@\\LdACTmBzA_BXqBIeAToCNECYaCOD{BCm@JqDEsED_DV}DC",
+    "average_heartrate": 157.6,
+    "average_speed": 2.752,
+    "streak": 1
+  },
+  {
+    "run_id": 6527912969,
+    "name": "Morning Run",
+    "distance": 2217.1,
+    "moving_time": "0:15:07",
+    "type": "Run",
+    "start_date": "2022-01-15 15:06:55+00:00",
+    "start_date_local": "2022-01-15 10:06:55",
+    "location_country": "Southgate Towers North, 910, West Avenue, Miami Beach, Miami-Dade County, Florida, 33139, United States",
+    "summary_polyline": "qfj|C|vchNODYgAX[Cq@Bk@FSDCBc@O[OoABmCASK_@Ai@DuAFcAKcDBiAKq@@i@CiCBiAEg@CMFy@KsABSEkAHk@A]IWEi@I[?c@Jc@WIAc@X{@Jm@Ty@A[KSe@C_A?ICM@OOSGs@Ig@@s@WoAGWIK?_@Ie@ESG[A[Kk@BmCQe@IWCK@QEcAE}@Kg@MUEa@?_AGcBI{@OuAAm@Cg@MqBO[Bw@IUEg@Se@EqAEQGwAKMGG@IF_@DKAIKo@Oc@A",
+    "average_heartrate": 141.3,
+    "average_speed": 2.444,
+    "streak": 1
   }
 ];
 
