@@ -6620,6 +6620,20 @@ const activities = [
     "average_heartrate": 141.3,
     "average_speed": 2.444,
     "streak": 1
+  },
+  {
+    "run_id": 6537957509,
+    "name": "Morning Run \u2693\ufe0f\ud83c\udfe0",
+    "distance": 9143.3,
+    "moving_time": "1:00:04",
+    "type": "Run",
+    "start_date": "2022-01-17 13:11:03+00:00",
+    "start_date_local": "2022-01-17 08:11:03",
+    "location_country": "1221, Southwest 3rd Street, Latin Quarter, Miami, Miami-Dade County, Florida, 33135, United States",
+    "summary_polyline": "eih|Cj}qhNUBSCgA?SAICg@y@?E@SBEQmE?}@@YEa@Dg@?q@I}CBkAAi@CIDu@AqAEW@_@G_BIe@@eADmBEMC[?g@AQBKAIMMM[?}AD{AGeBI]@q@Dm@Ea@D]AaB@OEUGuB?uAB[Ei@CqAFi@Eo@?aA@GGe@DUI_@A}@@GBAb@EDYFUAQDGTOd@O\\?hAK^UTGPk@^e@DKVWp@e@XYZGx@A^C`B?bBI~C@j@CDGBc@?_@GgA@mACIBI?[Go@DU@Av@AX@XJL?v@Kb@C\\BG?QSK{@DSKkA@IFGCQA}@BMAMGGC]EM?BE{ADE?EIkAWiAAq@Dw@C[Bc@@BKIUAMFUBi@CUEQBGAcChCu@LGBGFCl@MDWMQYc@e@OoACCe@Dq@?g@Dk@Cm@MiAGm@B}AGm@O[@@Y?WPaAA[D]jAK\\DFO?SO_A?WJk@^_@XkBLS?@@S?iA@WAYMc@@q@E]@aAPaABw@ANI?UL_@Ze@]ACAQM{@a@cAOo@DQDs@Li@E{@XDBBRGBIAOo@gACUQUKo@KSIi@Og@Kk@E[[g@UW[Kc@Ay@HQFeADULGN@jAEZBdACLc@l@c@f@SZSd@C?CA_@Ni@HaAHeARg@J_@Ni@?e@FoAC}ABYESU]Sg@SKCeAAOKW^[T[FISIi@Cm@@UK_@}AS_@A}CHi@AeADDl@E\\@t@?l@FhBF\\Tr@Vd@RJo@RcAb@_@HMHJd@NrA?rABZILEX?VDHN?Fd@EL@`@IXARZzAFf@E`BDzADrELDn@Ab@DRFXAZGRBNAPBNJH?RJTCnA?rDSZ@\\CXGf@Af@Gj@Db@GR@\\?x@MHFFLL~CDRB|@H^@l@Kp@?XDt@Ex@^Ol@Eb@@f@G^DFIP]RI`ABn@DDDBLBf@\\PFHBn@Kp@Af@FpACTBF?E?AE`@@x@CdAHZBXAFA\\DjBD\\Dx@FXAb@d@|I?z@DjAAzABr@?ACNAvAD^@xADp@?l@DdAAn@Bj@CjAJdB@hAFnB?rBFbAAb@@l@AZBv@PDdBM`@BFVxCE\\?@DBfAB`@DVRXBdDDz@?tAFfAAxBDbIBfAHpACnEGDM?COAiC",
+    "average_heartrate": 133.5,
+    "average_speed": 2.537,
+    "streak": 1
   }
 ];
 
