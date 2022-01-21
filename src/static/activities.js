@@ -6634,6 +6634,20 @@ const activities = [
     "average_heartrate": 133.5,
     "average_speed": 2.537,
     "streak": 1
+  },
+  {
+    "run_id": 6554604856,
+    "name": "Lunch Run",
+    "distance": 7063.8,
+    "moving_time": "0:42:19",
+    "type": "Run",
+    "start_date": "2022-01-20 17:21:38+00:00",
+    "start_date_local": "2022-01-20 12:21:38",
+    "location_country": "Columbus Circle, Manhattan Community Board 4, Manhattan, New York County, New York, 10023, United States",
+    "summary_polyline": "woywFjnpbMHKGOMcADsANs@f@_BFk@IoCTy@b@iA^yAPe@NaAAq@Gm@i@{@_@U{Aq@}@i@mB}@YUsAqA[_@]g@Si@UgACgANo@Te@j@eBF]?mAQo@a@}@c@k@w@i@c@Qk@Ma@Uw@}@Oa@Mm@aA{BW]iAu@EGsBo@}@Mg@R}@j@]NQ@g@?_@Ae@S[WgAcAe@_A[c@{@uBU_@[O_BVa@K_@Q[Ia@QAEwB]u@_@e@O_Ak@a@[k@SkAkBY[Yc@UYcBmA[Oo@Mu@]m@g@_Ak@_@e@s@gBQgA[{@IIc@Ma@a@?IDk@PcAAm@SsAKc@Ug@UY]UwA{@aAu@oCgB[WqAw@aHwEyAy@c@GsAFuBOa@IaBg@g@Ae@N[\\KPGPIp@Dt@b@pAHh@Fr@DpAEhAMv@M`@Uf@CTDjBLp@nAbBR`@Jf@Bn@Cd@@`AJlC?`@KzBDz@Lt@j@zA\\d@p@j@^LtAVfEp@`@Dt@B^Dt@Xd@Jb@DNVDJhAb@`Al@VXvAdBT\\dAbCv@z@`@Nh@HlAAhAGr@Fd@PbAx@X`@^j@jBfD\\b@Z\\v@n@rAtAX`@j@fA\\~@^f@Rh@`@r@V^Z^lAn@RD`@DdAOhA?`AGd@Gf@C`@?x@Zb@VZ^Pd@T`@RdBLf@NVdAx@pAt@nBx@tCz@x@d@`Ar@f@d@t@fATd@`@j@PT\\XdB`CfBdBd@Nb@RJAJP^\\JFNDHR^xAHb@Tj@FH",
+    "average_heartrate": 154.2,
+    "average_speed": 2.782,
+    "streak": 1
   }
 ];
 
