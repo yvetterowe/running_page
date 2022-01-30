@@ -6690,6 +6690,20 @@ const activities = [
     "average_heartrate": 147.2,
     "average_speed": 2.594,
     "streak": 1
+  },
+  {
+    "run_id": 6600123885,
+    "name": "MHRC",
+    "distance": 7436.9,
+    "moving_time": "0:38:42",
+    "type": "Run",
+    "start_date": "2022-01-29 15:18:03+00:00",
+    "start_date_local": "2022-01-29 10:18:03",
+    "location_country": null,
+    "summary_polyline": null,
+    "average_heartrate": 165.3,
+    "average_speed": 3.203,
+    "streak": 1
   }
 ];
 
