@@ -6732,6 +6732,20 @@ const activities = [
     "average_heartrate": 151.1,
     "average_speed": 2.762,
     "streak": 1
+  },
+  {
+    "run_id": 6619963450,
+    "name": "Morning Run",
+    "distance": 11403.8,
+    "moving_time": "1:05:13",
+    "type": "Run",
+    "start_date": "2022-02-02 12:22:41+00:00",
+    "start_date_local": "2022-02-02 07:22:41",
+    "location_country": "Hearst Tower, 959, 8th Avenue, Manhattan Community Board 4, Manhattan, New York, 10107, United States",
+    "summary_polyline": "meywFbypbMyJ_LDv@gA_DYYKWAQPg@x@m@f@m@dBoDVa@Z_Aj@kBJk@BgB?KMc@U_@[]qBy@_FkCmAwAm@aAQg@Gm@?oAJq@x@qBJi@@k@G}@e@oAYg@[_@]W_@Qk@Mk@Yq@u@k@gAgAiCY]_@[cAi@qBk@_@Cg@JaAt@]JmA?UGgA}@s@w@iAaB{@_Ca@[u@AkAHkA]_@QyD}@_By@iBcByAcCWU_Aq@a@QkBq@c@ScBsAk@w@g@aBa@qBIm@@eBRwB@o@Ik@q@kA_ImFk@[c@_@{BsA{DmC]OsCuBgAi@e@Ow@Ic@?}@FoCc@g@Bk@Ja@Xm@j@_@Vg@@c@Cw@WcDyBsAyAgDiEk@c@cAEoANu@EeDc@a@BS^Ir@C|@Jv@Zt@bArAHPj@pBJbAC|@Mp@Qj@]n@]`@g@|@HAL[b@m@Vg@Rk@\\oB?o@Gs@Mm@Um@u@yA_@g@Ym@Ko@@kAHm@Vk@X?`C^xAJnCQ^Ph@f@zB~CbBnB|AnAtAr@lATh@A`@W\\_@n@c@l@Mb@C\\Dd@Tn@LdAAf@Gd@@`@Jt@j@b@LfCvA`@ZdAh@`@^Z`@t@`@oCqBk@[gCmB_@SXL~AdAx@p@pAr@XTPXLJr@`@JByCcBq@k@uA}@i@g@VHc@_@e@ASOaA]TDCE_@Eh@FdAl@nAv@dA|@~@^d@d@xBnA`CbBTJIKc@Qc@WyCsBg@WwFaEOC}@c@QE`@Hd@V@EUG?DTNhFvCfAz@n@^xDnCnAr@jBvAvDxB\\XTp@P|@BnAOdBClA@^f@zCNb@Tf@\\f@n@h@h@\\^N^V`D|AfAdA~@xAx@~@z@j@`@P^\\jAd@hAZvARz@^f@LnAMn@L^^n@hBz@|AzA`Bd@Zd@Jh@Ab@G~@a@d@]f@It@JhA^vAx@|@hAf@~Ab@`AVf@h@l@`@VdAVx@f@b@l@l@bBRt@G|Ak@jBS`AAn@F~@Vx@Xf@d@j@h@d@bAt@jAj@T\\vAv@z@\\n@j@LZL`@Dn@IvAK|@y@tB]r@Kv@BL?N",
+    "average_heartrate": 165.6,
+    "average_speed": 2.914,
+    "streak": 2
   }
 ];
 
