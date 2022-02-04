@@ -6746,6 +6746,20 @@ const activities = [
     "average_heartrate": 165.6,
     "average_speed": 2.914,
     "streak": 2
+  },
+  {
+    "run_id": 6627335395,
+    "name": "Afternoon Run",
+    "distance": 10272.8,
+    "moving_time": "1:00:08",
+    "type": "Run",
+    "start_date": "2022-02-03 20:40:59+00:00",
+    "start_date_local": "2022-02-03 15:40:59",
+    "location_country": "15 Central Park West, 15, Central Park West, Manhattan Community Board 7, Manhattan, New York, 10023, United States",
+    "summary_polyline": "oxywFrnpbMCQBc@V_@lB}Ax@}@vAcAPQRg@Pm@EwBDQl@y@Ta@No@Zy@Lk@BaBMy@q@aAa@SyBu@yAw@uAgAc@Qm@o@q@cAWe@Ig@Gq@Ao@Nu@Ts@n@sAFi@?q@Gq@Qc@u@mAm@q@y@c@]Ic@Sw@y@uAsCQe@g@w@yAiA{Ae@i@Ge@?u@\\_@`@_@PiAFa@O_@YQS]QgBoBIm@c@iAUe@SS{@M_@?SJ[CuAe@QO{Bc@e@MsB{@iAk@kBkCM[c@g@a@]c@YeA]mBaAqBkA_@m@Uq@YqAYoBCi@Dm@L_AHmAAw@M}@Ug@_@]_@UA@a@Q[W]]aBkAkBiA_@]iAs@MCkCeBiHcFaAe@g@O}@KkBPe@C}@[gACOBe@Tc@\\c@d@]Jg@De@Ce@M_@Yc@QmAaA{AsAaAqASe@[_@y@mAk@_@c@Ke@@gBPg@CgDa@kAc@}@_AYa@y@{CYWi@Ea@L[^Ml@Ab@Hp@Vh@^l@Xp@Ht@C`@Wh@KLc@XU@QCa@YiCsCkA{@mBs@w@Cg@TmAzAq@tAg@xAKpAKj@WpDUjABZH`@PVh@f@d@Pb@Ff@G^OTaAPiAJc@b@w@^_@h@Sh@H`@@TCt@[h@Od@?l@L\\Rt@x@j@|@^fALl@N`AJZ\\n@X\\xB`A\\`@Xh@R|@^xBNf@Vr@z@lAdAz@xAz@`@LjCfAn@`@x@dAXr@H^l@jAZ\\`@Vf@L^BzBEb@Df@Zv@lATt@PfAd@lB`@fAZh@zA~AZRf@b@z@^n@NhAJp@CdBc@fA_@r@KhADh@RlBzAn@n@v@jAnAvC\\^TNNHn@Hd@BtBKb@@p@Pr@d@j@r@fClE\\f@vAzA|@x@dAlAVd@dBvDZd@v@|@xAd@f@DjDMb@K`@Ax@A\\DbA^^`@Vh@Pd@NjAH`@Rh@Z^`BfAdDzA|CbAf@Xv@l@x@z@Xb@dApBr@fAn@z@`@Z|AfBn@b@n@T`@Tb@@t@W^W|@s@Xe@v@}A~@yBDDABOZKp@Wl@Kh@@xAAr@Mj@QXa@lA",
+    "average_heartrate": 147.6,
+    "average_speed": 2.847,
+    "streak": 3
   }
 ];
 
