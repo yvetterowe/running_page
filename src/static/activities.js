@@ -6760,6 +6760,20 @@ const activities = [
     "average_heartrate": 147.6,
     "average_speed": 2.847,
     "streak": 3
+  },
+  {
+    "run_id": 6641150406,
+    "name": "Morning Run",
+    "distance": 16866.5,
+    "moving_time": "1:45:23",
+    "type": "Run",
+    "start_date": "2022-02-06 14:00:28+00:00",
+    "start_date_local": "2022-02-06 09:00:28",
+    "location_country": "Via 57 West, 625, West 57th Street, Manhattan Community Board 4, Manhattan, New York, 10019, United States",
+    "summary_polyline": "ygzwFp{rbMiAo@s@WE@@F@QGNVp@Pv@`@h@zAnAd@r@`@Xb@x@`@^rCdBX?ZUH}@N]`@Gj@R|CzBr@CtDpB`R`MbAfAvBzA`AnAhAjCFd@?`ANVzAnAfDjBT^hBlA^`@bB~@TTjAj@fAAZJjChBlCrBdN|IrBjAvAfAhAb@v@|@^TtHxBvCn@vDGt@LVpC|@h@pAZv@\\?dDJp@VPPY`@oJEw@MWEg@Fe@`@gAH?x@NzBHz@PbACzCRbAVlBBhAL`Af@t@NrEJ`ARf@b@zDb@nCj@dBJhA`AvDpAbHNxeAvEfCb@`VpCtB^fC|@dAFx@Ob@@vHbA@`@Er@O~@OJETAx@LpA?nA_@rFDr@~JdAdIp@x@^vARjBKRW`@sBXkBJG`@DhBbAl@Op@FLPWrCNn@Vh@\\RzAXjDZrBb@|AL|@T`A@vA`@f@B\\o@ZaBRc@NCfBpA`Bp@HT@r@Lj@b@VxAPzD}@\\W`@o@FqAKKa@y@IYZeAT{AK_FF{AG[Jo@j@C~@cAz@WbA\\lA@ZKhA{Aj@m@Jc@vBeCz@iCGcAMe@aAcACsAPw@AeAs@wDOeBq@o@_BoDoAeAwAwBOYGa@_@_@]s@Mu@a@w@Qw@i@i@W_@Ke@i@k@mAiB[eA]Wg@gAYGu@_Aw@mBP_@Ba@{@mAESKEBk@Ia@a@u@a@_@QYAa@uBeDK]Ei@UKa@o@Da@CYHII]?Uc@y@eA_DQaAFUIqBSs@[sCDiAI_BIg@FkBJ_ACi@s@mAP{ALS?wBLiBC]Be@]oCsAiB?m@FEDSKg@}A{BW}@Ue@G[AWLiACYU_Bk@iCNi@b@i@PcAOcGBNBa@JhA@`Bk@PKESqBNk@?{Aa@iCAm@O[Ek@@e@Lo@UaACeCHw@_@gA_@kBk@{AYMg@HEIt@uAd@a@CCoA`BmAb@EGUwCEEs@Mu@a@yA[QBOSqAa@m@q@uC}AgAS}@o@sH_CuCaAUo@mADm@EScBtDRhATNG`@}BCWOOsN{Cu^uFo@@m@PiAUi@Dc@SmASiCKyEo@kCMaBZuBpAgCtDkCfCJVZJh@t@r@j@z@XVXbD|BnCbBv@LX\\[hAs@`BcAvDSTsBpEe@nAgArAe@fAFhB",
+    "average_heartrate": 140.4,
+    "average_speed": 2.667,
+    "streak": 1
   }
 ];
 
