@@ -6788,6 +6788,20 @@ const activities = [
     "average_heartrate": 150.9,
     "average_speed": 2.765,
     "streak": 1
+  },
+  {
+    "run_id": 6655662223,
+    "name": "Morning Run (failed)",
+    "distance": 11816.6,
+    "moving_time": "1:11:21",
+    "type": "Run",
+    "start_date": "2022-02-09 12:08:45+00:00",
+    "start_date_local": "2022-02-09 07:08:45",
+    "location_country": "59th Street\u2013Columbus Circle, Central Park Outer Loop, Manhattan, New York, 10023-7692, United States",
+    "summary_polyline": "kwywFvjpbMASXLE?Hc@V]A]pAFpAa@hAEh@?hBX^g@Jk@Ca@Fc@r@e@p@MtA?PYL[WuBTu@I_@?Y@ORKGm@LWLw@Vc@RIlAFROz@wA|@q@Ro@Bq@Ae@LG@KCgANi@b@]Z{@VcDLm@p@yANaBp@}@GDGMh@Uh@EXUBQV[ZUD_CM_AHe@Aa@LETe@NIDk@\\k@Hq@Au@zBgCVkAP{A@o@TOd@sAX]Ls@b@oABc@h@eBB{@l@aADgADAK?d@CXq@TkBhA_DB_@}A]QY]Wu@U}@_AuA}@DEKIc@Ue@G[_@}B}AsB{@s@u@i@@YM{AeBmAaA}Aw@SWqAa@]]GW_Ag@w@u@kAm@e@o@eAc@cAgAu@Q]]D_@HORmCEw@RoBN]Jo@d@cBF}B^_@Fm@Rq@tAmCNb@Ih@MNAR]RqApD]j@Ih@t@h@~@rAh@aANm@^i@TsAfAoCRcAAMc@g@QCn@v@H?_EwDwB_Bg@KwBoAaA_A{@_Bk@g@sEoDwJwIOMSLWW{@eAy@wA{BgCiA_Aa@s@_B{AsAaAeBgB_By@eBc@_@YWc@YQaCD[Fu@t@wDz@gDhAcA|@aAh@gBBw@ZkDT{Gk@y@g@BF_Ay@qAaBsAgCoDuIqAwBkBiBsAw@c@g@n@b@HROf@W^o@s@LBb@b@`Al@BJi@lBWb@WhA?^m@hAOn@Aj@tA`AxAlAbA~Au@~CAXUn@UNy@xAc@fBBrAz@l@JV?N_@nBQZ@XMl@Wr@q@|@Ip@`Br@r@fBz@TX`@PFV^Db@ZbADAJV[x@_@|A]`@Zf@w@pAI\\o@d@q@rABb@Xb@AHWf@w@|@_@t@GZY^e@pAq@rCc@dA_@j@CX`@HLNh@bAl@v@n@zAXXFb@NXTP~@H^VxAh@bA`ApAj@vBrAd@h@JdAjL~Hf@d@Xt@Ff@@n@W`EHbAn@~Cn@tAj@h@|AdAtBz@nAx@v@p@hBbC|C`CfAb@zB`@lBt@lBK~@^rBpE~BxB|@Lb@AxA_@d@_@x@I~@RnC~Ar@|@xAxDh@h@`DbBh@r@b@fALd@FhBGh@k@rAKj@Ip@F`BTt@r@nAvAvA",
+    "average_heartrate": 150.0,
+    "average_speed": 2.76,
+    "streak": 2
   }
 ];
 
