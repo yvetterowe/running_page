@@ -6816,6 +6816,20 @@ const activities = [
     "average_heartrate": 154.4,
     "average_speed": 2.821,
     "streak": 3
+  },
+  {
+    "run_id": 6677483338,
+    "name": "OSRBRR Sunday Special ",
+    "distance": 20275.6,
+    "moving_time": "1:55:34",
+    "type": "Run",
+    "start_date": "2022-02-13 12:01:04+00:00",
+    "start_date_local": "2022-02-13 07:01:04",
+    "location_country": "Seaman Avenue, Inwood, Manhattan Community Board 12, Manhattan, New York County, New York, 10034, United States",
+    "summary_polyline": "cqmxFtzdbMrB}Cv@Sr@{@b@YhBaAnBs@dJkFjBq@bAm@T?dAf@bAE|AbA`BtB^Bv@l@nDbBzAlAfAj@zApA~BfAvB`BpEpCj@FPQjAGtBHd@Gh@WnBLxAWjCb@`Cp@jBdAzBbBdAvAd@`@nG~DfBp@dAt@hAVdAj@nSlMhLzGpBx@fK|ClYtMdDjBhF~Bz@r@fFfH\\JXZvHfKtBtArCdAtBjBzAXbAh@lAdAnApAr@hA\\PvAxAdBpAZb@zD\\fAhAxDnBbBzAx@\\vBbBb@^IZNNhBJbDh@x@~@`KvEj^nM`Bp@rIpFtAvAfBpAv@bA~Ar@Ph@XZxAv@h@j@~@Vn@f@jAORLjCW`DE~@J`Br@dAbA`C|AjAp@XT?V~@n@rB|@xAtAjB`AbAx@lAv@hBr@v@z@x@^x@n@v@\\fB~ATDh@c@r@BXXXfA`CrA`FnDlB~@tBrBhBbAZ^rR|LzBfB`FxCvC~BjFvC~ErDbAb@xCpBfCtBlCvAhAdAtAh@v@r@|CvBzQnLbBz@rHxFhEjChDpC~ErCZD~@z@hEnCvBbBrFtCtHtFRXnCvAbAX`C`Cb@PnAJj@x@j@Vz@g@JLz@F^V^j@XFt@OzCrB|@M|@Dh@{@pBxAdB`@zA@vAj@`C\\l@`@|@AfAlAGEXGxAdAlAvAVDNLDRdAf@BP?a@@b@CzABYL@z@z@f@BxASJFJn@lAb@pCErC@n@D\\RjB?f@^@XhA@XPDT^R|@OlDfAh@ZdCCXJr@IrAl@pB\\^F`AQ`@p@p@Cr@Jd@^\\JdC@XR`BPj@d@~@TbAdA^a@Lc@r@ApIhAj@Pv@h@bDVjBWt@D~@`@~@VLQ\\VhALpACt@QT\\x@b@E?Pe@j@?h@SbAd@hCj@fANXKp@F|@h@VA`Bn@\\A`@TpA?d@N|AD`B`@jBlAxClAtA?ZeAXa@J{@n@e@`@mAvADxFfAzAj@`Gr@f@RbAMdAv@|ANv@ClFx@pCfAdC^nBr@ZRdANdL`DnBVx@\\pLhDZoBv@{BEg@f@FxEfBpA|@j@Jx@uDx@uB\\yBvAaFH{A^gAP{ATAlB~@x@@vCnA|@h@d@\\nA_@fANt@Kv@VT?ZRfAMbBy@rBWlALx@@tBWHOKu@AiCJ[b@[tCG",
+    "average_heartrate": 156.5,
+    "average_speed": 2.924,
+    "streak": 1
   }
 ];
 
