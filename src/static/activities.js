@@ -6830,6 +6830,20 @@ const activities = [
     "average_heartrate": 156.5,
     "average_speed": 2.924,
     "streak": 1
+  },
+  {
+    "run_id": 6687647427,
+    "name": "Lunch Run",
+    "distance": 7121.5,
+    "moving_time": "0:40:12",
+    "type": "Run",
+    "start_date": "2022-02-15 17:01:01+00:00",
+    "start_date_local": "2022-02-15 12:01:01",
+    "location_country": null,
+    "summary_polyline": null,
+    "average_heartrate": 141.3,
+    "average_speed": 2.953,
+    "streak": 1
   }
 ];
 
