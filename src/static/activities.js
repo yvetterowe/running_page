@@ -6844,6 +6844,20 @@ const activities = [
     "average_heartrate": 141.3,
     "average_speed": 2.953,
     "streak": 1
+  },
+  {
+    "run_id": 6691782830,
+    "name": "Morning Run ",
+    "distance": 16162.1,
+    "moving_time": "1:34:26",
+    "type": "Run",
+    "start_date": "2022-02-16 12:07:17+00:00",
+    "start_date_local": "2022-02-16 07:07:17",
+    "location_country": "USS Maine Monument, Central Park Outer Loop, Manhattan, New York, 10023-7692, United States",
+    "summary_polyline": "qoywF|jpbMNaBn@cCCwDfA_Dd@aCD_AKq@Ys@i@i@{CwAcDkBiAkAu@iAUyA?{A|@wCJo@Bo@OcAiA{Bq@c@gAYgAaA]i@sAgDk@y@uA}@sBm@u@?yB~@iBAwBiB_A_B{@uBYa@_@OuBFkAe@oDy@oAg@gCeBkBeCwAsAaDaBoBuAkAeBv@nAdA`ApBjA`Bp@l@d@bAdAhAbBfA|@p@VfAv@hEhAvAh@~AG`@Fd@\\f@jAYs@e@g@]Me@?}@JxAQ`@Hh@`@Zx@E@[}@g@e@g@EqALk@Mr@NlAQl@J^\\d@bAc@y@k@a@mBCw@MtA@t@KbAr@`@|@c@aAg@]YEoALw@Sx@Jz@Kt@Rl@h@Rn@g@eAc@Ue@I_BFwBs@mAOkEeByAsAeBgCyAiA}F}Cg@o@}@}BWmBGmAEWQQDsAKgBKe@eAuAc@M[JiGkEqIgFaD_C{@Q}DGuCs@g@Ba@Ng@hAAhAp@nCNbB?x@K`Am@fC?~Bh@rAz@jAPp@Dt@HdGOnB?r@Jx@b@vA~@rAnBp@zGfA`BNh@I\\UfAcBt@kBZ_Aj@qDl@_Bf@u@hA_A~Bo@d@g@x@eCDoAEu@QgAUi@YWgE}CaDwBaI}EiBuAsAYeD?wDy@a@J_@TY`@ITEp@Bj@`@jATdAFjBG~AMp@_@pADjCn@zAb@d@Xl@Jv@CvBNfCM|CBz@Jx@d@zAx@bA`Bl@~InAl@Rj@OfA{A`AyBf@gBx@iEn@uA~@_AbAe@tAY^[Xk@j@sBFsAU_BQc@w@cAI}@}A{@eA}@c@k@gBgA]w@m@YyHqFd@RtFhEfC~AuCeB{G{E`GvDrDpC}IeGsAgAhGhE`DbCgE{CuFkD~EpCvEfDbA`@vB`BrD|BbAz@T^Lp@Br@QrDB`BThBf@xAr@dAt@n@bAl@rBz@|AbA~BbDn@n@fDlBnEdA|@`@tBKd@NV\\zApD`@j@nBdB\\Lb@EpAUxAy@Z?nBb@j@d@lAl@Xb@t@`Cv@`Bp@v@fC|@^Vh@r@Rr@Nt@BhBI^eA|BBpB`@dB|ApBbBfAtFfCn@t@Nd@Dn@IlBSz@w@|AShACf@JpCCh@e@`Bc@|@BdAn@n@TG",
+    "average_heartrate": 166.7,
+    "average_speed": 2.852,
+    "streak": 2
   }
 ];
 
