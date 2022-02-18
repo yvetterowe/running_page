@@ -6858,6 +6858,20 @@ const activities = [
     "average_heartrate": 166.7,
     "average_speed": 2.852,
     "streak": 2
+  },
+  {
+    "run_id": 6699205891,
+    "name": "Afternoon Run",
+    "distance": 9982.8,
+    "moving_time": "1:00:34",
+    "type": "Run",
+    "start_date": "2022-02-17 22:04:50+00:00",
+    "start_date_local": "2022-02-17 17:04:50",
+    "location_country": "West Drive, Manhattan, New York County, New York, 10023-7503, United States",
+    "summary_polyline": "inywFhbpbM?_@@UOU@M?]L]jA}BL_@Fk@Pq@B{AIk@Ug@WYa@]c@Kq@[OMYKuEoCi@q@aAwASqAEg@Jw@Pm@p@uAPe@@q@Gq@}@}BSQ_@i@{@_@WUe@Sa@Ws@cAWe@_@yAa@c@Q]OSs@e@u@_@gA[]Cc@@OFe@^[Ls@Nm@?c@Cc@Ws@o@YOo@s@eA}Ac@oAUc@YQe@Im@Hq@IcAa@kBW[Uc@IYO]I_@SG?U]i@Ym@i@_@a@s@oAcAaAm@YeAo@mB{@cCiBYc@g@aBYmAy@w@_@YBi@NiA?y@Gs@KaA]k@k@o@kBaAiDiCUYa@Kk@i@}@e@kAw@_@OWUYO}AeA{@y@e@Uk@EyADkAE_BUiA[y@A[XQRQb@It@Fp@Tz@Lp@LxAAjAOjAUhAYn@BT?|AJd@R`@x@~@Zl@Rv@CnBHxC?n@KdB?n@D`@^xATh@Xb@x@p@j@Pn@FpB^dAJd@L\\@|B^d@Mb@Yd@m@|@aBN_@Rk@j@iDRw@Xw@f@_AX_@d@c@b@QpBo@`@_@h@cAR}@Bs@?m@SwA_@_Ak@}@w@e@]]iD{BOY]YY_@KaAkBoAk@Y]UsCsBaAy@gCmAe@KiBHiAKk@KkAAc@FIF{AlA_@HoAMaAe@w@g@u@a@sAeAq@o@kA{As@mA[[{@e@IC_@Bc@Hm@D]Ai@KgAKs@O]@QPU^Gj@Cd@Bx@Lf@P\\l@x@n@~ARr@Dn@@v@Gn@[rAg@nAq@lACH@J^f@N`@VrBHf@Rl@t@|AX`@p@r@n@ZfAr@jAf@hBz@d@\\t@r@PX\\v@XdANXt@l@`@Rf@H`BMh@Bb@Hh@^TVP^X`ADDZfBHAVYNGC??C[`@G`@^lAXn@h@t@Zh@pAhA~@j@tAZvAAb@GtBs@h@Mb@EjADZJ~A~@~@dAZPr@|@d@bAVl@R^\\^ZRx@Xl@BvBQ^F~@`@fAx@dA`Br@vA~@vAZ^VT\\VZZ~@t@\\b@r@~ADPn@hAV^p@nAZZh@\\b@Nd@FnCMd@AbBMf@DbAZ`@TX^JX",
+    "average_heartrate": 140.9,
+    "average_speed": 2.747,
+    "streak": 3
   }
 ];
 
