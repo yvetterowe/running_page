@@ -6928,6 +6928,20 @@ const activities = [
     "average_heartrate": 176.6,
     "average_speed": 2.792,
     "streak": 1
+  },
+  {
+    "run_id": 6804938622,
+    "name": "Afternoon Run",
+    "distance": 6927.7,
+    "moving_time": "0:46:37",
+    "type": "Run",
+    "start_date": "2022-03-10 22:40:59+00:00",
+    "start_date_local": "2022-03-10 17:40:59",
+    "location_country": "59th Street\u2013Columbus Circle, Central Park Outer Loop, Manhattan, New York, 10023-7692, United States",
+    "summary_polyline": "_vywF`mpbM@Et@]LQ`@_AV_@RYn@a@p@cA\\o@Fm@?_@Ky@CIGAA[Rc@f@u@h@uARu@LsBCSKc@U]][[QWEk@W]YsAg@MMgAe@u@g@g@m@_AmAS]Ki@G{ABe@Hg@z@gBLqACu@Ge@K[q@kAuAgA{Ac@y@y@_@q@s@yBQ[e@s@u@e@_@QmA_@QO{@Ie@NaAr@WHO@aACe@UkByAU_@]a@Sc@e@yA_@k@OIo@MU?{@DSCq@UYQWKoAOs@SIG[GaAg@y@]]So@q@]c@o@eAIIU_@_@_@_@UYWa@W}By@_BcA[[o@eAOa@]}AEM?IGSMMc@Oo@k@HIH]J{@D_AEa@UiAQk@[g@q@i@}@g@YKy@o@gAm@k@a@?@KEo@_@_BiAG?o@g@q@a@e@e@sByAgB_Aa@KYCg@Fe@?aBGu@MoA_@QCe@Ai@TW`@M`@Cl@Fn@ZbARdAJ|@@v@Ax@Ip@e@~AE\\An@Br@Df@L^|@fARb@Nf@Br@At@@|AFr@@n@Cx@Iz@Cf@Bp@X|ARj@v@`ARP`A^vDd@nBb@fAJ`ANTNj@FVVRLVBPJ\\Xd@V\\Zz@fA^Zt@pAJ\\l@nAn@j@j@Rh@FjAEfAKZFf@N\\P`@\\j@l@v@vA^d@p@nALLPJ\\p@PT|AvAX`@`@ZVh@NRtAbDz@pARTfAd@VHf@Fj@C~@Qr@CZGtAE`@@^F^Hd@TZZTf@Nf@XpBN^Vb@tB|A^L^TXFrAj@d@JdA`@rBjAb@`@x@jAZn@Ph@LFT\\hAz@fAfBTj@p@h@bAn@P`@LB`A@",
+    "average_heartrate": 154.6,
+    "average_speed": 2.477,
+    "streak": 1
   }
 ];
 
