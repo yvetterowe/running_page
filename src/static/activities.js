@@ -6956,6 +6956,20 @@ const activities = [
     "average_heartrate": 147.4,
     "average_speed": 2.428,
     "streak": 1
+  },
+  {
+    "run_id": 6830542089,
+    "name": "Too good to not get out there ",
+    "distance": 8395.1,
+    "moving_time": "0:54:44",
+    "type": "Run",
+    "start_date": "2022-03-15 22:30:55+00:00",
+    "start_date_local": "2022-03-15 18:30:55",
+    "location_country": "West Drive, Manhattan, New York County, New York, 10023-7503, United States",
+    "summary_polyline": "koywFd_pbMCEZq@dA}Ad@kANm@VcB@e@Ck@IWo@y@s@g@k@KGHSWi@Uq@g@yAu@mAu@UYCKg@u@Se@Og@IaBBm@Ns@x@oBHe@?s@Os@Ok@Wo@Ya@SSMA{@a@u@Mo@c@cA{A{@uB{@qAcAk@yB{@]Ic@Dy@n@e@R[B_A@MEu@o@wAgA]a@KWKg@Sk@Ok@a@e@_@S]?[EWBu@?QKGGmAk@k@Ee@KWA]Ga@SYKSQuAm@SOQSOUm@u@_@YO_@W]UQSU]O]_@y@U[QgBw@_@e@u@q@UWYa@]{@_@kCAm@HyAHm@Dq@?o@CIIw@K]]]KWu@q@_@Qc@MGS[S[]qAm@SUo@a@o@k@_Ac@e@QiDcC]QmBuAq@{@OM_@I]SqA[gACm@F_@AcASi@M[Am@B_@J]RY\\UTc@Lw@@o@KeBu@gBmAo@o@o@{@o@s@u@wA[_@a@a@_@Qk@EeANM?y@C{@QsAMc@@QZElABbAFb@dApBj@tANn@LfB@r@Cd@S|@KXm@~@k@bAE^NXXv@f@bDNf@h@lAZb@x@r@^T~Ax@bBn@f@NbAn@l@r@\\l@`@zARl@f@\\xA^`AEh@Ib@B^Hb@TTXTf@Pd@b@jCj@bBj@dAn@fAVVXPZ\\`@R\\D^VbAZVFt@ALEh@GbBe@~@Uf@Gf@Fb@HXJPP^TnAtAn@z@r@dAX|@R`@Xb@ZZ`AZn@E|CBPDn@V^\\~@dAz@`Bj@|@XXXf@d@n@ZRb@TVZ~@~@Zf@hAdCp@bAr@pA^ZZJ`@VNFh@D\\B|@MrDUb@@j@F^NXTX\\^z@Pd@L~AJZ`@l@rDtB|Ad@d@Rn@T\\N~BrAfAhA|AxCPRHPb@`@t@lARJ\\Zx@jAHFbA`@nAt@RR@XSv@ONCVBF",
+    "average_heartrate": 152.4,
+    "average_speed": 2.556,
+    "streak": 2
   }
 ];
 
