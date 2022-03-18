@@ -6970,6 +6970,20 @@ const activities = [
     "average_heartrate": 152.4,
     "average_speed": 2.556,
     "streak": 2
+  },
+  {
+    "run_id": 6835870301,
+    "name": "Evening Run",
+    "distance": 6995.2,
+    "moving_time": "0:43:55",
+    "type": "Run",
+    "start_date": "2022-03-16 23:22:48+00:00",
+    "start_date_local": "2022-03-16 19:22:48",
+    "location_country": "2, West 61st Street, Manhattan Community Board 7, Manhattan, New York, 10023, United States",
+    "summary_polyline": "}wywFfopbMjCi@BCADC@CGWiAEiABuBC[D_Ax@u@PiA^UVq@ZYd@q@PMRg@D]HUFo@?e@Pi@Lw@GWYa@a@[wAk@yA_A[Mm@c@a@Q]a@u@o@y@_BOi@AoAEa@Fq@Je@h@wALa@He@Ce@Ka@i@qAe@q@a@]oA_@_Aq@U_@SUc@aBg@_A[c@c@_@YOMO_@Mg@Ue@M_@Ik@Cq@Ng@d@c@T}@F[Gc@OUQaB_Bu@_BOg@c@y@U]a@We@Ce@Jc@Bm@Y{Bs@_AK_A[mCyAeAcA}@qAEMW[s@e@[_@OKuCiA}AgAq@y@Wg@Ws@]yAQg@[Ok@i@FcAJk@@q@C[G][_AS_@U[aA{@iBiAwAaAe@_@aAi@y@k@WU]UGAcAw@a@U{@q@[OiAu@y@m@q@Sa@Co@Be@AQ@{@CqBa@e@SQCM@[F_@XIJOb@Cx@Fl@b@nALl@Ft@@z@ItAIn@e@xAIhBF^Pl@T`@p@r@PZLj@Fr@Cp@@x@L`B@hAMlB?n@T|ANh@Vf@X\\PRVNnA\\tBV~Bd@vBZ^LDDp@BL@`@XNTh@JtBjAz@t@bAjBd@tAR^PT`@^ZR^NrCMd@BLBDCb@Vh@R`AdAj@fA\\b@|@vAf@d@|@fAd@X\\Xr@dA`@`@|@pBV`@t@zALPHFR`@t@j@v@Vh@BlDYn@?`@Gn@Ff@Hj@Xh@b@Vb@Lh@LtATh@R`@\\\\|@r@|@b@dA\\J@pAr@jAZjAh@v@j@d@d@X`@bAvBtCdEtApAXTJ@n@d@\\LVVXVh@LTVHTZlA",
+    "average_heartrate": 148.2,
+    "average_speed": 2.655,
+    "streak": 3
   }
 ];
 
