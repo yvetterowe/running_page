@@ -6984,6 +6984,20 @@ const activities = [
     "average_heartrate": 148.2,
     "average_speed": 2.655,
     "streak": 3
+  },
+  {
+    "run_id": 6854055382,
+    "name": "New half PB on a beautiful day",
+    "distance": 21163.5,
+    "moving_time": "1:56:07",
+    "type": "Run",
+    "start_date": "2022-03-20 11:53:44+00:00",
+    "start_date_local": "2022-03-20 07:53:44",
+    "location_country": "Center Drive, Brooklyn, Kings County, New York, 11218:11226, United States",
+    "summary_polyline": "cwdwFzenbM}@u@[g@[{@YyAIoCLiAo@{F`@kCGYWKsA?}ALwLpEeAdAmAjBu@|AeAtC[Za@P_DPcAn@eAN_BYsBiAmAKgAXa@\\wAxBs@XaBTyAEA[J}@rAsA|JiGbRgMtCcBfBqAfGeDlEyCGGYPyE|CyPzJcExCqN~IeIvFuB~@mBJ}Ad@_@d@iAjCuCpC_CnAuKdH_Ab@mHbFaGnDmBjBqCtAcBxAg@L{CfBiEbD}Ax@Qf@u@v@qAl@eANk@\\iArBQj@y@PqAt@c@BcA^aAhA]zAApAmAO}@H[GeBoBkAZkAnAyBjAeBFWNmAbAaA`AuAl@c@?iDxAEKw@n@sAXAJc@^uBVMVUJq@R_AFwAf@oIjDyLxFuChAgOlHuAz@mMpFaJnEuFtBeAn@cOtGwHxDoAZyACMSReAZ_AbAsFXg@RZjANfFYn@QzEWv@QzAEd@OJALj@t@q@ZGJoANWGs@L]?]KQPs@@q@Om@[e@Im@J_AIuDBa@g@aD@eCQiBR_A@g@a@_BCo@D]b@[p@}FIgFc@gDOsFO_Bo@wCo@cBgBcCqCmBmNuFuIyDoGuAmAOuCC{B]gIi@sCe@eFwBcK{FyD}AmD_AgGAqCXqAh@}FtGcAv@qAh@yWjEyB?uA[oBeAeDqBeA_A{CcBgDa@i@S}@Gg@WiADqEo@sAc@cAGk@W{AoAw@WsC}BaDkBkBiB_IyGm@a@e@Ec@TOZy@nCq@|C_B`EqBnCUxAo@|@Ah@w@~@QhCM^[j@aAbAClD}@`COp@P`AOz@w@~@k@nAg@rBa@XQn@i@hAAbAGZ}@tBKfABnB_@xAH~@CVm@hAKh@Br@wBhA]h@a@jB?d@g@f@eAhE_@b@{@zA[?q@z@[GMWgA\\sAk@i@w@e@MuBeBcFYaAe@u@Eo@Tm@GcB{AQc@mAoAgAq@gAy@q@u@iA[c@Ua@g@ODe@QuAo@u@g@sAUw@cAo@Og@aAODw@g@gAQgBoBQoAeAo@y@mAEWP{AvAwFDg@?yAPkAxAyCVUTe@Dq@XaAZs@^Wd@qAAM_A}@kEaDcALmBtAmCXqAA}Cs@c@Uu@_AaAqCm@gAeAq@qAi@[Yk@y@iBkEa@c@}CuAu@Mu@D]TWjAJ`BAx@[xAs@hFN`DIpAOn@]l@oBdCYdBN~At@~AbDnBrAl@~@T",
+    "average_heartrate": 181.3,
+    "average_speed": 3.029,
+    "streak": 1
   }
 ];
 
