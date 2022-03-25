@@ -7012,6 +7012,20 @@ const activities = [
     "average_heartrate": 147.8,
     "average_speed": 2.386,
     "streak": 1
+  },
+  {
+    "run_id": 6877793213,
+    "name": "Hot pot warmup ",
+    "distance": 10114.9,
+    "moving_time": "1:07:06",
+    "type": "Run",
+    "start_date": "2022-03-24 22:12:40+00:00",
+    "start_date_local": "2022-03-24 18:12:40",
+    "location_country": "New York Institute of Technology, West 60th Street, Manhattan Community Board 7, Manhattan, New York County, New York, 10023-7503, United States",
+    "summary_polyline": "kzywFxtpbMCNh@i@R[jAuDL[^g@L]J]Fe@Bi@Ec@Jk@\\aAlAmBbAsApAeC^iADYAm@Bu@AQWa@cA}@kA[eEqB[_@u@m@UYSe@YWS]_@yA@{@ZiA@MR]d@qAD[@y@EIQ\\MDOAMJr@c@FO?MIUm@eAMYg@u@i@[oA]_@]IMFEW]u@oAc@_AoAaBy@e@cBs@eASYJuAx@CAhBaANCm@Ni@d@a@P}@Do@I]QkBoBiAsBk@uAQY}@Kw@Hu@GiBo@cAS{EsBe@]w@w@o@gAo@u@aBmA{@c@y@[yAcA_@[w@cAYg@]wAQiAKy@V{CBgASiAOa@_@c@_@SSQcAm@iB{AgBgA}@s@s@_@sA_A]QaCiBgAi@mBqAyBgAw@E{AFe@?_B_@Y?c@Dg@Ja@Tm@l@e@Xu@AUGkAm@kAu@uAgAwA{A_AoAg@y@}@y@m@UoAP}AA_@KoCYUFO\\MbA?l@Hl@dA|Ap@nA^hAPlAAr@CRg@pBKTcAbBS`@CNJNNJZf@Fj@dAfEXt@`@j@x@r@n@^`Af@ZTtClAbAt@HJf@|@p@nBX^ZRh@Tb@HxBIb@B\\Nb@ZT\\`@dA`AvEd@`A`@l@fBnBxAt@nB^XAtA_@j@EbBe@hAAb@Hr@Xf@Xz@t@f@\\RX^^LRl@|Aj@hAv@v@^Jb@Bd@IbBEb@Df@Lx@j@`AjA~AlCjA~A\\`@~@v@rBvBdA`CV\\j@jAX`@^`@fAh@h@LrCQhDMhA`@b@VX\\P\\Pl@LfAPt@Z`@p@h@LF^\\bAp@nBx@lAT^NxAv@lA|@~@nAl@hAv@rA^\\\\j@n@r@tCbCb@LFGRBXZZv@@Jd@zAQZ?d@DVTXF^FEGf@GJG?CFIAc@US?SF?FN\\^Vn@Zx@FV?h@Ht@r@n@JVPBFER@HV~@H`AF^B\\]`@CTQ\\ANCXFr@ABFFJ\\a@`ASfAGDGPMFQ?WKBAj@RvB`BT\\h@LNRAN?FGV@DH?rAx@x@Xb@VXVt@\\VFAAxAjAzAt@V`@@Hd@JPTlAbAn@LRLl@h@^RE?D?OMt@^T\\TTN@TL\\Pn@j@fAf@IO@C",
+    "average_heartrate": 143.8,
+    "average_speed": 2.512,
+    "streak": 1
   }
 ];
 
