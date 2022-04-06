@@ -7054,6 +7054,20 @@ const activities = [
     "average_heartrate": 154.7,
     "average_speed": 2.752,
     "streak": 1
+  },
+  {
+    "run_id": 6937495340,
+    "name": "Path dependence\u2026",
+    "distance": 7006.7,
+    "moving_time": "0:40:05",
+    "type": "Run",
+    "start_date": "2022-04-05 22:08:59+00:00",
+    "start_date_local": "2022-04-05 18:08:59",
+    "location_country": "240, Central Park South, Manhattan, New York, 10019, United States",
+    "summary_polyline": "mlywFpmpbM?CUKSEIEKUMw@?cALcAJYHy@@c@SwBFe@DKHI`AaBJc@Hs@Do@Cw@@WOaAQe@USoCqAo@]USm@WwBkB_AeAQi@I_AAyAJg@n@wBHi@Fs@AKOq@a@kA_@i@_@]QKiA_@QIa@[MQg@}@eAeCs@iA}@m@QIYSoAa@g@Co@Hk@b@K@OJ_@Pg@Bu@Gc@OiAeAOUYSU]_@y@aAiCWQaACo@L_@Cy@[kA[a@Q_@Ek@Oq@UaAo@e@Sc@[[Yo@s@We@UYU_@{@y@cAq@a@Q[Iy@[[Sc@a@o@_@]]]o@e@mA[{AQ[_Ak@QUVkAHq@Am@Eg@Kk@]{@SY_@YkHuE{CsBeAq@m@Ya@Wa@_@cAq@uAy@s@Q]?e@Dc@?iAGg@IeAWIEq@Oc@Fa@RSVQn@@`AH`@Vv@RdAJbAGdBKz@]pAM^BlCn@hAb@d@X`@Rp@@t@Ev@?r@JbB?b@?p@Ix@Cl@Bn@N|@Nj@b@z@\\Zl@b@`AZlAR|AN`Fv@P@NU^R^XNVd@JtB|AxA`BbAhB\\|@n@~@f@Xd@J`@@~AOX@h@Dd@Nh@Tn@l@^f@FZ`A|A|AzB\\`@xBnB\\\\VZb@x@v@bB|AxCf@Zl@L^LV@n@ClDSfAEr@H^Lf@V^\\Th@Jn@Bn@Lt@JPh@v@~@n@tAv@`Br@d@NvA\\nAj@n@d@d@`@Zb@vBnDlAbBrA`Bt@d@n@f@r@XtAx@T\\Rh@Nz@",
+    "average_heartrate": 156.9,
+    "average_speed": 2.913,
+    "streak": 1
   }
 ];
 
