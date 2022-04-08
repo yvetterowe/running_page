@@ -7068,6 +7068,20 @@ const activities = [
     "average_heartrate": 156.9,
     "average_speed": 2.913,
     "streak": 1
+  },
+  {
+    "run_id": 6944551973,
+    "name": "Dragged by HH gals",
+    "distance": 9856.1,
+    "moving_time": "0:58:53",
+    "type": "Run",
+    "start_date": "2022-04-07 11:08:00+00:00",
+    "start_date_local": "2022-04-07 07:08:00",
+    "location_country": "Columbus Circle, Manhattan Community Board 4, Manhattan, New York County, New York, 10023, United States",
+    "summary_polyline": "epywFbnpbME}@FiA?q@Ju@JQNk@X{@?]Ko@Eo@Je@d@aAh@kBR{@PmBGm@U_@_@g@UQeCgAsDuBaAy@_@e@[c@O]I[Iq@@g@Do@Nk@t@oBF[D{@G}@Sk@]s@i@q@i@_@mA_@a@Yy@eAqBoEe@c@_B{@c@Qi@K_@CW?{At@WFmAEg@IUKkBcBk@eAm@aBa@o@]Yq@Ic@Dk@?e@KcA[iBa@mBo@cB_Ac@]_@][c@]k@{@kAq@q@kEwBaAk@]]{@qA]cBYcC@a@ReBBc@Ay@Ko@Qc@a@s@oDoCqAs@kCeBa@S_Au@wA{@IQFD?BYYg@WkFoDcAi@g@Oe@Gg@AuADuB[a@AS@g@J{AnAMFe@Bg@COAe@OiC}AeByAy@_As@eA[i@]e@Y]_@YSGQA]@yAP}C]wAUe@Q]Y]a@_@k@q@qBWg@e@Sk@FY`@Kt@@p@Nn@r@nALb@BP?p@Mh@Wb@c@Nc@Cc@Q}@w@aAcAu@m@iBcAc@Q]Gg@F_@TwAnBw@dBUt@Gd@M`BGdBG`@GJG~@Fr@Rl@`@b@d@Vd@?b@KX[L_@L_@Fi@Lm@LYf@q@n@M\\Ah@Bl@Id@Sh@M`@At@JZL|@|@l@`Ad@pANr@Jn@XbAT\\VTp@Tz@d@p@|@Nf@X|AXt@XbAn@dAX^|@r@|@j@r@Xd@T^VlAh@`@X\\Z^b@\\p@Lj@Z~@XZl@f@b@Lj@HvAOn@DVFb@ZXXRh@X~@r@|Cl@vAZd@`AjAl@d@XZ`@Xb@PxAVf@Dl@Ed@IfCy@b@Ez@Cn@Pb@ThAv@^d@n@p@r@bAXh@b@hAXb@f@f@f@Tb@HnDId@Hh@Vx@p@`@j@Xb@Th@T\\Vd@l@v@Td@pClC|@hA`@n@Pb@pAjCh@j@`@l@NLbA^j@Fj@A^IvBQzACh@?f@L^LVTJNb@z@LpAR|@Xf@TZlBpAjAb@hAj@pBl@dBz@ZTPNl@t@hB`DtAnBbAhAXX`At@ZRTHRLb@Tl@V\\Vb@jAPn@LXT^PLZBf@NZA",
+    "average_heartrate": 172.4,
+    "average_speed": 2.79,
+    "streak": 1
   }
 ];
 
