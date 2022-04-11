@@ -7082,6 +7082,20 @@ const activities = [
     "average_heartrate": 172.4,
     "average_speed": 2.79,
     "streak": 1
+  },
+  {
+    "run_id": 6959851110,
+    "name": "Morning Run in hiking boots \ud83e\udd7e ",
+    "distance": 7698.9,
+    "moving_time": "0:55:03",
+    "type": "Run",
+    "start_date": "2022-04-10 12:27:22+00:00",
+    "start_date_local": "2022-04-10 08:27:22",
+    "location_country": "Akin's Pharmacy, 33, Main Street, Warwick, Town of Warwick, Orange County, New York, 10990, United States",
+    "summary_polyline": "_`yzFhjzdMUE[e@O_@WGi@e@q@_@YW?EN]B?sDmCy@a@QUYQSMG?Qc@Ig@]qASm@O[_A}DUkAC_@UkAOo@K{@Cb@Rj@Jf@D`@?NZlBj@zBP|@Pb@p@pC@LCTIJ_@CuA_@IRSl@i@`Cy@zCUh@w@nCSd@c@pAi@hBQ|@a@vAOZK@i@~BIj@e@rAIt@Ab@GTWf@Sd@Qn@]`BUd@c@dB{BbHYd@WXk@v@S\\_A`A[^k@f@QXONSZWz@Mj@KlAMlCIj@Mp@a@|@g@z@w@l@_@@eARMDi@TYVc@h@wAtAm@v@Qf@]zA_@zBg@~DWhCKpALVWnG[dE}@nEaArDIRT?XNl@h@z@|@b@Vh@t@f@d@n@r@dA`AZZr@dAXf@rAjBh@d@fAf@d@ZbAd@RLFHfAPbARZPb@NbAPdF~AtBf@bAZ|AZB@A@`AVX?\\F^L~D`Ab@NfDx@jB\\lC`@b@Jn@PVDd@`@~GtCtAp@x@d@fA`@PADG?MEOOuBGuA@m@_@oHGyBIuAIqBCqBMoAGwB?oBYuHKmBIcDUqDOsFs@uHAk@@i@GcA[gCc@cCWmBCu@?s@Iy@IoCWqDCu@K{@I}AAaABkBH}BJgB^aDP_D?g@H{A?mADIB?J_@C]D]Iq@AgAWgEGuCDcBZoEC[b@KlAIZIEk@WaASiAK}AEO",
+    "average_heartrate": 134.0,
+    "average_speed": 2.331,
+    "streak": 1
   }
 ];
 
