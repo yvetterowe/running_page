@@ -7096,6 +7096,20 @@ const activities = [
     "average_heartrate": 134.0,
     "average_speed": 2.331,
     "streak": 1
+  },
+  {
+    "run_id": 6964141337,
+    "name": "Monday duty call",
+    "distance": 6900.9,
+    "moving_time": "0:41:49",
+    "type": "Run",
+    "start_date": "2022-04-11 10:42:01+00:00",
+    "start_date_local": "2022-04-11 06:42:01",
+    "location_country": "West Drive, New York County, New York, 10023-7503, United States",
+    "summary_polyline": "spywFxfpbMM}@@CN[NQDKNOHQXYDa@KuABSZUP]x@aCNk@?w@Fi@Ke@U_@[a@_Bu@[MoDkBiA_AgAmAQYSw@Gq@Ak@Fi@Lm@~@cCDg@?s@Sy@[u@{@iAg@W}@Yc@Y[]q@}@}AgDm@{@g@]kAk@w@Ug@Ag@JsA|@aA@s@Kc@S[e@c@U]YYY]m@o@{AWe@[e@IEm@QgALa@Ks@W{DaAiAg@_@UyAcA_AaAYg@{@aAuB{Ao@WOAa@Qa@WcAs@USs@}@[q@Si@g@oBYMw@q@TcBA}AUkASg@_@m@a@]k@]gAw@a@_@s@k@wDyBcCgBm@[wAgAc@UmA}@i@M_@Ai@He@Ac@G_@@g@EkCs@c@B_@VU^Od@@hALh@Rh@Lj@PnA?l@AdAGn@Uz@Yv@Ml@Fn@Bx@DPZn@`AbAR^J\\Bl@EbBDhADf@?^G|@Mx@?p@Bb@TtAPh@^j@\\b@^X`AV^?jALjDn@bCZ\\NVBb@PNVf@NZLbAp@H@PZHDx@|@z@hAn@dB\\j@Z\\n@Zb@?|BMd@Bj@Jl@ZdA`AZ^Pb@`BhCTf@\\d@d@f@^T^ZrB|Bb@rA|AfC|@lA`@V\\Jh@BfCKzAMrAA|@Jb@Tv@~@Xh@DJDpABLPl@^j@d@T^VVTx@Z`@Xl@V`Ad@fAPXHnAt@`@Xj@h@v@fARf@tA|BlAjA\\`@NR~@|@XRHBJRHFt@^v@FRZFDBC",
+    "average_heartrate": 158.6,
+    "average_speed": 2.75,
+    "streak": 2
   }
 ];
 
