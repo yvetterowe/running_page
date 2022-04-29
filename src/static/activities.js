@@ -7194,6 +7194,20 @@ const activities = [
     "average_heartrate": 144.4,
     "average_speed": 2.267,
     "streak": 2
+  },
+  {
+    "run_id": 7054361947,
+    "name": "\u2600\ufe0f + \ud83c\udf38 > \ud83c\udf2a\ufe0f",
+    "distance": 7113.8,
+    "moving_time": "0:44:12",
+    "type": "Run",
+    "start_date": "2022-04-28 12:26:54+00:00",
+    "start_date_local": "2022-04-28 08:26:54",
+    "location_country": "24, East 72nd Street, Manhattan Community Board 8, New York County, New York, 10021, United States",
+    "summary_polyline": "mfzwFzkmbMo@~B[j@E?KPAJDP?JETIHg@PGJ]nBELIBURSjA?z@Of@w@d@{@p@a@Nc@Le@Da@SwBiBaAwAUq@Wk@_@m@WMQC{@LUC[IQKm@Oa@Oe@K}@K{@]y@e@]Os@a@SO{AyA{@yAuAeAeCmA{@m@mAs@s@w@Yi@Ww@WuAK[AA?Bg@Wm@a@BSReAFoACc@I]Ko@GKCKB@w@eA_DoBYOk@e@q@c@iBsAEI@Ea@E]S}C{BoAq@_A{@]Se@O_@Co@Fc@@cAGsAUqA_@_@Ec@La@ZSb@K^@x@DZRj@Ln@Jx@Fh@@lBGn@Mj@_@nA@jCTp@TZx@p@HT?ZH~@AdABrAHt@AbAAb@Ir@?t@Bh@P~@t@dBHLl@\\r@Xb@JzA\\hAJlARf@Ff@LhAJXRb@DZPH`@B@XJz@^dAt@`Az@v@xAd@bAPh@Xb@j@l@XNl@NTTRb@Vx@RnC?f@Ep@[tAARDNh@`@`@TpAh@ZR^VlAdAfAn@^\\XJZXXN@BANYv@Mb@[n@oAvDKj@o@~AKd@ARBBFA@^AL]`A]pA_A|BGTYb@Sj@Il@i@zBKX]l@Of@IXWjCaAjBCh@Gd@e@`AARBCDH[n@c@r@WX[P_@`AU|@AEC?Bk@B?HKg@zABXLPjA~@NNPHTRPXVNPDV?h@VxAPVFZRjC`APDRCLQ@?\\PDVSJ?MJMHCNW\\y@`@Md@L\\Fl@Eh@IPFDF^N|@h@dAz@d@Z\\CNNjAd@d@|@TTb@Rl@LJP^JPRzAnALNFBJLZB`ACp@`@P@THnARLp@AHVTHBl@d@T\\LJT\\XR|An@FPXFNJFNZJh@b@|@Z^Xl@ZVXb@TNd@v@b@d@Fd@ONAfCf@VTDXc@j@YT",
+    "average_heartrate": 149.9,
+    "average_speed": 2.682,
+    "streak": 1
   }
 ];
 
