@@ -7222,6 +7222,20 @@ const activities = [
     "average_heartrate": 163.3,
     "average_speed": 2.898,
     "streak": 1
+  },
+  {
+    "run_id": 7084069848,
+    "name": "Evening Run",
+    "distance": 5009.1,
+    "moving_time": "0:33:52",
+    "type": "Run",
+    "start_date": "2022-05-03 22:55:46+00:00",
+    "start_date_local": "2022-05-03 18:55:46",
+    "location_country": "240, Central Park South, Manhattan, New York County, New York, 10019, United States",
+    "summary_polyline": "{mywF`mpbMWI[Sa@KCE@_@D_@N_Ax@eBZ}AHw@Ws@BUEUD_@Ra@d@uBVc@JmAA}@Kc@S]a@e@SKe@MgAe@_Ai@YWYSkAm@q@w@cAyAc@oAAu@@cADo@Vk@Z}@F]@i@?m@Kg@Qg@u@uAqAq@[G{@o@][e@y@w@cCYg@Y[k@_@kAi@YGSGg@Kk@CYHcAr@]Lc@Bo@Ae@O}@u@kAoA]u@u@{BQS_@UYCq@@_@DeAWjEHd@l@^rA\\dAr@`At@j@f@d@^PdBL@BPj@Lp@?f@?PKl@a@xBA?Ij@Ab@UxAC`@JdB?pAANKh@Uh@]ZQTI?CCGa@[c@[Ec@MOQKBa@Ra@SGOI}@@gCOc@EEc@N_@XUFq@]SGQCu@?{@a@u@w@GKOE[XCLIBGXI?OQMi@GCQ?IGGDIVSXDTZDFF@PAHEDGDw@w@?]UUIAEDEL@XGNEJe@\\CLl@`BZl@LZhAzBZb@b@j@fBr@`A@fB[b@@nAERDd@Er@@z@t@\\^HVHd@FrADPXz@Z^|@r@h@ZzB`Ad@Lb@PlA\\xAx@jAbA`@h@|ArC|@fAn@~@tA~A\\VV\\h@Td@XZHj@Bd@S\\U`@a@d@{@N]`@o@NIV]ZELDn@`@l@h@DK",
+    "average_heartrate": 137.4,
+    "average_speed": 2.465,
+    "streak": 1
   }
 ];
 
