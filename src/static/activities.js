@@ -7264,6 +7264,20 @@ const activities = [
     "average_heartrate": 145.5,
     "average_speed": 2.629,
     "streak": 1
+  },
+  {
+    "run_id": 7127505919,
+    "name": "MHRC hills",
+    "distance": 7356.2,
+    "moving_time": "0:42:26",
+    "type": "Run",
+    "start_date": "2022-05-11 22:00:28+00:00",
+    "start_date_local": "2022-05-11 18:00:28",
+    "location_country": null,
+    "summary_polyline": null,
+    "average_heartrate": 155.6,
+    "average_speed": 2.889,
+    "streak": 1
   }
 ];
 
