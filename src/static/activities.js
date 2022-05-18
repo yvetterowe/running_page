@@ -7292,6 +7292,20 @@ const activities = [
     "average_heartrate": 148.8,
     "average_speed": 2.585,
     "streak": 1
+  },
+  {
+    "run_id": 7160251931,
+    "name": "Afternoon Run",
+    "distance": 8406.1,
+    "moving_time": "0:49:47",
+    "type": "Run",
+    "start_date": "2022-05-17 21:55:34+00:00",
+    "start_date_local": "2022-05-17 17:55:34",
+    "location_country": "240, Central Park South, Manhattan, New York County, New York, 10019, United States",
+    "summary_polyline": "ilywFlmpbMS@[[q@AGGAIEGGGY@CGUIYASaAOa@Ia@AYGEEIOKaAGWOIWUMc@i@MYGCYe@y@WmAaAc@q@g@e@Yc@Yy@a@m@cA_AYUoAq@_B_@ECi@QYSe@QMGa@MyA}@gA_AOSSe@Gg@Do@I_@Q[s@cAu@We@Kc@Ae@FWCe@@u@DsBVUGGKIIeBk@]]e@o@o@iAOa@c@}@UW_@s@q@q@_@Uq@w@_@Y_@a@k@}@oAaCa@m@KU[a@_@]{@e@YIoAAuAHe@?a@Kc@Ue@i@U]k@_BWe@gAuAg@]cA}@_@W_@Ok@Mc@BiAVw@\\{Ad@iA@c@Cg@MaA]q@k@{@i@OGIWs@_AWg@e@sAOs@Gc@m@mCa@k@WU]Sa@MUAo@JaABk@Ge@Ua@]UYQk@i@wAYc@g@o@_@[q@_@wBw@_Ai@a@S_Aq@y@{@k@kAMe@Gg@Oc@e@wBSi@Wa@CUt@s@FS\\g@Re@Pw@NcBEo@Kk@]kAUa@Ma@a@_AUc@Qk@Es@Du@BQVi@ZGpDh@h@DxAMb@?\\Jj@b@tBxCrBtBAGPV`BjAdAh@b@Jh@Hb@B\\KfAeA^Kf@IdD^P?fAI|@Bp@RnAz@`A^\\Z\\Vh@R|@l@R\\f@VtA~@~@t@HBbAl@`@\\^Nh@r@ZXfAb@nAz@d@Pn@b@TXL`@Fd@@`BUhBBtAHt@PvAZ|@Xp@`@f@lAz@h@XbAh@j@TfAp@fAbAP^A?TTn@bAZ\\j@b@fCpA|Ab@b@HdAXnAh@d@F^Gn@EVH`@XFJPh@d@~@Zv@X`@nAlA^XdARf@?ZJHFTdC?h@MTO\\a@lCSp@GdBBvACLF\\GlAI\\ST]RIZ?b@EPk@dAOj@Ml@Cr@PvAP^^b@jBrA\\NVDdBx@`@Lb@Hh@PbB~@b@X^^^d@vAdCRf@^VnAtBdCxB^Xx@R`@FPHLV^j@Lv@^v@",
+    "average_heartrate": 150.3,
+    "average_speed": 2.814,
+    "streak": 1
   }
 ];
 
