@@ -7320,6 +7320,20 @@ const activities = [
     "average_heartrate": 154.1,
     "average_speed": 3.007,
     "streak": 2
+  },
+  {
+    "run_id": 7178769803,
+    "name": "Brooklyn Half! \ud83c\udfd6\ud83c\udf2d\ufe0f",
+    "distance": 21288.8,
+    "moving_time": "1:48:46",
+    "type": "Run",
+    "start_date": "2022-05-21 11:13:27+00:00",
+    "start_date_local": "2022-05-21 07:13:27",
+    "location_country": "Steinberg Visitor Center, Washington Avenue, Brooklyn, Kings County, New York, 11238, United States",
+    "summary_polyline": "yifwFtvlbMvACz@KnAEv@S`CS`Dm@jAClC_@xAK~@UfCQhAUfCMLJNbF?TOZyBpA_A`AoBbA_B`AgBhAi@TcAl@aJhGyBjAiGjEyBjAi@b@s@^q@h@_CtAyE`DUHyCPy@Z]n@Aj@Pl@f@Xb@B|Ck@vAo@Zo@PsBRm@bAy@zQiLjGoEvIoFl@e@|FaDvAgA~@_@bBeA`@ON@x@z@~@l@f@HpCKb@InA?nB[n@DhG}@tBIn@OrG_@tCYh@Sn@GlACZPl@rBR|AvAdDdApDXx@`@~ARd@b@|ATlAdAtDR~@x@dCf@nBrA~Dt@jCf@jCGn@MTQD[IWUo@aAQe@Km@CcBYaCOk@aAwB}@cAm@}@Q_@o@sBc@sBSaDa@qCw@mCgAmBe@q@}@}@qAcAoAq@qBe@sAImAH{Af@kD~As@F_BOeAT{DjBcAl@y@ZiFhCw@PuCFg@LqIbDwBdAm@l@y@fA_@x@U\\oA|C[\\o@`@g@Nk@AmANsAn@_ALcAY}ByA}AEm@Pw@r@O\\Oj@GdADz@d@vAVZ~DrC\\h@nAnAj@`@hBh@vBL|Fa@hA@p@Pt@b@VXj@fAj@h@\\ZxBdArBhBt@bAlAhBvBlFd@vAXd@x@dAlA|@^Hn@Dr@EnAk@h@eAV}@N}@ToCj@}A`BgBn@yAPm@x@yAZ[fAu@|AK~AFp@JnB?d@IhAa@`@[tBaCdAu@j@Q^AfDd@`ADl@GbBg@|A_BRJ\\h@`Ax@Nd@H~@J\\TZp@\\X`@Tn@xArFl@vAXd@b@d@l@Z^LjAFf@ErD}@TQzAOrAGjCe@|Eg@lBi@fFm@rAYrBQ~B[bF_@hBWxBObD_@bEq@~De@pJu@rJoAbHc@dDg@lMqAxJqAdCc@xSuBtC_@jBMrDi@fFe@pEg@hM}A~LmA~AWlOuApFu@~AEbBa@`Da@bBO~@?tAO|HgA`E]|@QxEg@jG{@dZoCrMcBlCWv@?tJzA`BLzEp@dDl@jGx@`Ep@l@DnHdAnF`AnGl@xB\\t@BxBd@~Er@z@XbAPbHp@|G~@tBd@x@`@f@d@Zp@X|@N~@RfBF|CE|DIfAu@vG]|Di@tEKrBBhBGjBJ^d@HhDPlAIxANHFJb@Fl@BlA`AtP",
+    "average_heartrate": 175.4,
+    "average_speed": 3.259,
+    "streak": 1
   }
 ];
 
