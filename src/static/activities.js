@@ -7334,6 +7334,20 @@ const activities = [
     "average_heartrate": 175.4,
     "average_speed": 3.259,
     "streak": 1
+  },
+  {
+    "run_id": 7192363667,
+    "name": "Evening Run",
+    "distance": 5052.9,
+    "moving_time": "0:32:32",
+    "type": "Run",
+    "start_date": "2022-05-23 22:33:27+00:00",
+    "start_date_local": "2022-05-23 18:33:27",
+    "location_country": "59th Street\u2013Columbus Circle, Central Park Outer Loop, Manhattan, New York County, New York, 10023-7692, United States",
+    "summary_polyline": "exywFhjpbMa@[GGCQRk@Ho@FYNQj@[d@c@tCKFKNy@LYB_@\\[V_@@QAG?KFO^c@|@uARm@C_@@UHk@Qk@{@gA_@Wy@WsBgAs@c@OCIGUQ]_@_@YgAuAQ[Ma@Ic@AoALkAh@}@Vs@JcACc@Mo@i@eA{@eAq@[i@KWMq@s@m@eAc@mAWg@kAcBQOuBiAgAOc@Ds@j@YPc@Hw@?c@Ac@SSSa@S[Yo@_Am@kAUu@Yi@Ye@KG[ISSs@Lq@G_@Qu@Se@W?BOHa@AgBk@{@g@m@W[U_A{@w@aAo@aA[]q@m@{@_@s@UkBeAcA{@c@g@Ym@Qg@_@iCIw@\\uEEg@Mi@Oa@QWSSuA_AY]_Ao@[M_@[_@Qa@[[O}@o@aCuAw@o@_BeASUqAs@oAeAwBeA[Gk@??EqAPw@IkAUg@?i@B]Ha@Vc@f@e@Vc@Bk@Gi@QsAs@oAw@U[_@]e@g@[c@EI@QQ]e@]OSf@Qh@@|@OBBTa@Ro@\\_@XIJ@h@AZBZKRURF^T`Ah@b@\\v@`@RH@AVSd@_AXo@t@eCNs@HEHKLUFIFORUBm@f@oANm@HkAN_@b@q@TMNoAHKBeAVg@LOL@JNZZXb@RARQl@oB",
+    "average_heartrate": 142.5,
+    "average_speed": 2.589,
+    "streak": 1
   }
 ];
 
