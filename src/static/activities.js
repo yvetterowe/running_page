@@ -7337,7 +7337,7 @@ const activities = [
   },
   {
     "run_id": 7192363667,
-    "name": "Evening Run",
+    "name": "Alphonso pickup \ud83e\udd6d",
     "distance": 5052.9,
     "moving_time": "0:32:32",
     "type": "Run",
