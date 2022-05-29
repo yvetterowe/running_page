@@ -7348,6 +7348,20 @@ const activities = [
     "average_heartrate": 142.5,
     "average_speed": 2.589,
     "streak": 1
+  },
+  {
+    "run_id": 7216504402,
+    "name": "Morning Run",
+    "distance": 8095.6,
+    "moving_time": "0:52:48",
+    "type": "Run",
+    "start_date": "2022-05-28 13:16:59+00:00",
+    "start_date_local": "2022-05-28 06:16:59",
+    "location_country": "7200, Stags Leap Lane, Wallis Ranch, Dublin, Alameda County, California, 94568, United States",
+    "summary_polyline": "itieF|jzfVAk@Fa@@}@NgCH_@JWb@_@FEb@IT@FF`@Dl@Xd@PlAX`@?XIb@Eb@?d@FXJ`Bv@XJ`@CZOd@I^?XDXJ^VZZHZBj@Il@?`@@NRJJQD?LZJHR?h@GLP@AZNl@YZK~AQl@Mf@U`@[r@{@~@mBF[FiAEGKcAOSKCk@K_@CoA[wAk@sA_Aa@e@Ya@]k@[w@iAuDa@gB[_AAG?Or@k@tAwAr@aAt@uAb@q@Vk@r@{@nAaCZg@bA_Cl@aBT_AZ{@Ls@fCkIz@oBn@eAp@y@`A}@fAu@bAe@x@Yn@Kb@E|@OlCEd@FrAF`Eb@v@DhBVdAHl@LhBRx@Rd@D|@Bd@BjARRFj@@x@LrAJhEOh@In@QpB_AhAs@lAiAz@eAf@s@r@oAp@yAFGL?lAp@\\VdA~@~BbEn@zAr@jDNl@Fj@HjBD`BNpE@|AHxB?l@\\nFRlAf@~Bt@tBZ`BN`AL~CD~BJVCfMAtACZCB]FW?cAKm@?MDW@]Gi@Ae@Gg@Dc@?e@Ea@AeAD_@Ee@@[EwADcAEa@DW?UC[Ie@@qCQe@BiFO}@?u@DiAG]C]G_@DkACk@Gi@@e@Ge@?g@Cg@@aAIk@AYAi@DwBIc@EiA@uAKe@?i@CiAJsBEQ@e@Eq@B{@AIBABEd@Kf@MX?f@CTGFsAB_@FQHa@Z_@Tk@?s@QW?c@FaCfBa@d@QCe@HkAVg@Ba@OY_@G?_@N{AN}Ah@QHGFCNTtA@HTVxCi@`@?DA_@@cDj@OO_@{@S{@Sa@Q@MFONWJ_@HEu@?o@PM",
+    "average_heartrate": 141.5,
+    "average_speed": 2.555,
+    "streak": 1
   }
 ];
 
