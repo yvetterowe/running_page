@@ -7390,6 +7390,20 @@ const activities = [
     "average_heartrate": 149.4,
     "average_speed": 2.567,
     "streak": 1
+  },
+  {
+    "run_id": 7266886504,
+    "name": "#NewBee6Yrs",
+    "distance": 1061.0,
+    "moving_time": "0:06:40",
+    "type": "Run",
+    "start_date": "2022-06-06 22:15:34+00:00",
+    "start_date_local": "2022-06-06 18:15:34",
+    "location_country": "Central Park South & Columbus Circle, Central Park Outer Loop, Manhattan, New York County, City of New York, New York, 10107, United States",
+    "summary_polyline": "knywFtlpbMQEGKEm@FwABON]DEN]H_@BeAIYIuAJq@h@{@^}@Po@RwA?{@Go@Sg@U[a@]MGoAc@_DgBk@]u@q@o@w@_@i@Uw@Ge@BqAH_@Vg@Rg@O]eAaBk@YYGm@GeAm@",
+    "average_heartrate": 134.0,
+    "average_speed": 2.652,
+    "streak": 2
   }
 ];
 
