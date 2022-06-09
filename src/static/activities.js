@@ -7404,6 +7404,34 @@ const activities = [
     "average_heartrate": 134.0,
     "average_speed": 2.652,
     "streak": 2
+  },
+  {
+    "run_id": 7277569292,
+    "name": "Mile trial WU w/ strides",
+    "distance": 3305.1,
+    "moving_time": "0:19:56",
+    "type": "Run",
+    "start_date": "2022-06-08 21:56:17+00:00",
+    "start_date_local": "2022-06-08 17:56:17",
+    "location_country": "Chris French Cleaners, 57, 4th Avenue, East Village, Manhattan, New York County, City of New York, New York, 10003, United States",
+    "summary_polyline": "cerwFhfrbM?DJLJYD]FMBGZILa@Ja@Rg@PUZQHc@NmA\\eA\\iBZcAROVcAHQP{@De@Ji@@Q`@i@XgA?Ul@qAH?Rk@Ts@TgANc@Ha@HSHGLUJY`@cB@OLSHW@YJUb@}AZw@XeAP_@XeAb@}@RGLME?@{BH_@FIBa@Pi@HQBQt@cBNg@d@gAHk@Ba@l@{Ax@aCZkANeADG`@[PFv@t@\\KFK@[FS^_@|@sBH]Fk@NEzAr@dB`@|@Vr@B|@LIBM?B}ABMZDA@KBQ?a@KCK@_AJUFEf@GVUHa@Ag@Sg@SSGA{Di@[JUZIh@B`@HTPP\\LbC^x@DDA^[Jc@ASKi@IQWWkDg@[F_@PEDOh@Bp@Xd@f@L|@Fx@Jd@JR@b@SNQDa@Ei@Sa@e@SqCe@_@C]JUPIf@Bj@Xh@XJ|@T|@L",
+    "average_heartrate": 148.3,
+    "average_speed": 2.763,
+    "streak": 1
+  },
+  {
+    "run_id": 7277787548,
+    "name": "First lap relay since high school \ud83e\udd29",
+    "distance": 379.3,
+    "moving_time": "0:01:15",
+    "type": "Run",
+    "start_date": "2022-06-08 23:25:31+00:00",
+    "start_date_local": "2022-06-08 19:25:31",
+    "location_country": "East River Park Track, East River Esplanade, Manhattan Community Board 3, Manhattan, New York County, City of New York, New York, 10009:10010, United States",
+    "summary_polyline": "mkpwFz_obM~@a@HU?c@K_@MQWOuDi@O@[JQXCR?V@VFRVTNHdBTXJl@H",
+    "average_heartrate": 173.1,
+    "average_speed": 5.057,
+    "streak": 1
   }
 ];
 
