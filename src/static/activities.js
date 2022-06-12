@@ -7432,6 +7432,34 @@ const activities = [
     "average_heartrate": 173.1,
     "average_speed": 5.057,
     "streak": 1
+  },
+  {
+    "run_id": 7290225761,
+    "name": "Morning Run",
+    "distance": 2519.6,
+    "moving_time": "0:15:08",
+    "type": "Run",
+    "start_date": "2022-06-11 11:28:25+00:00",
+    "start_date_local": "2022-06-11 07:28:25",
+    "location_country": "1800, Broadway, Manhattan Community Board 5, New York County, City of New York, New York, 10019, United States",
+    "summary_polyline": "}jywFdppbMGEyBLWMC?CFSDi@?c@FWAIIg@}@M]C[GGs@_@UWWMg@c@GKYQaAYkCaB]K[Q_Aq@a@UM[MI]Ke@YoAcAY[a@Ok@e@e@OeAs@QYg@c@m@YW_@WI[QiAu@m@g@eAg@Ua@I?e@_@c@OUSCIYK_@We@U[YMEWUo@a@a@Ki@k@UEIEMQc@MaCsAy@k@m@o@}@]{@q@q@[e@_@i@[EGgB_AWU]UE?OOmCmBGi@Ue@WUk@IgAs@q@KMG{@eAUSi@I[W[_@}@Ua@Oa@a@cAa@SMOWI]OEKGa@I[QUQs@a@a@]c@OgA_AOIUEa@Uq@k@",
+    "average_heartrate": 159.1,
+    "average_speed": 2.775,
+    "streak": 1
+  },
+  {
+    "run_id": 7290607450,
+    "name": "Mini 10K\ud83d\udc57",
+    "distance": 10094.9,
+    "moving_time": "0:48:53",
+    "type": "Run",
+    "start_date": "2022-06-11 12:00:36+00:00",
+    "start_date_local": "2022-06-11 08:00:36",
+    "location_country": "West 90th Street, Upper West Side, Manhattan, New York County, City of New York, New York, 10024, United States",
+    "summary_polyline": "mk}wF|vmbM@JJNfAr@^`@NTvCrBbB~@|@v@j@XfBfAx@b@`FlDjAl@hAx@d@Tb@\\lB~@hAt@`@b@fB~@b@\\d@Rl@\\hAt@d@^xA|@hBnAvApAlAv@pBfA^\\j@Z~@r@p@RDAZa@`@]^@~ANtBg@b@Hd@RvAtAhAt@v@`@pDx@t@\\h@\\~@z@f@n@Zf@^z@n@z@Vf@xAfBl@f@\\d@n@l@`@RjA^f@Ed@U|@m@t@cA`@u@Ti@Zk@L_@p@aB`@yB@w@Go@[o@a@e@yAq@e@[oCmAgAu@m@q@SQ_@g@Ui@Mu@IoAPiAj@yAXcBCw@I_@c@oAu@cA}@g@oAc@c@]_@o@a@{@e@uAg@u@o@k@gAm@wAk@k@Ee@DsAt@YJc@Dg@Ei@Q]W_A{@e@i@Ua@Us@k@qASa@IISGgAEi@@YGsAg@iB_@}Ae@g@SeAk@{AqAy@mAaAkAk@e@uAs@{BcAm@i@_@USUm@iAIWa@sBOwA?m@Jy@F{CMs@[k@WYqBsAoAeAqDuBaC{AkA{@yDeCeAw@uAw@[MSOa@O_DFkAQo@QO@}@J_@Rc@b@g@\\[Hg@Cq@Ke@QaBcAuAkAi@q@gA_B_AkAc@c@g@_@e@Ka@?{@Jc@BgBO{AWi@@EBQd@In@B`APr@Vf@d@t@`AzBPhAB|@En@[r@e@tA}@bBIZZh@Rh@b@`C\\lAXt@Vb@j@r@h@d@xC~Ad@L`A^pAx@TTh@v@\\|@Jb@Rb@h@h@z@\\d@FxAOh@Bd@Nj@d@JJVt@b@bB\\dBl@~AbAxAZ\\d@`@jAv@p@^l@L^@nBOhAa@~@[l@Mf@AZDz@VPNTXf@V|@~@l@p@b@t@v@hBR\\\\f@`@Pj@Nj@Cj@InA?f@Db@Pd@\\b@b@Xb@zBbEb@f@dAbA\\`@b@^Z`@f@d@zBvE`@t@Zf@ZXfAb@b@Jp@BbAKnAExAKj@Ah@Jz@`@NLb@f@LFF]d@mAb@o@r@{@Xe@Pq@@W",
+    "average_heartrate": 167.6,
+    "average_speed": 3.442,
+    "streak": 1
   }
 ];
 
