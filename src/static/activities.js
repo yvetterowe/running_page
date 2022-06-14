@@ -7460,6 +7460,20 @@ const activities = [
     "average_heartrate": 167.6,
     "average_speed": 3.442,
     "streak": 1
+  },
+  {
+    "run_id": 7304376609,
+    "name": "Season kickoff ",
+    "distance": 6909.9,
+    "moving_time": "0:42:24",
+    "type": "Run",
+    "start_date": "2022-06-13 22:06:33+00:00",
+    "start_date_local": "2022-06-13 18:06:33",
+    "location_country": "240, Central Park South, Manhattan, New York County, City of New York, New York, 10019, United States",
+    "summary_polyline": "{mywF~lpbMg@QEIKk@?]RoANi@PaAPg@Bo@I_ACAKa@n@qAl@aBZaBBaBIk@Ye@[]uCwAeAo@eAe@_@Wi@g@mAyAKSYcAGiADq@Je@Pk@Tg@Rs@Fu@Co@Qy@k@cAYa@]]WSa@MuAq@]a@Ya@a@{@g@qAg@eAy@s@Y@KS[Sy@Wm@Gc@BiB`AYHsACa@U_ByAU_@s@oA]cAm@}@_@Se@Cy@Hc@KuAi@a@Kc@GkBe@e@UiBaAa@Yg@m@oAgBuAqA{@a@g@Ya@Mc@Sy@q@k@][YYc@Wc@cAiDmAeAKDADP]Ju@DqA?c@GWGk@Oi@Wc@U[aG{DcAw@uAw@oBqAWUgAo@oDcCo@QsAHm@?o@Eg@Gs@Oe@Qe@My@F[N[ZOh@A^Dn@^lAF^Lf@FpAAt@G~@YvAUn@Ad@B`ADj@P\\l@z@XXTf@Hh@@p@Gr@?p@JtA?v@Cx@KlA@n@ZdB\\p@V^p@l@`@Pp@PzBZr@VbAXf@FbAPl@D^Hn@PVXbA^hAr@nAlA`AlAj@fAHXb@z@`@b@`@X\\Bb@@v@Ex@?p@HrA`@t@v@p@jAjA`Bj@dA^h@x@r@f@n@\\Zt@bAt@nALb@XVPh@\\j@`@l@d@^RX`@Lz@Jb@?xAId@GrBM`@BJIC@j@Px@n@^b@Rd@Lt@Dz@Rh@JNtAnAxBpApAh@tBt@VLt@Td@P\\VrAlAX`@XXl@z@XP`AhBn@z@|ArA^Rn@XPNJVb@DDBBR",
+    "average_heartrate": 167.7,
+    "average_speed": 2.716,
+    "streak": 1
   }
 ];
 
