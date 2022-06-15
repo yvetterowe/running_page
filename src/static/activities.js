@@ -7474,6 +7474,20 @@ const activities = [
     "average_heartrate": 167.7,
     "average_speed": 2.716,
     "streak": 1
+  },
+  {
+    "run_id": 7310112138,
+    "name": "Evening Run",
+    "distance": 6488.6,
+    "moving_time": "0:40:26",
+    "type": "Run",
+    "start_date": "2022-06-14 22:28:52+00:00",
+    "start_date_local": "2022-06-14 18:28:52",
+    "location_country": "Center Drive, Manhattan, New York County, City of New York, New York, 10106, United States",
+    "summary_polyline": "svywFlfobM]IKA?Bj@lF?XCPC|@TdCEJJlCCr@IR?|@Q`AMLs@b@]Es@YaAs@}@kAw@oAOOs@{AcAsAa@]u@g@y@_@uBi@aDyA]S{AkA]i@K_@SkB?s@Ni@Tg@fByBRa@TsA@aBCmADkA\\qBH}@^oAHg@KwA?s@Jm@R[^W`@Ef@Db@HjAd@p@`@f@d@Z\\Vj@NfArAbCNNVNdA^~@d@^d@j@`AP`@Ll@?t@Ip@Sx@Yf@Sj@Ir@@bAHXTx@l@`A\\XPVr@l@hAl@fAf@dAh@b@RH@ZL^X^n@DHD^]pDYpA[z@]n@WX}@pAs@vAe@^qA^k@KWK_Ao@[c@aAw@cBgB_@c@m@mAc@iAYc@k@q@kAy@c@Wg@UiAYi@Wg@Oa@We@McBeAsAoAKOM[Ow@Gy@?g@DSPo@Vg@b@u@t@q@RYLg@Dg@@}@OeC@k@RkAAGCCUEPVDKL}@Xc@Lk@Pc@Dw@Ao@GiAB[L]^YNI`@Gj@EfAZr@Vr@`@RHl@j@L^TdAVn@Xl@b@l@f@d@fBt@TR`@Vf@fAVr@Jh@@z@Ml@Sf@S^i@zA?d@Dj@Hd@`@nAv@bA`AdAjAr@rAn@\\VTDVP~@Z^\\^d@FXBf@Mf@Cb@Mr@?b@YpAAVgAdCk@|@g@f@]ZQZWRa@Tc@Na@?gAk@aAy@w@w@[_@Wa@kAkAo@uAe@mAa@g@Y[c@_@]UZLf@^\\n@z@lA^t@r@`A\\n@^d@j@l@p@v@rAz@r@Xf@JFFb@x@RTFXNd@Vb@Fp@LX",
+    "average_heartrate": 156.4,
+    "average_speed": 2.675,
+    "streak": 2
   }
 ];
 
