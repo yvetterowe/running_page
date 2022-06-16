@@ -7488,6 +7488,20 @@ const activities = [
     "average_heartrate": 156.4,
     "average_speed": 2.675,
     "streak": 2
+  },
+  {
+    "run_id": 7315702836,
+    "name": "Afternoon Run",
+    "distance": 9694.7,
+    "moving_time": "0:54:58",
+    "type": "Run",
+    "start_date": "2022-06-15 21:48:43+00:00",
+    "start_date_local": "2022-06-15 17:48:43",
+    "location_country": "Astor Place Greenmarket, East 8th Street, Manhattan Community Board 2, New York County, City of New York, New York, 10003, United States",
+    "summary_polyline": "u`rwFpjrbMZ_@Pi@BQEa@?c@JgAUSgAg@IcATgA@m@KQ]QUcABy@Ho@r@qAx@}@^}Al@cBJi@@YNk@`AwCPE@EESBGl@kBT}@`@}@|@aD@K^c@VcAbAoCHa@Te@VsAPa@^i@VuA\\q@bAcEP_@XgANKJQPyAJYl@UHSD_ALgAx@mCBS`@]v@oBHa@E{@\\mAJq@y@Wh@TFARiAEIs@[x@d@PA^]Lo@PYZS~BZd@L^Vb@F@NIj@i@@Mb@?zABFJD`ALn@RNYREbBZn@B`@ULe@B{@oA|Ar@KNOD[Ek@Ye@aCe@kAMWLUd@Aj@Ph@`@RlDh@VAZYFSBWGo@U]a@OkDe@c@NMPGV@p@P^XTvBZx@Hb@ETQH]@YIm@][wCk@g@Ce@PUd@Al@Rf@`@TxCd@b@@d@c@Ha@Cc@GWQU{A]mBSQBAFD?c@^GT?p@BRRXZHvDb@ZEVYRo@Im@Uc@a@McDe@w@TUv@Ft@\\b@vDj@^CZ]Ho@Km@_@_@eDg@g@?IB[`@El@FVDN^\\nDh@b@CVYJq@Gi@W[cEs@a@J[d@El@Ph@^XnDd@f@ERSJo@Io@[]iDi@eAXQr@Fl@Z\\bATfCXZEROL_@?{@K_@[[eEi@e@PWb@Cj@Lp@VXjDh@L?DIAIp@GN[Bw@KYOSa@MqDe@e@VOd@Bj@Tf@`@NhDd@\\EZc@Dq@Yu@c@MqDc@K@]VMl@Hn@\\`@bEl@PCZULe@Cq@M[KIc@OeDc@k@TKRGZDf@Rf@f@NzC`@~@e@H]?SG_@QWMKiCa@aAEOJc@p@A\\F^FN^TnDr@BUQp@En@FLHBv@Bc@ICf@Dt@Z@w@K_@PMLSx@kBbGMn@]@WZc@tBc@z@w@pCIh@Of@Wl@OTIZQTYvAWz@Gr@Oj@_@f@]TKd@?h@CNgAvCMv@Ul@{@xDYb@?BSLO^q@dDGj@]v@_@`BQ^]RM\\UbAs@nB]~AKv@Wp@Y\\Y]u@g@GCEDc@x@K`@u@bBMt@g@fB_@r@aB[SMSYmAeA[Ia@z@I`@k@bAOb@Ab@KXGt@w@xB",
+    "average_heartrate": 153.0,
+    "average_speed": 2.94,
+    "streak": 3
   }
 ];
 
