@@ -1,9 +1,9 @@
 module.exports = {
   pathPrefix: process.env.PATH_PREFIX || '/',
   siteMetadata: {
-    siteTitle: '🏃🏻‍♀️',
+    siteTitle: 'Hao\'s Running Journey',
     siteUrl: 'https://run.haoluo.io',
-    logo: 'https://ibb.co/5965gj8',
+    logo: 'https://avatars.githubusercontent.com/u/5595281?v=4',
     description: 'Hao\'s running journey',
     navLinks: [
       {

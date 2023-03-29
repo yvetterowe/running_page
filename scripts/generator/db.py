@@ -100,8 +100,7 @@ def update_or_create_activity(session, run_activity):
             activity = Activity(
                 run_id=run_activity.id,
                 name=run_activity.name,
-                # meters -> miles
-                distance=float(run_activity.distance)/1609.0,
+                distance=float(run_activity.distance),
                 moving_time=run_activity.moving_time,
                 elapsed_time=run_activity.elapsed_time,
                 type=run_activity.type,
@@ -119,7 +118,7 @@ def update_or_create_activity(session, run_activity):
         else:
             activity.name = run_activity.name
             # meters -> miles
-            activity.distance = float(run_activity.distance)/1609.0
+            activity.distance = float(run_activity.distance)
             activity.moving_time = run_activity.moving_time
             activity.elapsed_time = run_activity.elapsed_time
             activity.type = run_activity.type
@@ -132,7 +131,6 @@ def update_or_create_activity(session, run_activity):
         print(f"something wrong with {run_activity.id}")
         print(str(e))
         pass
-
     return created
 
 
