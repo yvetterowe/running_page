@@ -3,7 +3,7 @@ module.exports = {
   siteMetadata: {
     siteTitle: '🏃🏻‍♀️',
     siteUrl: 'https://run.haoluo.io',
-    logo: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU',
+    logo: 'https://ibb.co/5965gj8',
     description: 'Hao\'s running journey',
     navLinks: [
       {
