@@ -15,7 +15,7 @@ const titleForShow = (run) => {
   if (run.name) {
     name = run.name;
   }
-  return `${name} ${date} ${distance} KM ${
+  return `${name} ${date} ${distance} MI ${
     !run.summary_polyline ? '(No map data for this run)' : ''
   }`;
 };
