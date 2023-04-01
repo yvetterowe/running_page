@@ -25,8 +25,8 @@ env:
   RUN_TYPE: strava # support strava/nike/garmin/garmin_cn/keep/only_gpx/nike_to_strava/strava_to_garmin/strava_to_garmin_cn/garmin_to_strava/garmin_to_strava_cn, Please change the 'pass' it to your own
   ATHLETE: Hao Luo
   TITLE: <(￣︶￣)>
-  MIN_GRID_DISTANCE: 10 # change min distance here
-  TITLE_GRID: ٩(๑>◡<๑)۶ # also here
+  MIN_GRID_DISTANCE: 16 # change min distance here (km)
+  TITLE_GRID: Over 10mi Long Runs ٩(๑>◡<๑)۶ # also here
   GITHUB_NAME: yvetterowe
   GITHUB_EMAIL: yvetterowe1116@gmail.com
 
