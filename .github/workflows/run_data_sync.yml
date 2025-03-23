@@ -50,7 +50,7 @@ jobs:
           echo "PIP_CACHE=$(pip cache dir)" >> $GITHUB_OUTPUT
 
       - name: Cache PIP
-        uses: actions/cache@v2
+        uses: actions/cache@v4
         with:
           path: ${{ steps.set_variables.outputs.PIP_CACHE }}
           key: Ubuntu-pip-${{ steps.set_variables.outputs.PY }}
