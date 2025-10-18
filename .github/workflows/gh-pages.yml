@@ -1,6 +1,6 @@
 name: Publish GitHub Pages
 
-# Controls when the action will run. 
+# Controls when the action will run.
 on:
   # trigger when the Run Data Sync workflow succeeded
   workflow_run:
@@ -17,6 +17,9 @@ jobs:
   build:
     # The type of runner that the job will run on
     runs-on: ubuntu-latest
+
+    # Only run if the triggering workflow succeeded (or if manually triggered)
+    if: ${{ github.event.workflow_run.conclusion == 'success' || github.event_name == 'workflow_dispatch' }}
 
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
@@ -40,12 +43,29 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-yarn-
 
-      - run: |
-          yarn install
-      - run: |
-          PATH_PREFIX=/${{ github.event.repository.name }} yarn build --prefix-paths
-      - run: |
-          cp -r assets/ public/static
+      - name: Install dependencies
+        run: yarn install
+
+      - name: Build site
+        run: PATH_PREFIX=/${{ github.event.repository.name }} yarn build --prefix-paths
+        env:
+          NODE_ENV: production
+          CI: true
+
+      - name: Copy assets
+        run: cp -r assets/ public/static
+
+      - name: Verify build output
+        run: |
+          if [ ! -d "public" ]; then
+            echo "Error: Build failed - public directory not found"
+            exit 1
+          fi
+          if [ ! -f "public/index.html" ]; then
+            echo "Error: Build failed - index.html not found"
+            exit 1
+          fi
+          echo "Build verification successful"
 
       - name: GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.2.0

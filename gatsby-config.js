@@ -74,27 +74,43 @@ module.exports = {
     {
       resolve: `gatsby-plugin-offline`,
       options: {
-        runtimeCaching: [
-          {
-            urlPattern: /^https?:.*\/icons\/.*\.png/,
-            handler: `CacheFirst`,
-          },
-          {
-            urlPattern:
-              /^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/,
-            handler: `StaleWhileRevalidate`,
-          },
-          {
-            urlPattern: /^https?:\/\/api\.mapbox\.com\//,
-            handler: `StaleWhileRevalidate`,
-          },
-          {
-            urlPattern: /^https?:.*\/page-data\/.*\.json/,
-            handler: `StaleWhileRevalidate`,
-          },
-        ],
-        skipWaiting: true,
-        clientsClaim: true,
+        workboxConfig: {
+          // Force service worker to update immediately
+          skipWaiting: true,
+          clientsClaim: true,
+          // Check for updates more frequently (every 2 hours)
+          runtimeCaching: [
+            {
+              urlPattern: /^https?:.*\/icons\/.*\.png/,
+              handler: `CacheFirst`,
+            },
+            {
+              urlPattern:
+                /^https?:.*\.(png|jpg|jpeg|webp|svg|gif|tiff|js|woff|woff2|json|css)$/,
+              handler: `StaleWhileRevalidate`,
+            },
+            {
+              urlPattern: /^https?:\/\/api\.mapbox\.com\//,
+              handler: `StaleWhileRevalidate`,
+            },
+            {
+              // Critical: Force network-first for page data to get latest content
+              urlPattern: /^https?:.*\/page-data\/.*\.json/,
+              handler: `NetworkFirst`,
+              options: {
+                networkTimeoutSeconds: 3,
+              },
+            },
+            {
+              // Force network-first for app data to get latest activities
+              urlPattern: /^https?:.*\/static\/activities\.json/,
+              handler: `NetworkFirst`,
+              options: {
+                networkTimeoutSeconds: 3,
+              },
+            },
+          ],
+        },
       },
     },
   ],
