@@ -73,7 +73,7 @@
   "volta": {
     "node": "20.10.0",
     "yarn": "1.22.19"
-  }
+  },
   "pnpm": {
     "overrides": {
       "@types/node": "^24.2.1"
