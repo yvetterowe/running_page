@@ -1,4 +1,5 @@
 """Create a poster from track data."""
+
 import gettext
 import locale
 from collections import defaultdict
@@ -162,78 +163,78 @@ class Poster:
             weeks,
         ) = self.__compute_track_statistics()
 
-#        d.add(
-#            d.text(
-#                self.trans("ATHLETE"),
-#                insert=(10, self.height - 20),
-#                fill=text_color,
-#                style=header_style,
-#            )
-#        )
-#        d.add(
-#            d.text(
-#                self.athlete,
-#                insert=(10, self.height - 10),
-#                fill=text_color,
-#                style=value_style,
-#            )
-#        )
-#        d.add(
-#            d.text(
-#                self.trans("STATISTICS"),
-#                insert=(120, self.height - 20),
-#                fill=text_color,
-#                style=header_style,
-#            )
-#        )
-#        d.add(
-#            d.text(
-#                self.trans("Number") + f": {len(self.tracks)}",
-#                insert=(120, self.height - 15),
-#                fill=text_color,
-#                style=small_value_style,
-#            )
-#        )
-#        d.add(
-#            d.text(
-#                self.trans("Weekly") + ": " + format_float(len(self.tracks) / weeks),
-#                insert=(120, self.height - 10),
-#                fill=text_color,
-#                style=small_value_style,
-#            )
-#        )
-#        d.add(
-#            d.text(
-#                self.trans("Total") + ": " + self.format_distance(total_length),
-#                insert=(141, self.height - 15),
-#                fill=text_color,
-#                style=small_value_style,
-#            )
-#        )
-#        d.add(
-#            d.text(
-#                self.trans("Avg") + ": " + self.format_distance(average_length),
-#                insert=(141, self.height - 10),
-#                fill=text_color,
-#                style=small_value_style,
-#            )
-#        )
-#        d.add(
-#            d.text(
-#                self.trans("Min") + ": " + self.format_distance(min_length),
-#                insert=(167, self.height - 15),
-#                fill=text_color,
-#                style=small_value_style,
-#            )
-#        )
-#        d.add(
-#            d.text(
-#                self.trans("Max") + ": " + self.format_distance(max_length),
-#                insert=(167, self.height - 10),
-#                fill=text_color,
-#                style=small_value_style,
-#            )
-#        )
+    #        d.add(
+    #            d.text(
+    #                self.trans("ATHLETE"),
+    #                insert=(10, self.height - 20),
+    #                fill=text_color,
+    #                style=header_style,
+    #            )
+    #        )
+    #        d.add(
+    #            d.text(
+    #                self.athlete,
+    #                insert=(10, self.height - 10),
+    #                fill=text_color,
+    #                style=value_style,
+    #            )
+    #        )
+    #        d.add(
+    #            d.text(
+    #                self.trans("STATISTICS"),
+    #                insert=(120, self.height - 20),
+    #                fill=text_color,
+    #                style=header_style,
+    #            )
+    #        )
+    #        d.add(
+    #            d.text(
+    #                self.trans("Number") + f": {len(self.tracks)}",
+    #                insert=(120, self.height - 15),
+    #                fill=text_color,
+    #                style=small_value_style,
+    #            )
+    #        )
+    #        d.add(
+    #            d.text(
+    #                self.trans("Weekly") + ": " + format_float(len(self.tracks) / weeks),
+    #                insert=(120, self.height - 10),
+    #                fill=text_color,
+    #                style=small_value_style,
+    #            )
+    #        )
+    #        d.add(
+    #            d.text(
+    #                self.trans("Total") + ": " + self.format_distance(total_length),
+    #                insert=(141, self.height - 15),
+    #                fill=text_color,
+    #                style=small_value_style,
+    #            )
+    #        )
+    #        d.add(
+    #            d.text(
+    #                self.trans("Avg") + ": " + self.format_distance(average_length),
+    #                insert=(141, self.height - 10),
+    #                fill=text_color,
+    #                style=small_value_style,
+    #            )
+    #        )
+    #        d.add(
+    #            d.text(
+    #                self.trans("Min") + ": " + self.format_distance(min_length),
+    #                insert=(167, self.height - 15),
+    #                fill=text_color,
+    #                style=small_value_style,
+    #            )
+    #        )
+    #        d.add(
+    #            d.text(
+    #                self.trans("Max") + ": " + self.format_distance(max_length),
+    #                insert=(167, self.height - 10),
+    #                fill=text_color,
+    #                style=small_value_style,
+    #            )
+    #        )
 
     def __compute_track_statistics(self):
         length_range = ValueRange()
