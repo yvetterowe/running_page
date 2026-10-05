@@ -51,6 +51,9 @@
   },
   "engineStrict": true,
   "browserslist": "defaults, not ie 11",
+  "resolutions": {
+    "msgpackr": "1.11.2"
+  },
   "engines": {
     "node": "24.x"
   },
